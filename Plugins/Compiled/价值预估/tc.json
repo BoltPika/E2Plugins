@@ -90,12 +90,6 @@
         "class": ""
     },
     {
-        "label": "Smash to Smithereens",
-        "value": "Smash_to_Smithereens",
-        "desc": "技能寶石",
-        "class": "gemitem"
-    },
-    {
         "label": "Version 0.2.0h",
         "value": "Version_0.2.0h",
         "desc": "Wiki",
@@ -2583,12 +2577,6 @@
         "label": "先行者的秘密",
         "value": "Secrets_of_the_Ancients",
         "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "先行者碑牌",
-        "value": "Tablets",
-        "desc": "Keywords",
         "class": ""
     },
     {
@@ -8244,6 +8232,12 @@
         "class": "item_currency"
     },
     {
+        "label": "完美熔劑",
+        "value": "Perfect_Flux",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
+    },
+    {
         "label": "完美磨礪精髓",
         "value": "Perfect_Essence_of_Abrasion",
         "desc": "可堆疊通貨",
@@ -8572,6 +8566,12 @@
         "value": "Rearguard",
         "desc": "傳奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "寒霜之歌",
+        "value": "Rhythm_of_Ice",
+        "desc": "Passive",
+        "class": ""
     },
     {
         "label": "寒霜之鏢",
@@ -12966,6 +12966,12 @@
         "class": ""
     },
     {
+        "label": "換界石（階級 10）",
+        "value": "Waystone_%28Tier_10%29",
+        "desc": "換界石",
+        "class": ""
+    },
+    {
         "label": "換界石（階級 11）",
         "value": "Waystone_%28Tier_11%29",
         "desc": "換界石",
@@ -13003,31 +13009,55 @@
     },
     {
         "label": "換界石（階級 1）",
-        "value": "Waystone_%28Tier_6%29",
+        "value": "Waystone_%28Tier_1%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 2）",
-        "value": "Waystone_%28Tier_7%29",
+        "value": "Waystone_%28Tier_2%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 3）",
-        "value": "Waystone_%28Tier_8%29",
+        "value": "Waystone_%28Tier_3%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 4）",
-        "value": "Waystone_%28Tier_9%29",
+        "value": "Waystone_%28Tier_4%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 5）",
-        "value": "Waystone_%28Tier_10%29",
+        "value": "Waystone_%28Tier_5%29",
+        "desc": "換界石",
+        "class": ""
+    },
+    {
+        "label": "換界石（階級 6）",
+        "value": "Waystone_%28Tier_6%29",
+        "desc": "換界石",
+        "class": ""
+    },
+    {
+        "label": "換界石（階級 7）",
+        "value": "Waystone_%28Tier_7%29",
+        "desc": "換界石",
+        "class": ""
+    },
+    {
+        "label": "換界石（階級 8）",
+        "value": "Waystone_%28Tier_8%29",
+        "desc": "換界石",
+        "class": ""
+    },
+    {
+        "label": "換界石（階級 9）",
+        "value": "Waystone_%28Tier_9%29",
         "desc": "換界石",
         "class": ""
     },
@@ -18828,6 +18858,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "烈焰之歌",
+        "value": "Rhythm_of_Fire",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "烈焰之牆",
         "value": "Flame_Wall",
         "desc": "技能寶石",
@@ -21324,12 +21360,6 @@
         "class": ""
     },
     {
-        "label": "生育寶珠",
-        "value": "Perfect_Flux",
-        "desc": "可堆疊通貨",
-        "class": "item_currency"
-    },
-    {
         "label": "生酮飲食",
         "value": "Robust_Diet",
         "desc": "永恆珠寶",
@@ -22561,8 +22591,8 @@
     },
     {
         "label": "碑牌",
-        "value": "Tablet",
-        "desc": "Item Classes",
+        "value": "Tablets",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -23676,12 +23706,6 @@
         "class": ""
     },
     {
-        "label": "符形組合",
-        "value": "Runeshape_Combinations",
-        "desc": "Wiki",
-        "class": ""
-    },
-    {
         "label": "符文",
         "value": "Runic",
         "desc": "Keywords",
@@ -23808,60 +23832,6 @@
         "class": ""
     },
     {
-        "label": "符文精煉加長細杖",
-        "value": "Runemastered_Long_Quarterstaff",
-        "desc": "細杖",
-        "class": ""
-    },
-    {
-        "label": "符文精煉墮落巨棍棒",
-        "value": "Runemastered_Felled_Greatclub",
-        "desc": "雙手錘",
-        "class": ""
-    },
-    {
-        "label": "符文精煉家族魔符",
-        "value": "Runemastered_Familial_Talisman",
-        "desc": "魔符",
-        "class": ""
-    },
-    {
-        "label": "符文精煉橡木巨錘",
-        "value": "Runemastered_Oak_Greathammer",
-        "desc": "雙手錘",
-        "class": ""
-    },
-    {
-        "label": "符文精煉緊繃十字弓",
-        "value": "Runemastered_Tense_Crossbow",
-        "desc": "十字弓",
-        "class": ""
-    },
-    {
-        "label": "符文精煉蕁麻魔符",
-        "value": "Runemastered_Nettle_Talisman",
-        "desc": "魔符",
-        "class": ""
-    },
-    {
-        "label": "符文精煉鐵木長矛",
-        "value": "Runemastered_Ironhead_Spear",
-        "desc": "長矛",
-        "class": ""
-    },
-    {
-        "label": "符文精煉鑲釘巨棍棒",
-        "value": "Runemastered_Studded_Greatclub",
-        "desc": "雙手錘",
-        "class": ""
-    },
-    {
-        "label": "符文精煉雙生十字弓",
-        "value": "Runemastered_Dyad_Crossbow",
-        "desc": "十字弓",
-        "class": ""
-    },
-    {
         "label": "符文紋身",
         "value": "Runic_Tattoos",
         "desc": "永恆珠寶",
@@ -23880,14 +23850,1274 @@
         "class": ""
     },
     {
-        "label": "符鍛串珠頭環",
+        "label": "符煉串珠頭環",
         "value": "Runemastered_Beaded_Circlet",
         "desc": "頭部",
         "class": ""
     },
     {
-        "label": "符鍛乾草便鞋",
+        "label": "符煉乾草便鞋",
         "value": "Runemastered_Straw_Sandals",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉修士裝束",
+        "value": "Runemastered_Marabout_Garb",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉假面之盔",
+        "value": "Runemastered_Visored_Helm",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉元素使長袍",
+        "value": "Runemastered_Elementalist_Robe",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉兇猛巨盔",
+        "value": "Runemastered_Fierce_Greathelm",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉先祖鎖甲",
+        "value": "Runemastered_Ancestral_Mail",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉凱斯之衣",
+        "value": "Runemastered_Keth_Raiment",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉刀刃",
+        "value": "Runeforged_Blades",
+        "desc": "輔助寶石",
+        "class": "gemitem"
+    },
+    {
+        "label": "符煉分段護腕",
+        "value": "Runemastered_Sectioned_Bracers",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉刺客裝束",
+        "value": "Runemastered_Assassin_Garb",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉刺繡手套",
+        "value": "Runemastered_Embroidered_Gloves",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉加固塔盾",
+        "value": "Runemastered_Braced_Tower_Shield",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符煉加固鎧靴",
+        "value": "Runemastered_Braced_Sabatons",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉加固長手套",
+        "value": "Runemastered_Bolstered_Mitts",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉加長細杖",
+        "value": "Runemastered_Long_Quarterstaff",
+        "desc": "細杖",
+        "class": ""
+    },
+    {
+        "label": "符煉古老護衛盾",
+        "value": "Runemastered_Venerable_Defender",
+        "desc": "輕盾",
+        "class": ""
+    },
+    {
+        "label": "符煉咒術師長袍",
+        "value": "Runemastered_Hexers_Robe",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉啟蒙長袍",
+        "value": "Runemastered_Enlightened_Robe",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉堅固之面",
+        "value": "Runemastered_Solid_Mask",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉堅鋼鎧甲",
+        "value": "Runemastered_Steel_Plate",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉墮落巨棍棒",
+        "value": "Runemastered_Felled_Greatclub",
+        "desc": "雙手錘",
+        "class": ""
+    },
+    {
+        "label": "符煉壁壘塔盾",
+        "value": "Runemastered_Rampart_Tower_Shield",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符煉士兵巨盔",
+        "value": "Runemastered_Soldier_Greathelm",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉天鵝絨便帽",
+        "value": "Runemastered_Velvet_Cap",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉嫩枝頭環",
+        "value": "Runemastered_Twig_Circlet",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉宏偉手鐲",
+        "value": "Runemastered_Grand_Manchettes",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉宏偉腿甲",
+        "value": "Runemastered_Grand_Cuisses",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉宏偉華服",
+        "value": "Runemastered_Grand_Regalia",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉家徽紋章盾",
+        "value": "Runemastered_Blazon_Crest_Shield",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符煉家族魔符",
+        "value": "Runemastered_Familial_Talisman",
+        "desc": "魔符",
+        "class": ""
+    },
+    {
+        "label": "符煉實用裹手",
+        "value": "Runemastered_Utility_Wraps",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉寶石手套",
+        "value": "Runemastered_Jewelled_Gloves",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉尊敬法衣",
+        "value": "Runemastered_Revered_Vestments",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉尖刺輕盾",
+        "value": "Runemastered_Spiked_Buckler",
+        "desc": "輕盾",
+        "class": ""
+    },
+    {
+        "label": "符煉尖頂巨盔",
+        "value": "Runemastered_Spired_Greathelm",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉層板護手",
+        "value": "Runemastered_Layered_Gauntlets",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉岩石脛甲",
+        "value": "Runemastered_Stone_Greaves",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉巫毒法器",
+        "value": "Runemastered_Voodoo_Focus",
+        "desc": "法器",
+        "class": ""
+    },
+    {
+        "label": "符煉幻象鎖鏈",
+        "value": "Runemastered_Veridical_Chain",
+        "desc": "項鍊",
+        "class": ""
+    },
+    {
+        "label": "符煉庇護之盔",
+        "value": "Runemastered_Shielded_Helm",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉庇護細杖",
+        "value": "Runemastered_Warding_Quarterstaff",
+        "desc": "細杖",
+        "class": ""
+    },
+    {
+        "label": "符煉彩繪塔盾",
+        "value": "Runemastered_Painted_Tower_Shield",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符煉徽印紋章盾",
+        "value": "Runemastered_Emblem_Crest_Shield",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符煉怪異攻城錘",
+        "value": "Runemastered_Aberrant_Sledge",
+        "desc": "雙手錘",
+        "class": ""
+    },
+    {
+        "label": "符煉恐喙鳥皮外套",
+        "value": "Runemastered_Rhoahide_Coat",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉戰士巨盔",
+        "value": "Runemastered_Warrior_Greathelm",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉打蠟外衣",
+        "value": "Runemastered_Waxed_Jacket",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉投機者外衣",
+        "value": "Runemastered_Scalpers_Jacket",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉拋光護手",
+        "value": "Runemastered_Burnished_Gauntlets",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉排列輕盾",
+        "value": "Runemastered_Array_Buckler",
+        "desc": "輕盾",
+        "class": ""
+    },
+    {
+        "label": "符煉探索者護甲",
+        "value": "Runemastered_Explorer_Armour",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉撕裂手套",
+        "value": "Runemastered_Torn_Gloves",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉教士法衣",
+        "value": "Runemastered_Cleric_Vestments",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉教徒之冠",
+        "value": "Runemastered_Cultist_Crown",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉斗篷之盔",
+        "value": "Runemastered_Cowled_Helm",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉斗篷鎖甲",
+        "value": "Runemastered_Cloaked_Mail",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉斥侯背心",
+        "value": "Runemastered_Scouts_Vest",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉新月圓盾",
+        "value": "Runemastered_Crescent_Targe",
+        "desc": "輕盾",
+        "class": ""
+    },
+    {
+        "label": "符煉旅人外衣",
+        "value": "Runemastered_Wayfarer_Jacket",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉暗淡手套",
+        "value": "Runemastered_Sombre_Gloves",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉朝聖者法衣",
+        "value": "Runemastered_Pilgrim_Vestments",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉木製棍棒",
+        "value": "Runemastered_Wooden_Club",
+        "desc": "單手錘",
+        "class": ""
+    },
+    {
+        "label": "符煉木頭輕盾",
+        "value": "Runemastered_Wooden_Buckler",
+        "desc": "輕盾",
+        "class": ""
+    },
+    {
+        "label": "符煉朽木塔盾",
+        "value": "Runemastered_Splintered_Tower_Shield",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符煉枝條法器",
+        "value": "Runemastered_Twig_Focus",
+        "desc": "法器",
+        "class": ""
+    },
+    {
+        "label": "符煉枝條頭冠",
+        "value": "Runemastered_Wicker_Tiara",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉格子便鞋",
+        "value": "Runemastered_Lattice_Sandals",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉棘刺護腕",
+        "value": "Runemastered_Spined_Bracers",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉橡木巨錘",
+        "value": "Runemastered_Oak_Greathammer",
+        "desc": "雙手錘",
+        "class": ""
+    },
+    {
+        "label": "符煉歌德細杖",
+        "value": "Runemastered_Gothic_Quarterstaff",
+        "desc": "細杖",
+        "class": ""
+    },
+    {
+        "label": "符煉死亡之面",
+        "value": "Runemastered_Death_Mask",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉殉難之冠",
+        "value": "Runemastered_Martyr_Crown",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉殘破長袍",
+        "value": "Runemastered_Tattered_Robe",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉毒蛇便帽",
+        "value": "Runemastered_Viper_Cap",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉毛氈便帽",
+        "value": "Runemastered_Felt_Cap",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉水晶法器",
+        "value": "Runemastered_Crystal_Focus",
+        "desc": "法器",
+        "class": ""
+    },
+    {
+        "label": "符煉沉重之冠",
+        "value": "Runemastered_Heavy_Crown",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉泰坦長手套",
+        "value": "Runemastered_Titan_Mitts",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉流浪者護甲",
+        "value": "Runemastered_Vagabond_Armour",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉浮雕長靴",
+        "value": "Runemastered_Embossed_Boots",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉海盜便帽",
+        "value": "Runemastered_Corsair_Cap",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉海靈鱗手套",
+        "value": "Runemastered_Pauascale_Gloves",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉淬鍊長手套",
+        "value": "Runemastered_Tempered_Mitts",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉潮汐先知披肩",
+        "value": "Runemastered_Tideseer_Mantle",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉烏鴉披肩",
+        "value": "Runemastered_Corvus_Mantle",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉牢固護腿",
+        "value": "Runemastered_Secured_Leggings",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉犄角之冠",
+        "value": "Runemastered_Horned_Crown",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉狩獵輕鞋",
+        "value": "Runemastered_Hunting_Shoes",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉獵者之兜",
+        "value": "Runemastered_Hunter_Hood",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉獻祭披肩",
+        "value": "Runemastered_Sacrificial_Mantle",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉獻祭法衣",
+        "value": "Runemastered_Sacrificial_Regalia",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉環鎖護手",
+        "value": "Runemastered_Ringmail_Gauntlets",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉瓦爾胸甲",
+        "value": "Runemastered_Vaal_Cuirass",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉生鏽胸甲",
+        "value": "Runemastered_Rusted_Cuirass",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉疊層鎧靴",
+        "value": "Runemastered_Stacked_Sabatons",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉疾行者背心",
+        "value": "Runemastered_Strider_Vest",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉皮革兜帽",
+        "value": "Runemastered_Leatherbound_Hood",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉皮革背心",
+        "value": "Runemastered_Leather_Vest",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉皮革輕盾",
+        "value": "Runemastered_Leather_Buckler",
+        "desc": "輕盾",
+        "class": ""
+    },
+    {
+        "label": "符煉盜賊護甲",
+        "value": "Runemastered_Rogue_Armour",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉盤繞裹手",
+        "value": "Runemastered_Spiral_Wraps",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉破舊兜帽",
+        "value": "Runemastered_Shabby_Hood",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉硬木圓盾",
+        "value": "Runemastered_Hardwood_Targe",
+        "desc": "輕盾",
+        "class": ""
+    },
+    {
+        "label": "符煉磨煉塔盾",
+        "value": "Runemastered_Crucible_Tower_Shield",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符煉磨難棍棒",
+        "value": "Runemastered_Torment_Club",
+        "desc": "單手錘",
+        "class": ""
+    },
+    {
+        "label": "符煉祭壇長袍",
+        "value": "Runemastered_Altar_Robe",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉禍害之衣",
+        "value": "Runemastered_Havoc_Raiment",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉穩固護腕",
+        "value": "Runemastered_Firm_Bracers",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉符印紋章盾",
+        "value": "Runemastered_Sigil_Crest_Shield",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符煉籠罩背心",
+        "value": "Runemastered_Shrouded_Vest",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉粗糙脛甲",
+        "value": "Runemastered_Rough_Greaves",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉粗製之面",
+        "value": "Runemastered_Hewn_Mask",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉精妙手套",
+        "value": "Runemastered_Intricate_Gloves",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉精美背心",
+        "value": "Runemastered_Exquisite_Vest",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉精良護腕",
+        "value": "Runemastered_Fine_Bracers",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉紋刻法器",
+        "value": "Runemastered_Engraved_Focus",
+        "desc": "法器",
+        "class": ""
+    },
+    {
+        "label": "符煉紋章塔盾",
+        "value": "Runemastered_Heraldric_Tower_Shield",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符煉紗布裹手",
+        "value": "Runemastered_Gauze_Wraps",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉結實長手套",
+        "value": "Runemastered_Stocky_Mitts",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉絲絨輕鞋",
+        "value": "Runemastered_Velour_Shoes",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉絲綢便鞋",
+        "value": "Runemastered_Silk_Slippers",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉絲質之袍",
+        "value": "Runemastered_Silk_Robe",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉維里西姆腕帶",
+        "value": "Runemastered_Verisium_Cuffs",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉緊繃十字弓",
+        "value": "Runemastered_Tense_Crossbow",
+        "desc": "十字弓",
+        "class": ""
+    },
+    {
+        "label": "符煉編織法器",
+        "value": "Runemastered_Woven_Focus",
+        "desc": "法器",
+        "class": ""
+    },
+    {
+        "label": "符煉縫合手套",
+        "value": "Runemastered_Stitched_Gloves",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉縫紉輕鞋",
+        "value": "Runemastered_Threaded_Shoes",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉繩索腕帶",
+        "value": "Runemastered_Rope_Cuffs",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉繫帶長靴",
+        "value": "Runemastered_Cinched_Boots",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉纏繞巨盔",
+        "value": "Runemastered_Wrapped_Greathelm",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉羽毛便鞋",
+        "value": "Runemastered_Feathered_Sandals",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉羽毛長袍",
+        "value": "Runemastered_Feathered_Robe",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉羽毛頭冠",
+        "value": "Runemastered_Feathered_Tiara",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉羽飾法器",
+        "value": "Runemastered_Plumed_Focus",
+        "desc": "法器",
+        "class": ""
+    },
+    {
+        "label": "符煉翠玉頭冠",
+        "value": "Runemastered_Jade_Tiara",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉脊狀輕盾",
+        "value": "Runemastered_Ridged_Buckler",
+        "desc": "輕盾",
+        "class": ""
+    },
+    {
+        "label": "符煉英雄護甲",
+        "value": "Runemastered_Heroic_Armour",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉菁英巨盔",
+        "value": "Runemastered_Elite_Greathelm",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉華麗輕盾",
+        "value": "Runemastered_Ornate_Buckler",
+        "desc": "輕盾",
+        "class": ""
+    },
+    {
+        "label": "符煉蕁麻魔符",
+        "value": "Runemastered_Nettle_Talisman",
+        "desc": "魔符",
+        "class": ""
+    },
+    {
+        "label": "符煉薩滿披肩",
+        "value": "Runemastered_Shaman_Mantle",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉蛇鱗外套",
+        "value": "Runemastered_Serpentscale_Coat",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉蜥蜴鱗長靴",
+        "value": "Runemastered_Lizardscale_Boots",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉裝甲便帽",
+        "value": "Runemastered_Armoured_Cap",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉裝甲背心",
+        "value": "Runemastered_Armoured_Vest",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉裝飾之盔",
+        "value": "Runemastered_Decorated_Helm",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉裹腳便鞋",
+        "value": "Runemastered_Wrapped_Sandals",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉襯墊背心",
+        "value": "Runemastered_Quilted_Vest",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉警惕之盔",
+        "value": "Runemastered_Guarded_Helm",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉護臉之面",
+        "value": "Runemastered_Face_Mask",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉走私者外套",
+        "value": "Runemastered_Smuggler_Coat",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉追獵者外套",
+        "value": "Runemastered_Pathfinder_Coat",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉連身鎧甲",
+        "value": "Runemastered_Full_Plate",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉遠古護腿",
+        "value": "Runemastered_Ancient_Leggings",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉遠古鎖甲",
+        "value": "Runemastered_Ancient_Mail",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉遮蓋鎧靴",
+        "value": "Runemastered_Covered_Sabatons",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉還願之衣",
+        "value": "Runemastered_Votive_Raiment",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉邊緣之盔",
+        "value": "Runemastered_Brimmed_Helm",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉部落之面",
+        "value": "Runemastered_Tribal_Mask",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉野性標記",
+        "value": "Runemastered_Primal_Markings",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉金鑄腕帶",
+        "value": "Runemastered_Goldcast_Cuffs",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉鉚接長手套",
+        "value": "Runemastered_Riveted_Mitts",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉鋼板輕盾",
+        "value": "Runemastered_Plated_Buckler",
+        "desc": "輕盾",
+        "class": ""
+    },
+    {
+        "label": "符煉錯綜紋章盾",
+        "value": "Runemastered_Intricate_Crest_Shield",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符煉鍍金法衣",
+        "value": "Runemastered_Gilded_Vestments",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉鍍金頭環",
+        "value": "Runemastered_Vermeil_Circlet",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉鍛鐵之冠",
+        "value": "Runemastered_Iron_Crown",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉鍛鐵胸甲",
+        "value": "Runemastered_Iron_Cuirass",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉鍛鐵輕盾",
+        "value": "Runemastered_Iron_Buckler",
+        "desc": "輕盾",
+        "class": ""
+    },
+    {
+        "label": "符煉鎖甲法衣",
+        "value": "Runemastered_Mail_Vestments",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉鎖甲鎧靴",
+        "value": "Runemastered_Mail_Sabatons",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉鎖鍊鎖甲",
+        "value": "Runemastered_Chain_Mail",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉鎖鍊頭冠",
+        "value": "Runemastered_Chain_Tiara",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉鎧甲之衣",
+        "value": "Runemastered_Plated_Raiment",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉鎧甲護手",
+        "value": "Runemastered_Plate_Gauntlets",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉鏽蝕巨盔",
+        "value": "Runemastered_Rusted_Greathelm",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉鐵木長矛",
+        "value": "Runemastered_Ironhead_Spear",
+        "desc": "長矛",
+        "class": ""
+    },
+    {
+        "label": "符煉鐵甲法衣",
+        "value": "Runemastered_Ironclad_Vestments",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉鐵鍛脛甲",
+        "value": "Runemastered_Iron_Greaves",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉鑄模長手套",
+        "value": "Runemastered_Moulded_Mitts",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉鑲邊脛甲",
+        "value": "Runemastered_Trimmed_Greaves",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉鑲釘巨棍棒",
+        "value": "Runemastered_Studded_Greatclub",
+        "desc": "雙手錘",
+        "class": ""
+    },
+    {
+        "label": "符煉鑲釘背心",
+        "value": "Runemastered_Studded_Vest",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉陳舊腕帶",
+        "value": "Runemastered_Aged_Cuffs",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉障壁塔盾",
+        "value": "Runemastered_Barricade_Tower_Shield",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符煉隱匿之面",
+        "value": "Runemastered_Veiled_Mask",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉隱士裝束",
+        "value": "Runemastered_Hermit_Garb",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉隱秘裹手",
+        "value": "Runemastered_Furtive_Wraps",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉隱者裝束",
+        "value": "Runemastered_Anchorite_Garb",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉隱蔽兜帽",
+        "value": "Runemastered_Covert_Hood",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉雙層護手",
+        "value": "Runemastered_Doubled_Gauntlets",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉雙生十字弓",
+        "value": "Runemastered_Dyad_Crossbow",
+        "desc": "十字弓",
+        "class": ""
+    },
+    {
+        "label": "符煉靈鹿法器",
+        "value": "Runemastered_Antler_Focus",
+        "desc": "法器",
+        "class": ""
+    },
+    {
+        "label": "符煉青銅脛甲",
+        "value": "Runemastered_Bronze_Greaves",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉音調法器",
+        "value": "Runemastered_Tonal_Focus",
+        "desc": "法器",
+        "class": ""
+    },
+    {
+        "label": "符煉響聲紋章盾",
+        "value": "Runemastered_Jingling_Crest_Shield",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符煉預兆紋章盾",
+        "value": "Runemastered_Omen_Crest_Shield",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符煉風帽之面",
+        "value": "Runemastered_Hooded_Mask",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉飾帶長靴",
+        "value": "Runemastered_Laced_Boots",
+        "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉馬拉克斯胸甲",
+        "value": "Runemastered_Maraketh_Cuirass",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉騎士護甲",
+        "value": "Runemastered_Knight_Armour",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉骸骨之衣",
+        "value": "Runemastered_Bone_Raiment",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉魂骨之冠",
+        "value": "Runemastered_Spiritbone_Crown",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉鱗片鎖甲",
+        "value": "Runemastered_Scale_Mail",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉麂皮護腕",
+        "value": "Runemastered_Suede_Bracers",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉麻布裹手",
+        "value": "Runemastered_Linen_Wraps",
+        "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉黃金頭環",
+        "value": "Runemastered_Gold_Circlet",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉黑暗之冠",
+        "value": "Runemastered_Tenebrous_Crown",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉黑鋼塔盾",
+        "value": "Runemastered_Blacksteel_Tower_Shield",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符鍛串珠頭環",
+        "value": "Runeforged_Beaded_Circlet",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符鍛乾草便鞋",
+        "value": "Runeforged_Straw_Sandals",
         "desc": "鞋子",
         "class": ""
     },
@@ -23935,13 +25165,13 @@
     },
     {
         "label": "符鍛修士裝束",
-        "value": "Runemastered_Marabout_Garb",
+        "value": "Runeforged_Marabout_Garb",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛假面之盔",
-        "value": "Runemastered_Visored_Helm",
+        "value": "Runeforged_Visored_Helm",
         "desc": "頭部",
         "class": ""
     },
@@ -23989,13 +25219,13 @@
     },
     {
         "label": "符鍛元素使長袍",
-        "value": "Runemastered_Elementalist_Robe",
+        "value": "Runeforged_Elementalist_Robe",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛兇猛巨盔",
-        "value": "Runemastered_Fierce_Greathelm",
+        "value": "Runeforged_Fierce_Greathelm",
         "desc": "頭部",
         "class": ""
     },
@@ -24013,7 +25243,7 @@
     },
     {
         "label": "符鍛先祖鎖甲",
-        "value": "Runemastered_Ancestral_Mail",
+        "value": "Runeforged_Ancestral_Mail",
         "desc": "胸甲",
         "class": ""
     },
@@ -24043,15 +25273,9 @@
     },
     {
         "label": "符鍛凱斯之衣",
-        "value": "Runemastered_Keth_Raiment",
+        "value": "Runeforged_Keth_Raiment",
         "desc": "胸甲",
         "class": ""
-    },
-    {
-        "label": "符鍛刀刃",
-        "value": "Runeforged_Blades",
-        "desc": "輔助寶石",
-        "class": "gemitem"
     },
     {
         "label": "符鍛刃緣輕盾",
@@ -24079,7 +25303,7 @@
     },
     {
         "label": "符鍛分段護腕",
-        "value": "Runemastered_Sectioned_Bracers",
+        "value": "Runeforged_Sectioned_Bracers",
         "desc": "手套",
         "class": ""
     },
@@ -24090,18 +25314,6 @@
         "class": ""
     },
     {
-        "label": "符鍛刺客裝束",
-        "value": "Runemastered_Assassin_Garb",
-        "desc": "胸甲",
-        "class": ""
-    },
-    {
-        "label": "符鍛刺繡手套",
-        "value": "Runemastered_Embroidered_Gloves",
-        "desc": "手套",
-        "class": ""
-    },
-    {
         "label": "符鍛剛愎紋章盾",
         "value": "Runeforged_Wayward_Crest_Shield",
         "desc": "盾",
@@ -24109,19 +25321,19 @@
     },
     {
         "label": "符鍛加固塔盾",
-        "value": "Runemastered_Braced_Tower_Shield",
+        "value": "Runeforged_Braced_Tower_Shield",
         "desc": "盾",
         "class": ""
     },
     {
         "label": "符鍛加固鎧靴",
-        "value": "Runemastered_Braced_Sabatons",
+        "value": "Runeforged_Braced_Sabatons",
         "desc": "鞋子",
         "class": ""
     },
     {
         "label": "符鍛加固長手套",
-        "value": "Runemastered_Bolstered_Mitts",
+        "value": "Runeforged_Bolstered_Mitts",
         "desc": "手套",
         "class": ""
     },
@@ -24180,12 +25392,6 @@
         "class": ""
     },
     {
-        "label": "符鍛古老護衛盾",
-        "value": "Runemastered_Venerable_Defender",
-        "desc": "輕盾",
-        "class": ""
-    },
-    {
         "label": "符鍛合成弓",
         "value": "Runeforged_Composite_Bow",
         "desc": "弓",
@@ -24193,7 +25399,7 @@
     },
     {
         "label": "符鍛咒術師長袍",
-        "value": "Runemastered_Hexers_Robe",
+        "value": "Runeforged_Hexers_Robe",
         "desc": "胸甲",
         "class": ""
     },
@@ -24211,7 +25417,7 @@
     },
     {
         "label": "符鍛堅固之面",
-        "value": "Runemastered_Solid_Mask",
+        "value": "Runeforged_Solid_Mask",
         "desc": "頭部",
         "class": ""
     },
@@ -24235,7 +25441,7 @@
     },
     {
         "label": "符鍛堅鋼鎧甲",
-        "value": "Runemastered_Steel_Plate",
+        "value": "Runeforged_Steel_Plate",
         "desc": "胸甲",
         "class": ""
     },
@@ -24265,7 +25471,7 @@
     },
     {
         "label": "符鍛壁壘塔盾",
-        "value": "Runemastered_Rampart_Tower_Shield",
+        "value": "Runeforged_Rampart_Tower_Shield",
         "desc": "盾",
         "class": ""
     },
@@ -24277,7 +25483,7 @@
     },
     {
         "label": "符鍛士兵巨盔",
-        "value": "Runemastered_Soldier_Greathelm",
+        "value": "Runeforged_Soldier_Greathelm",
         "desc": "頭部",
         "class": ""
     },
@@ -24290,12 +25496,6 @@
     {
         "label": "符鍛天冠頭冠",
         "value": "Runeforged_Skycrown_Tiara",
-        "desc": "頭部",
-        "class": ""
-    },
-    {
-        "label": "符鍛天鵝絨便帽",
-        "value": "Runemastered_Velvet_Cap",
         "desc": "頭部",
         "class": ""
     },
@@ -24331,7 +25531,7 @@
     },
     {
         "label": "符鍛嫩枝頭環",
-        "value": "Runemastered_Twig_Circlet",
+        "value": "Runeforged_Twig_Circlet",
         "desc": "頭部",
         "class": ""
     },
@@ -24339,12 +25539,6 @@
         "label": "符鍛守護塔盾",
         "value": "Runeforged_Bulwark_Tower_Shield",
         "desc": "盾",
-        "class": ""
-    },
-    {
-        "label": "符鍛宏偉華服",
-        "value": "Runemastered_Grand_Regalia",
-        "desc": "胸甲",
         "class": ""
     },
     {
@@ -24372,14 +25566,8 @@
         "class": ""
     },
     {
-        "label": "符鍛實用裹手",
-        "value": "Runemastered_Utility_Wraps",
-        "desc": "手套",
-        "class": ""
-    },
-    {
         "label": "符鍛寶石手套",
-        "value": "Runemastered_Jewelled_Gloves",
+        "value": "Runeforged_Jewelled_Gloves",
         "desc": "手套",
         "class": ""
     },
@@ -24391,7 +25579,7 @@
     },
     {
         "label": "符鍛尖刺輕盾",
-        "value": "Runemastered_Spiked_Buckler",
+        "value": "Runeforged_Spiked_Buckler",
         "desc": "輕盾",
         "class": ""
     },
@@ -24409,7 +25597,7 @@
     },
     {
         "label": "符鍛尖頂巨盔",
-        "value": "Runemastered_Spired_Greathelm",
+        "value": "Runeforged_Spired_Greathelm",
         "desc": "頭部",
         "class": ""
     },
@@ -24421,7 +25609,7 @@
     },
     {
         "label": "符鍛層板護手",
-        "value": "Runemastered_Layered_Gauntlets",
+        "value": "Runeforged_Layered_Gauntlets",
         "desc": "手套",
         "class": ""
     },
@@ -24445,7 +25633,7 @@
     },
     {
         "label": "符鍛岩石脛甲",
-        "value": "Runemastered_Stone_Greaves",
+        "value": "Runeforged_Stone_Greaves",
         "desc": "鞋子",
         "class": ""
     },
@@ -24463,7 +25651,7 @@
     },
     {
         "label": "符鍛巫毒法器",
-        "value": "Runemastered_Voodoo_Focus",
+        "value": "Runeforged_Voodoo_Focus",
         "desc": "法器",
         "class": ""
     },
@@ -24504,21 +25692,9 @@
         "class": ""
     },
     {
-        "label": "符鍛幻象鎖鏈",
-        "value": "Runemastered_Veridical_Chain",
-        "desc": "項鍊",
-        "class": ""
-    },
-    {
         "label": "符鍛庇護之盔",
-        "value": "Runemastered_Shielded_Helm",
+        "value": "Runeforged_Shielded_Helm",
         "desc": "頭部",
-        "class": ""
-    },
-    {
-        "label": "符鍛庇護細杖",
-        "value": "Runemastered_Warding_Quarterstaff",
-        "desc": "細杖",
         "class": ""
     },
     {
@@ -24529,7 +25705,7 @@
     },
     {
         "label": "符鍛彩繪塔盾",
-        "value": "Runemastered_Painted_Tower_Shield",
+        "value": "Runeforged_Painted_Tower_Shield",
         "desc": "盾",
         "class": ""
     },
@@ -24553,7 +25729,7 @@
     },
     {
         "label": "符鍛徽印紋章盾",
-        "value": "Runemastered_Emblem_Crest_Shield",
+        "value": "Runeforged_Emblem_Crest_Shield",
         "desc": "盾",
         "class": ""
     },
@@ -24571,7 +25747,7 @@
     },
     {
         "label": "符鍛恐喙鳥皮外套",
-        "value": "Runemastered_Rhoahide_Coat",
+        "value": "Runeforged_Rhoahide_Coat",
         "desc": "胸甲",
         "class": ""
     },
@@ -24589,7 +25765,7 @@
     },
     {
         "label": "符鍛戰士巨盔",
-        "value": "Runemastered_Warrior_Greathelm",
+        "value": "Runeforged_Warrior_Greathelm",
         "desc": "頭部",
         "class": ""
     },
@@ -24613,13 +25789,13 @@
     },
     {
         "label": "符鍛打蠟外衣",
-        "value": "Runemastered_Waxed_Jacket",
+        "value": "Runeforged_Waxed_Jacket",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛投機者外衣",
-        "value": "Runemastered_Scalpers_Jacket",
+        "value": "Runeforged_Scalpers_Jacket",
         "desc": "胸甲",
         "class": ""
     },
@@ -24633,12 +25809,6 @@
         "label": "符鍛拋光圓盾",
         "value": "Runeforged_Polished_Targe",
         "desc": "盾",
-        "class": ""
-    },
-    {
-        "label": "符鍛拋光護手",
-        "value": "Runemastered_Burnished_Gauntlets",
-        "desc": "手套",
         "class": ""
     },
     {
@@ -24666,32 +25836,26 @@
         "class": ""
     },
     {
-        "label": "符鍛排列輕盾",
-        "value": "Runemastered_Array_Buckler",
-        "desc": "輕盾",
-        "class": ""
-    },
-    {
         "label": "符鍛探索者護甲",
-        "value": "Runemastered_Explorer_Armour",
+        "value": "Runeforged_Explorer_Armour",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛撕裂手套",
-        "value": "Runemastered_Torn_Gloves",
+        "value": "Runeforged_Torn_Gloves",
         "desc": "手套",
         "class": ""
     },
     {
         "label": "符鍛教士法衣",
-        "value": "Runemastered_Cleric_Vestments",
+        "value": "Runeforged_Cleric_Vestments",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛教徒之冠",
-        "value": "Runemastered_Cultist_Crown",
+        "value": "Runeforged_Cultist_Crown",
         "desc": "頭部",
         "class": ""
     },
@@ -24715,26 +25879,26 @@
     },
     {
         "label": "符鍛斗篷之盔",
-        "value": "Runemastered_Cowled_Helm",
+        "value": "Runeforged_Cowled_Helm",
         "desc": "頭部",
         "class": ""
     },
     {
         "label": "符鍛斗篷鎖甲",
-        "value": "Runemastered_Cloaked_Mail",
+        "value": "Runeforged_Cloaked_Mail",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛斥侯背心",
-        "value": "Runemastered_Scouts_Vest",
+        "value": "Runeforged_Scouts_Vest",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛新月圓盾",
-        "value": "Runemastered_Crescent_Targe",
-        "desc": "輕盾",
+        "value": "Runeforged_Crescent_Targe",
+        "desc": "盾",
         "class": ""
     },
     {
@@ -24745,13 +25909,19 @@
     },
     {
         "label": "符鍛旅人外衣",
-        "value": "Runemastered_Wayfarer_Jacket",
+        "value": "Runeforged_Wayfarer_Jacket",
         "desc": "胸甲",
         "class": ""
     },
     {
+        "label": "符鍛晨星",
+        "value": "Runeforged_Morning_Star",
+        "desc": "單手錘",
+        "class": ""
+    },
+    {
         "label": "符鍛暗淡手套",
-        "value": "Runemastered_Sombre_Gloves",
+        "value": "Runeforged_Sombre_Gloves",
         "desc": "手套",
         "class": ""
     },
@@ -24763,7 +25933,7 @@
     },
     {
         "label": "符鍛朝聖者法衣",
-        "value": "Runemastered_Pilgrim_Vestments",
+        "value": "Runeforged_Pilgrim_Vestments",
         "desc": "胸甲",
         "class": ""
     },
@@ -24775,37 +25945,37 @@
     },
     {
         "label": "符鍛木頭輕盾",
-        "value": "Runemastered_Wooden_Buckler",
+        "value": "Runeforged_Wooden_Buckler",
         "desc": "輕盾",
         "class": ""
     },
     {
         "label": "符鍛朽木塔盾",
-        "value": "Runemastered_Splintered_Tower_Shield",
+        "value": "Runeforged_Splintered_Tower_Shield",
         "desc": "盾",
         "class": ""
     },
     {
         "label": "符鍛枝條法器",
-        "value": "Runemastered_Twig_Focus",
+        "value": "Runeforged_Twig_Focus",
         "desc": "法器",
         "class": ""
     },
     {
         "label": "符鍛枝條頭冠",
-        "value": "Runemastered_Wicker_Tiara",
+        "value": "Runeforged_Wicker_Tiara",
         "desc": "頭部",
         "class": ""
     },
     {
         "label": "符鍛格子便鞋",
-        "value": "Runemastered_Lattice_Sandals",
+        "value": "Runeforged_Lattice_Sandals",
         "desc": "鞋子",
         "class": ""
     },
     {
         "label": "符鍛棘刺護腕",
-        "value": "Runemastered_Spined_Bracers",
+        "value": "Runeforged_Spined_Bracers",
         "desc": "手套",
         "class": ""
     },
@@ -24853,25 +26023,25 @@
     },
     {
         "label": "符鍛殉難之冠",
-        "value": "Runemastered_Martyr_Crown",
+        "value": "Runeforged_Martyr_Crown",
         "desc": "頭部",
         "class": ""
     },
     {
         "label": "符鍛殘破長袍",
-        "value": "Runemastered_Tattered_Robe",
+        "value": "Runeforged_Tattered_Robe",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛毒蛇便帽",
-        "value": "Runemastered_Viper_Cap",
+        "value": "Runeforged_Viper_Cap",
         "desc": "頭部",
         "class": ""
     },
     {
         "label": "符鍛毛氈便帽",
-        "value": "Runemastered_Felt_Cap",
+        "value": "Runeforged_Felt_Cap",
         "desc": "頭部",
         "class": ""
     },
@@ -24889,13 +26059,13 @@
     },
     {
         "label": "符鍛水晶法器",
-        "value": "Runemastered_Crystal_Focus",
+        "value": "Runeforged_Crystal_Focus",
         "desc": "法器",
         "class": ""
     },
     {
         "label": "符鍛沉重之冠",
-        "value": "Runemastered_Heavy_Crown",
+        "value": "Runeforged_Heavy_Crown",
         "desc": "頭部",
         "class": ""
     },
@@ -24936,12 +26106,6 @@
         "class": ""
     },
     {
-        "label": "符鍛泰坦長手套",
-        "value": "Runemastered_Titan_Mitts",
-        "desc": "手套",
-        "class": ""
-    },
-    {
         "label": "符鍛流氓外衣",
         "value": "Runeforged_Scoundrel_Jacket",
         "desc": "胸甲",
@@ -24949,13 +26113,13 @@
     },
     {
         "label": "符鍛流浪者護甲",
-        "value": "Runemastered_Vagabond_Armour",
+        "value": "Runeforged_Vagabond_Armour",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛浮雕長靴",
-        "value": "Runemastered_Embossed_Boots",
+        "value": "Runeforged_Embossed_Boots",
         "desc": "鞋子",
         "class": ""
     },
@@ -24966,8 +26130,14 @@
         "class": ""
     },
     {
+        "label": "符鍛海洋風暴披肩",
+        "value": "Runeforged_Seastorm_Mantle",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
         "label": "符鍛海盜便帽",
-        "value": "Runemastered_Corsair_Cap",
+        "value": "Runeforged_Corsair_Cap",
         "desc": "頭部",
         "class": ""
     },
@@ -24985,13 +26155,13 @@
     },
     {
         "label": "符鍛海靈鱗手套",
-        "value": "Runemastered_Pauascale_Gloves",
+        "value": "Runeforged_Pauascale_Gloves",
         "desc": "手套",
         "class": ""
     },
     {
         "label": "符鍛淬鍊長手套",
-        "value": "Runemastered_Tempered_Mitts",
+        "value": "Runeforged_Tempered_Mitts",
         "desc": "手套",
         "class": ""
     },
@@ -25015,7 +26185,7 @@
     },
     {
         "label": "符鍛潮汐先知披肩",
-        "value": "Runemastered_Tideseer_Mantle",
+        "value": "Runeforged_Tideseer_Mantle",
         "desc": "胸甲",
         "class": ""
     },
@@ -25039,13 +26209,13 @@
     },
     {
         "label": "符鍛牢固護腿",
-        "value": "Runemastered_Secured_Leggings",
+        "value": "Runeforged_Secured_Leggings",
         "desc": "鞋子",
         "class": ""
     },
     {
         "label": "符鍛犄角之冠",
-        "value": "Runemastered_Horned_Crown",
+        "value": "Runeforged_Horned_Crown",
         "desc": "頭部",
         "class": ""
     },
@@ -25069,7 +26239,7 @@
     },
     {
         "label": "符鍛狩獵輕鞋",
-        "value": "Runemastered_Hunting_Shoes",
+        "value": "Runeforged_Hunting_Shoes",
         "desc": "鞋子",
         "class": ""
     },
@@ -25099,7 +26269,7 @@
     },
     {
         "label": "符鍛獵者之兜",
-        "value": "Runemastered_Hunter_Hood",
+        "value": "Runeforged_Hunter_Hood",
         "desc": "頭部",
         "class": ""
     },
@@ -25111,13 +26281,7 @@
     },
     {
         "label": "符鍛獻祭披肩",
-        "value": "Runemastered_Sacrificial_Mantle",
-        "desc": "胸甲",
-        "class": ""
-    },
-    {
-        "label": "符鍛獻祭法衣",
-        "value": "Runemastered_Sacrificial_Regalia",
+        "value": "Runeforged_Sacrificial_Mantle",
         "desc": "胸甲",
         "class": ""
     },
@@ -25135,7 +26299,7 @@
     },
     {
         "label": "符鍛環鎖護手",
-        "value": "Runemastered_Ringmail_Gauntlets",
+        "value": "Runeforged_Ringmail_Gauntlets",
         "desc": "手套",
         "class": ""
     },
@@ -25149,6 +26313,12 @@
         "label": "符鍛瓦爾手套",
         "value": "Runeforged_Vaal_Gloves",
         "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符鍛瓦爾紋章盾",
+        "value": "Runeforged_Vaal_Crest_Shield",
+        "desc": "盾",
         "class": ""
     },
     {
@@ -25183,13 +26353,13 @@
     },
     {
         "label": "符鍛生鏽胸甲",
-        "value": "Runemastered_Rusted_Cuirass",
+        "value": "Runeforged_Rusted_Cuirass",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛疊層鎧靴",
-        "value": "Runemastered_Stacked_Sabatons",
+        "value": "Runeforged_Stacked_Sabatons",
         "desc": "鞋子",
         "class": ""
     },
@@ -25201,25 +26371,25 @@
     },
     {
         "label": "符鍛皮革兜帽",
-        "value": "Runemastered_Leatherbound_Hood",
+        "value": "Runeforged_Leatherbound_Hood",
         "desc": "頭部",
         "class": ""
     },
     {
         "label": "符鍛皮革背心",
-        "value": "Runemastered_Leather_Vest",
+        "value": "Runeforged_Leather_Vest",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛皮革輕盾",
-        "value": "Runemastered_Leather_Buckler",
+        "value": "Runeforged_Leather_Buckler",
         "desc": "輕盾",
         "class": ""
     },
     {
         "label": "符鍛盜賊護甲",
-        "value": "Runemastered_Rogue_Armour",
+        "value": "Runeforged_Rogue_Armour",
         "desc": "胸甲",
         "class": ""
     },
@@ -25237,14 +26407,20 @@
     },
     {
         "label": "符鍛破舊兜帽",
-        "value": "Runemastered_Shabby_Hood",
+        "value": "Runeforged_Shabby_Hood",
         "desc": "頭部",
         "class": ""
     },
     {
         "label": "符鍛硬木圓盾",
-        "value": "Runemastered_Hardwood_Targe",
-        "desc": "輕盾",
+        "value": "Runeforged_Hardwood_Targe",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符鍛硬木長矛",
+        "value": "Runeforged_Hardwood_Spear",
+        "desc": "長矛",
         "class": ""
     },
     {
@@ -25257,12 +26433,6 @@
         "label": "符鍛磨煉塔盾",
         "value": "Runeforged_Crucible_Tower_Shield",
         "desc": "盾",
-        "class": ""
-    },
-    {
-        "label": "符鍛磨難棍棒",
-        "value": "Runemastered_Torment_Club",
-        "desc": "單手錘",
         "class": ""
     },
     {
@@ -25297,13 +26467,7 @@
     },
     {
         "label": "符鍛祭壇長袍",
-        "value": "Runemastered_Altar_Robe",
-        "desc": "胸甲",
-        "class": ""
-    },
-    {
-        "label": "符鍛禍害之衣",
-        "value": "Runemastered_Havoc_Raiment",
+        "value": "Runeforged_Altar_Robe",
         "desc": "胸甲",
         "class": ""
     },
@@ -25321,13 +26485,13 @@
     },
     {
         "label": "符鍛穩固護腕",
-        "value": "Runemastered_Firm_Bracers",
+        "value": "Runeforged_Firm_Bracers",
         "desc": "手套",
         "class": ""
     },
     {
         "label": "符鍛符印紋章盾",
-        "value": "Runemastered_Sigil_Crest_Shield",
+        "value": "Runeforged_Sigil_Crest_Shield",
         "desc": "盾",
         "class": ""
     },
@@ -25351,19 +26515,19 @@
     },
     {
         "label": "符鍛籠罩背心",
-        "value": "Runemastered_Shrouded_Vest",
+        "value": "Runeforged_Shrouded_Vest",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛粗糙脛甲",
-        "value": "Runemastered_Rough_Greaves",
+        "value": "Runeforged_Rough_Greaves",
         "desc": "鞋子",
         "class": ""
     },
     {
         "label": "符鍛粗製之面",
-        "value": "Runemastered_Hewn_Mask",
+        "value": "Runeforged_Hewn_Mask",
         "desc": "頭部",
         "class": ""
     },
@@ -25375,7 +26539,7 @@
     },
     {
         "label": "符鍛精妙手套",
-        "value": "Runemastered_Intricate_Gloves",
+        "value": "Runeforged_Intricate_Gloves",
         "desc": "手套",
         "class": ""
     },
@@ -25386,14 +26550,8 @@
         "class": ""
     },
     {
-        "label": "符鍛精美背心",
-        "value": "Runemastered_Exquisite_Vest",
-        "desc": "胸甲",
-        "class": ""
-    },
-    {
         "label": "符鍛精良護腕",
-        "value": "Runemastered_Fine_Bracers",
+        "value": "Runeforged_Fine_Bracers",
         "desc": "手套",
         "class": ""
     },
@@ -25405,25 +26563,25 @@
     },
     {
         "label": "符鍛紋刻法器",
-        "value": "Runemastered_Engraved_Focus",
+        "value": "Runeforged_Engraved_Focus",
         "desc": "法器",
         "class": ""
     },
     {
         "label": "符鍛紋章塔盾",
-        "value": "Runemastered_Heraldric_Tower_Shield",
+        "value": "Runeforged_Heraldric_Tower_Shield",
         "desc": "盾",
         "class": ""
     },
     {
         "label": "符鍛紗布裹手",
-        "value": "Runemastered_Gauze_Wraps",
+        "value": "Runeforged_Gauze_Wraps",
         "desc": "手套",
         "class": ""
     },
     {
         "label": "符鍛結實長手套",
-        "value": "Runemastered_Stocky_Mitts",
+        "value": "Runeforged_Stocky_Mitts",
         "desc": "手套",
         "class": ""
     },
@@ -25440,20 +26598,14 @@
         "class": ""
     },
     {
-        "label": "符鍛絲絨輕鞋",
-        "value": "Runemastered_Velour_Shoes",
-        "desc": "鞋子",
-        "class": ""
-    },
-    {
         "label": "符鍛絲綢便鞋",
-        "value": "Runemastered_Silk_Slippers",
+        "value": "Runeforged_Silk_Slippers",
         "desc": "鞋子",
         "class": ""
     },
     {
         "label": "符鍛絲質之袍",
-        "value": "Runemastered_Silk_Robe",
+        "value": "Runeforged_Silk_Robe",
         "desc": "胸甲",
         "class": ""
     },
@@ -25472,12 +26624,6 @@
     {
         "label": "符鍛綑綁腕帶",
         "value": "Runeforged_Bound_Cuffs",
-        "desc": "手套",
-        "class": ""
-    },
-    {
-        "label": "符鍛維里西姆腕帶",
-        "value": "Runemastered_Verisium_Cuffs",
         "desc": "手套",
         "class": ""
     },
@@ -25507,7 +26653,7 @@
     },
     {
         "label": "符鍛編織法器",
-        "value": "Runemastered_Woven_Focus",
+        "value": "Runeforged_Woven_Focus",
         "desc": "法器",
         "class": ""
     },
@@ -25519,13 +26665,13 @@
     },
     {
         "label": "符鍛縫合手套",
-        "value": "Runemastered_Stitched_Gloves",
+        "value": "Runeforged_Stitched_Gloves",
         "desc": "手套",
         "class": ""
     },
     {
         "label": "符鍛縫紉輕鞋",
-        "value": "Runemastered_Threaded_Shoes",
+        "value": "Runeforged_Threaded_Shoes",
         "desc": "鞋子",
         "class": ""
     },
@@ -25537,13 +26683,13 @@
     },
     {
         "label": "符鍛繩索腕帶",
-        "value": "Runemastered_Rope_Cuffs",
+        "value": "Runeforged_Rope_Cuffs",
         "desc": "手套",
         "class": ""
     },
     {
         "label": "符鍛繫帶長靴",
-        "value": "Runemastered_Cinched_Boots",
+        "value": "Runeforged_Cinched_Boots",
         "desc": "鞋子",
         "class": ""
     },
@@ -25555,7 +26701,7 @@
     },
     {
         "label": "符鍛纏繞巨盔",
-        "value": "Runemastered_Wrapped_Greathelm",
+        "value": "Runeforged_Wrapped_Greathelm",
         "desc": "頭部",
         "class": ""
     },
@@ -25573,7 +26719,7 @@
     },
     {
         "label": "符鍛羽毛便鞋",
-        "value": "Runemastered_Feathered_Sandals",
+        "value": "Runeforged_Feathered_Sandals",
         "desc": "鞋子",
         "class": ""
     },
@@ -25591,13 +26737,13 @@
     },
     {
         "label": "符鍛羽毛長袍",
-        "value": "Runemastered_Feathered_Robe",
+        "value": "Runeforged_Feathered_Robe",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛羽毛頭冠",
-        "value": "Runemastered_Feathered_Tiara",
+        "value": "Runeforged_Feathered_Tiara",
         "desc": "頭部",
         "class": ""
     },
@@ -25621,7 +26767,7 @@
     },
     {
         "label": "符鍛翠玉頭冠",
-        "value": "Runemastered_Jade_Tiara",
+        "value": "Runeforged_Jade_Tiara",
         "desc": "頭部",
         "class": ""
     },
@@ -25669,7 +26815,7 @@
     },
     {
         "label": "符鍛脊狀輕盾",
-        "value": "Runemastered_Ridged_Buckler",
+        "value": "Runeforged_Ridged_Buckler",
         "desc": "輕盾",
         "class": ""
     },
@@ -25686,14 +26832,8 @@
         "class": ""
     },
     {
-        "label": "符鍛英雄護甲",
-        "value": "Runemastered_Heroic_Armour",
-        "desc": "胸甲",
-        "class": ""
-    },
-    {
         "label": "符鍛菁英巨盔",
-        "value": "Runemastered_Elite_Greathelm",
+        "value": "Runeforged_Elite_Greathelm",
         "desc": "頭部",
         "class": ""
     },
@@ -25711,7 +26851,7 @@
     },
     {
         "label": "符鍛華麗輕盾",
-        "value": "Runemastered_Ornate_Buckler",
+        "value": "Runeforged_Ornate_Buckler",
         "desc": "輕盾",
         "class": ""
     },
@@ -25735,7 +26875,7 @@
     },
     {
         "label": "符鍛薩滿披肩",
-        "value": "Runemastered_Shaman_Mantle",
+        "value": "Runeforged_Shaman_Mantle",
         "desc": "胸甲",
         "class": ""
     },
@@ -25747,7 +26887,7 @@
     },
     {
         "label": "符鍛蛇鱗外套",
-        "value": "Runemastered_Serpentscale_Coat",
+        "value": "Runeforged_Serpentscale_Coat",
         "desc": "胸甲",
         "class": ""
     },
@@ -25765,7 +26905,7 @@
     },
     {
         "label": "符鍛蜥蜴鱗長靴",
-        "value": "Runemastered_Lizardscale_Boots",
+        "value": "Runeforged_Lizardscale_Boots",
         "desc": "鞋子",
         "class": ""
     },
@@ -25773,6 +26913,12 @@
         "label": "符鍛螺旋法器",
         "value": "Runeforged_Whorl_Focus",
         "desc": "法器",
+        "class": ""
+    },
+    {
+        "label": "符鍛行軍之錘",
+        "value": "Runeforged_Marching_Mace",
+        "desc": "單手錘",
         "class": ""
     },
     {
@@ -25788,18 +26934,6 @@
         "class": ""
     },
     {
-        "label": "符鍛裝甲便帽",
-        "value": "Runemastered_Armoured_Cap",
-        "desc": "頭部",
-        "class": ""
-    },
-    {
-        "label": "符鍛裝甲背心",
-        "value": "Runemastered_Armoured_Vest",
-        "desc": "胸甲",
-        "class": ""
-    },
-    {
         "label": "符鍛裝飾裹手",
         "value": "Runeforged_Adorned_Wraps",
         "desc": "手套",
@@ -25807,7 +26941,7 @@
     },
     {
         "label": "符鍛裹腳便鞋",
-        "value": "Runemastered_Wrapped_Sandals",
+        "value": "Runeforged_Wrapped_Sandals",
         "desc": "鞋子",
         "class": ""
     },
@@ -25819,7 +26953,7 @@
     },
     {
         "label": "符鍛襯墊背心",
-        "value": "Runemastered_Quilted_Vest",
+        "value": "Runeforged_Quilted_Vest",
         "desc": "胸甲",
         "class": ""
     },
@@ -25849,7 +26983,7 @@
     },
     {
         "label": "符鍛警惕之盔",
-        "value": "Runemastered_Guarded_Helm",
+        "value": "Runeforged_Guarded_Helm",
         "desc": "頭部",
         "class": ""
     },
@@ -25861,7 +26995,7 @@
     },
     {
         "label": "符鍛護臉之面",
-        "value": "Runemastered_Face_Mask",
+        "value": "Runeforged_Face_Mask",
         "desc": "頭部",
         "class": ""
     },
@@ -25873,7 +27007,7 @@
     },
     {
         "label": "符鍛走私者外套",
-        "value": "Runemastered_Smuggler_Coat",
+        "value": "Runeforged_Smuggler_Coat",
         "desc": "胸甲",
         "class": ""
     },
@@ -25897,7 +27031,7 @@
     },
     {
         "label": "符鍛追獵者外套",
-        "value": "Runemastered_Pathfinder_Coat",
+        "value": "Runeforged_Pathfinder_Coat",
         "desc": "胸甲",
         "class": ""
     },
@@ -25915,7 +27049,7 @@
     },
     {
         "label": "符鍛連身鎧甲",
-        "value": "Runemastered_Full_Plate",
+        "value": "Runeforged_Full_Plate",
         "desc": "胸甲",
         "class": ""
     },
@@ -25932,21 +27066,9 @@
         "class": ""
     },
     {
-        "label": "符鍛遠古護腿",
-        "value": "Runemastered_Ancient_Leggings",
-        "desc": "鞋子",
-        "class": ""
-    },
-    {
         "label": "符鍛遠古輕盾",
         "value": "Runeforged_Ancient_Buckler",
         "desc": "輕盾",
-        "class": ""
-    },
-    {
-        "label": "符鍛遠古鎖甲",
-        "value": "Runemastered_Ancient_Mail",
-        "desc": "胸甲",
         "class": ""
     },
     {
@@ -25969,13 +27091,13 @@
     },
     {
         "label": "符鍛還願之衣",
-        "value": "Runemastered_Votive_Raiment",
+        "value": "Runeforged_Votive_Raiment",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛邊緣之盔",
-        "value": "Runemastered_Brimmed_Helm",
+        "value": "Runeforged_Brimmed_Helm",
         "desc": "頭部",
         "class": ""
     },
@@ -25987,7 +27109,7 @@
     },
     {
         "label": "符鍛部落之面",
-        "value": "Runemastered_Tribal_Mask",
+        "value": "Runeforged_Tribal_Mask",
         "desc": "頭部",
         "class": ""
     },
@@ -26004,14 +27126,8 @@
         "class": ""
     },
     {
-        "label": "符鍛野性標記",
-        "value": "Runemastered_Primal_Markings",
-        "desc": "胸甲",
-        "class": ""
-    },
-    {
         "label": "符鍛金鑄腕帶",
-        "value": "Runemastered_Goldcast_Cuffs",
+        "value": "Runeforged_Goldcast_Cuffs",
         "desc": "手套",
         "class": ""
     },
@@ -26023,7 +27139,7 @@
     },
     {
         "label": "符鍛鉚接長手套",
-        "value": "Runemastered_Riveted_Mitts",
+        "value": "Runeforged_Riveted_Mitts",
         "desc": "手套",
         "class": ""
     },
@@ -26053,7 +27169,7 @@
     },
     {
         "label": "符鍛鋼板輕盾",
-        "value": "Runemastered_Plated_Buckler",
+        "value": "Runeforged_Plated_Buckler",
         "desc": "輕盾",
         "class": ""
     },
@@ -26065,19 +27181,13 @@
     },
     {
         "label": "符鍛錯綜紋章盾",
-        "value": "Runemastered_Intricate_Crest_Shield",
+        "value": "Runeforged_Intricate_Crest_Shield",
         "desc": "盾",
         "class": ""
     },
     {
-        "label": "符鍛鍍金法衣",
-        "value": "Runemastered_Gilded_Vestments",
-        "desc": "胸甲",
-        "class": ""
-    },
-    {
         "label": "符鍛鍍金頭環",
-        "value": "Runemastered_Vermeil_Circlet",
+        "value": "Runeforged_Vermeil_Circlet",
         "desc": "頭部",
         "class": ""
     },
@@ -26089,13 +27199,13 @@
     },
     {
         "label": "符鍛鍛鐵之冠",
-        "value": "Runemastered_Iron_Crown",
+        "value": "Runeforged_Iron_Crown",
         "desc": "頭部",
         "class": ""
     },
     {
         "label": "符鍛鍛鐵胸甲",
-        "value": "Runemastered_Iron_Cuirass",
+        "value": "Runeforged_Iron_Cuirass",
         "desc": "胸甲",
         "class": ""
     },
@@ -26107,19 +27217,19 @@
     },
     {
         "label": "符鍛鎖甲法衣",
-        "value": "Runemastered_Mail_Vestments",
+        "value": "Runeforged_Mail_Vestments",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛鎖甲鎧靴",
-        "value": "Runemastered_Mail_Sabatons",
+        "value": "Runeforged_Mail_Sabatons",
         "desc": "鞋子",
         "class": ""
     },
     {
         "label": "符鍛鎖鍊鎖甲",
-        "value": "Runemastered_Chain_Mail",
+        "value": "Runeforged_Chain_Mail",
         "desc": "胸甲",
         "class": ""
     },
@@ -26130,12 +27240,6 @@
         "class": ""
     },
     {
-        "label": "符鍛鎧甲之衣",
-        "value": "Runemastered_Plated_Raiment",
-        "desc": "胸甲",
-        "class": ""
-    },
-    {
         "label": "符鍛鎧甲法衣",
         "value": "Runeforged_Plated_Vestments",
         "desc": "胸甲",
@@ -26143,13 +27247,13 @@
     },
     {
         "label": "符鍛鎧甲護手",
-        "value": "Runemastered_Plate_Gauntlets",
+        "value": "Runeforged_Plate_Gauntlets",
         "desc": "手套",
         "class": ""
     },
     {
         "label": "符鍛鏽蝕巨盔",
-        "value": "Runemastered_Rusted_Greathelm",
+        "value": "Runeforged_Rusted_Greathelm",
         "desc": "頭部",
         "class": ""
     },
@@ -26161,7 +27265,7 @@
     },
     {
         "label": "符鍛鐵甲法衣",
-        "value": "Runemastered_Ironclad_Vestments",
+        "value": "Runeforged_Ironclad_Vestments",
         "desc": "胸甲",
         "class": ""
     },
@@ -26173,19 +27277,19 @@
     },
     {
         "label": "符鍛鐵鍛脛甲",
-        "value": "Runemastered_Iron_Greaves",
+        "value": "Runeforged_Iron_Greaves",
         "desc": "鞋子",
         "class": ""
     },
     {
         "label": "符鍛鑄模長手套",
-        "value": "Runemastered_Moulded_Mitts",
+        "value": "Runeforged_Moulded_Mitts",
         "desc": "手套",
         "class": ""
     },
     {
         "label": "符鍛鑲邊脛甲",
-        "value": "Runemastered_Trimmed_Greaves",
+        "value": "Runeforged_Trimmed_Greaves",
         "desc": "鞋子",
         "class": ""
     },
@@ -26203,7 +27307,7 @@
     },
     {
         "label": "符鍛鑲釘背心",
-        "value": "Runemastered_Studded_Vest",
+        "value": "Runeforged_Studded_Vest",
         "desc": "胸甲",
         "class": ""
     },
@@ -26239,25 +27343,25 @@
     },
     {
         "label": "符鍛陳舊腕帶",
-        "value": "Runemastered_Aged_Cuffs",
+        "value": "Runeforged_Aged_Cuffs",
         "desc": "手套",
         "class": ""
     },
     {
         "label": "符鍛障壁塔盾",
-        "value": "Runemastered_Barricade_Tower_Shield",
+        "value": "Runeforged_Barricade_Tower_Shield",
         "desc": "盾",
         "class": ""
     },
     {
         "label": "符鍛隱匿之面",
-        "value": "Runemastered_Veiled_Mask",
+        "value": "Runeforged_Veiled_Mask",
         "desc": "頭部",
         "class": ""
     },
     {
         "label": "符鍛隱士裝束",
-        "value": "Runemastered_Hermit_Garb",
+        "value": "Runeforged_Hermit_Garb",
         "desc": "胸甲",
         "class": ""
     },
@@ -26280,21 +27384,9 @@
         "class": ""
     },
     {
-        "label": "符鍛隱秘裹手",
-        "value": "Runemastered_Furtive_Wraps",
-        "desc": "手套",
-        "class": ""
-    },
-    {
         "label": "符鍛隱者裝束",
-        "value": "Runemastered_Anchorite_Garb",
+        "value": "Runeforged_Anchorite_Garb",
         "desc": "胸甲",
-        "class": ""
-    },
-    {
-        "label": "符鍛隱蔽兜帽",
-        "value": "Runemastered_Covert_Hood",
-        "desc": "頭部",
         "class": ""
     },
     {
@@ -26317,7 +27409,7 @@
     },
     {
         "label": "符鍛雙層護手",
-        "value": "Runemastered_Doubled_Gauntlets",
+        "value": "Runeforged_Doubled_Gauntlets",
         "desc": "手套",
         "class": ""
     },
@@ -26347,25 +27439,25 @@
     },
     {
         "label": "符鍛靈鹿法器",
-        "value": "Runemastered_Antler_Focus",
+        "value": "Runeforged_Antler_Focus",
         "desc": "法器",
         "class": ""
     },
     {
         "label": "符鍛青銅脛甲",
-        "value": "Runemastered_Bronze_Greaves",
+        "value": "Runeforged_Bronze_Greaves",
         "desc": "鞋子",
         "class": ""
     },
     {
         "label": "符鍛音調法器",
-        "value": "Runemastered_Tonal_Focus",
+        "value": "Runeforged_Tonal_Focus",
         "desc": "法器",
         "class": ""
     },
     {
         "label": "符鍛響聲紋章盾",
-        "value": "Runemastered_Jingling_Crest_Shield",
+        "value": "Runeforged_Jingling_Crest_Shield",
         "desc": "盾",
         "class": ""
     },
@@ -26377,7 +27469,7 @@
     },
     {
         "label": "符鍛預兆紋章盾",
-        "value": "Runemastered_Omen_Crest_Shield",
+        "value": "Runeforged_Omen_Crest_Shield",
         "desc": "盾",
         "class": ""
     },
@@ -26389,7 +27481,7 @@
     },
     {
         "label": "符鍛風帽之面",
-        "value": "Runemastered_Hooded_Mask",
+        "value": "Runeforged_Hooded_Mask",
         "desc": "頭部",
         "class": ""
     },
@@ -26413,13 +27505,13 @@
     },
     {
         "label": "符鍛飾帶長靴",
-        "value": "Runemastered_Laced_Boots",
+        "value": "Runeforged_Laced_Boots",
         "desc": "鞋子",
         "class": ""
     },
     {
         "label": "符鍛馬拉克斯胸甲",
-        "value": "Runemastered_Maraketh_Cuirass",
+        "value": "Runeforged_Maraketh_Cuirass",
         "desc": "胸甲",
         "class": ""
     },
@@ -26431,7 +27523,7 @@
     },
     {
         "label": "符鍛騎士護甲",
-        "value": "Runemastered_Knight_Armour",
+        "value": "Runeforged_Knight_Armour",
         "desc": "胸甲",
         "class": ""
     },
@@ -26443,7 +27535,7 @@
     },
     {
         "label": "符鍛骸骨之衣",
-        "value": "Runemastered_Bone_Raiment",
+        "value": "Runeforged_Bone_Raiment",
         "desc": "胸甲",
         "class": ""
     },
@@ -26467,25 +27559,25 @@
     },
     {
         "label": "符鍛魂骨之冠",
-        "value": "Runemastered_Spiritbone_Crown",
+        "value": "Runeforged_Spiritbone_Crown",
         "desc": "頭部",
         "class": ""
     },
     {
         "label": "符鍛鱗片鎖甲",
-        "value": "Runemastered_Scale_Mail",
+        "value": "Runeforged_Scale_Mail",
         "desc": "胸甲",
         "class": ""
     },
     {
         "label": "符鍛麂皮護腕",
-        "value": "Runemastered_Suede_Bracers",
+        "value": "Runeforged_Suede_Bracers",
         "desc": "手套",
         "class": ""
     },
     {
         "label": "符鍛麻布裹手",
-        "value": "Runemastered_Linen_Wraps",
+        "value": "Runeforged_Linen_Wraps",
         "desc": "手套",
         "class": ""
     },
@@ -26509,20 +27601,8 @@
     },
     {
         "label": "符鍛黃金頭環",
-        "value": "Runemastered_Gold_Circlet",
+        "value": "Runeforged_Gold_Circlet",
         "desc": "頭部",
-        "class": ""
-    },
-    {
-        "label": "符鍛黑暗之冠",
-        "value": "Runemastered_Tenebrous_Crown",
-        "desc": "頭部",
-        "class": ""
-    },
-    {
-        "label": "符鍛黑鋼塔盾",
-        "value": "Runemastered_Blacksteel_Tower_Shield",
-        "desc": "盾",
         "class": ""
     },
     {
@@ -32352,6 +33432,12 @@
         "class": ""
     },
     {
+        "label": "輿圖",
+        "value": "Atlas",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
         "label": "輿圖倉庫頁",
         "value": "Map_Stash_Tab",
         "desc": "Stashtab",
@@ -32365,7 +33451,7 @@
     },
     {
         "label": "輿圖大師",
-        "value": "Masters_of_the_Atlas",
+        "value": "Atlas_Masters",
         "desc": "Wiki",
         "class": ""
     },
@@ -32386,6 +33472,12 @@
         "value": "Bombard_Crossbow",
         "desc": "十字弓",
         "class": ""
+    },
+    {
+        "label": "轟碎重擊",
+        "value": "Smash_to_Smithereens",
+        "desc": "技能寶石",
+        "class": "gemitem"
     },
     {
         "label": "迅捷",
