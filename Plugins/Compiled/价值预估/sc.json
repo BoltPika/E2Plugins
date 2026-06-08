@@ -10615,97 +10615,97 @@
     },
     {
         "label": "引路石（ 1 阶）",
-        "value": "Waystone_%28Tier_1%29",
+        "value": "Waystone_(Tier_1)",
         "desc": "引路石",
         "class": ""
     },
     {
         "label": "引路石（ 10 阶）",
-        "value": "Waystone_%28Tier_10%29",
+        "value": "Waystone_(Tier_10)",
         "desc": "引路石",
         "class": ""
     },
     {
         "label": "引路石（ 11 阶）",
-        "value": "Waystone_%28Tier_11%29",
+        "value": "Waystone_(Tier_11)",
         "desc": "引路石",
         "class": ""
     },
     {
         "label": "引路石（ 12 阶）",
-        "value": "Waystone_%28Tier_12%29",
+        "value": "Waystone_(Tier_12)",
         "desc": "引路石",
         "class": ""
     },
     {
         "label": "引路石（ 13 阶）",
-        "value": "Waystone_%28Tier_13%29",
+        "value": "Waystone_(Tier_13)",
         "desc": "引路石",
         "class": ""
     },
     {
         "label": "引路石（ 14 阶）",
-        "value": "Waystone_%28Tier_14%29",
+        "value": "Waystone_(Tier_14)",
         "desc": "引路石",
         "class": ""
     },
     {
         "label": "引路石（ 15 阶）",
-        "value": "Waystone_%28Tier_15%29",
+        "value": "Waystone_(Tier_15)",
         "desc": "引路石",
         "class": ""
     },
     {
         "label": "引路石（ 16 阶）",
-        "value": "Waystone_%28Tier_16%29",
+        "value": "Waystone_(Tier_16)",
         "desc": "引路石",
         "class": ""
     },
     {
         "label": "引路石（ 2 阶）",
-        "value": "Waystone_%28Tier_2%29",
+        "value": "Waystone_(Tier_2)",
         "desc": "引路石",
         "class": ""
     },
     {
         "label": "引路石（ 3 阶）",
-        "value": "Waystone_%28Tier_3%29",
+        "value": "Waystone_(Tier_3)",
         "desc": "引路石",
         "class": ""
     },
     {
         "label": "引路石（ 4 阶）",
-        "value": "Waystone_%28Tier_4%29",
+        "value": "Waystone_(Tier_4)",
         "desc": "引路石",
         "class": ""
     },
     {
         "label": "引路石（ 5 阶）",
-        "value": "Waystone_%28Tier_5%29",
+        "value": "Waystone_(Tier_5)",
         "desc": "引路石",
         "class": ""
     },
     {
         "label": "引路石（ 6 阶）",
-        "value": "Waystone_%28Tier_6%29",
+        "value": "Waystone_(Tier_6)",
         "desc": "引路石",
         "class": ""
     },
     {
         "label": "引路石（ 7 阶）",
-        "value": "Waystone_%28Tier_7%29",
+        "value": "Waystone_(Tier_7)",
         "desc": "引路石",
         "class": ""
     },
     {
         "label": "引路石（ 8 阶）",
-        "value": "Waystone_%28Tier_8%29",
+        "value": "Waystone_(Tier_8)",
         "desc": "引路石",
         "class": ""
     },
     {
         "label": "引路石（ 9 阶）",
-        "value": "Waystone_%28Tier_9%29",
+        "value": "Waystone_(Tier_9)",
         "desc": "引路石",
         "class": ""
     },
@@ -23707,115 +23707,115 @@
     },
     {
         "label": "秘术溶剂（等级10）",
-        "value": "Thaumaturgic_Flux_%28Level_10%29",
+        "value": "Thaumaturgic_Flux_(Level_10)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级11）",
-        "value": "Thaumaturgic_Flux_%28Level_11%29",
+        "value": "Thaumaturgic_Flux_(Level_11)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级12）",
-        "value": "Thaumaturgic_Flux_%28Level_12%29",
+        "value": "Thaumaturgic_Flux_(Level_12)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级13）",
-        "value": "Thaumaturgic_Flux_%28Level_13%29",
+        "value": "Thaumaturgic_Flux_(Level_13)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级14）",
-        "value": "Thaumaturgic_Flux_%28Level_14%29",
+        "value": "Thaumaturgic_Flux_(Level_14)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级15）",
-        "value": "Thaumaturgic_Flux_%28Level_15%29",
+        "value": "Thaumaturgic_Flux_(Level_15)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级16）",
-        "value": "Thaumaturgic_Flux_%28Level_16%29",
+        "value": "Thaumaturgic_Flux_(Level_16)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级17）",
-        "value": "Thaumaturgic_Flux_%28Level_17%29",
+        "value": "Thaumaturgic_Flux_(Level_17)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级18）",
-        "value": "Thaumaturgic_Flux_%28Level_18%29",
+        "value": "Thaumaturgic_Flux_(Level_18)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级19）",
-        "value": "Thaumaturgic_Flux_%28Level_19%29",
+        "value": "Thaumaturgic_Flux_(Level_19)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级20）",
-        "value": "Thaumaturgic_Flux_%28Level_20%29",
+        "value": "Thaumaturgic_Flux_(Level_20)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级2）",
-        "value": "Thaumaturgic_Flux_%28Level_2%29",
+        "value": "Thaumaturgic_Flux_(Level_2)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级3）",
-        "value": "Thaumaturgic_Flux_%28Level_3%29",
+        "value": "Thaumaturgic_Flux_(Level_3)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级4）",
-        "value": "Thaumaturgic_Flux_%28Level_4%29",
+        "value": "Thaumaturgic_Flux_(Level_4)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级5）",
-        "value": "Thaumaturgic_Flux_%28Level_5%29",
+        "value": "Thaumaturgic_Flux_(Level_5)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级6）",
-        "value": "Thaumaturgic_Flux_%28Level_6%29",
+        "value": "Thaumaturgic_Flux_(Level_6)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级7）",
-        "value": "Thaumaturgic_Flux_%28Level_7%29",
+        "value": "Thaumaturgic_Flux_(Level_7)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级8）",
-        "value": "Thaumaturgic_Flux_%28Level_8%29",
+        "value": "Thaumaturgic_Flux_(Level_8)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
     {
         "label": "秘术溶剂（等级9）",
-        "value": "Thaumaturgic_Flux_%28Level_9%29",
+        "value": "Thaumaturgic_Flux_(Level_9)",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
@@ -38889,6 +38889,48 @@
         "label": "龙鳞长靴",
         "value": "Dragonscale_Boots",
         "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "唐玛祖之乱",
+        "value": "Ravens_Reflection",
+        "desc": "六子添加",
+        "class": ""
+    },
+    {
+        "label": "裂隙石",
+        "value": "Breachstone",
+        "desc": "六子添加",
+        "class": ""
+    },
+    {
+        "label": "库勒马克的邀请",
+        "value": "Kulemaks_Invitation",
+        "desc": "六子添加",
+        "class": ""
+    },
+    {
+        "label": "星耀礦石",
+        "value": "Startlit_Ore",
+        "desc": "六子添加",
+        "class": ""
+    },
+    {
+        "label": "完美熔劑",
+        "value": "Perfect_Flux",
+        "desc": "六子添加",
+        "class": ""
+    },
+    {
+        "label": "莫丽根的洞察",
+        "value": "Mórrigans_Insight",
+        "desc": "六子添加",
+        "class": ""
+    },
+    {
+        "label": "奥杜尔之传承",
+        "value": "Aldurs_Legacy",
+        "desc": "六子添加",
         "class": ""
     }
 ]

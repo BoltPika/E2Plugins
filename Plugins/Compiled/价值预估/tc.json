@@ -48,7 +48,7 @@
         "class": ""
     },
     {
-        "label": "Aldur's Legacy",
+        "label": "阿德爾的傳承",
         "value": "Aldurs_Legacy",
         "desc": "Wiki",
         "class": ""
@@ -7429,115 +7429,115 @@
     },
     {
         "label": "奇術溶劑（等級10）",
-        "value": "Thaumaturgic_Flux_%28Level_10%29",
+        "value": "Thaumaturgic_Flux_(Level_10)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級11）",
-        "value": "Thaumaturgic_Flux_%28Level_11%29",
+        "value": "Thaumaturgic_Flux_(Level_11)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級12）",
-        "value": "Thaumaturgic_Flux_%28Level_12%29",
+        "value": "Thaumaturgic_Flux_(Level_12)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級13）",
-        "value": "Thaumaturgic_Flux_%28Level_13%29",
+        "value": "Thaumaturgic_Flux_(Level_13)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級14）",
-        "value": "Thaumaturgic_Flux_%28Level_14%29",
+        "value": "Thaumaturgic_Flux_(Level_14)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級15）",
-        "value": "Thaumaturgic_Flux_%28Level_15%29",
+        "value": "Thaumaturgic_Flux_(Level_15)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級16）",
-        "value": "Thaumaturgic_Flux_%28Level_16%29",
+        "value": "Thaumaturgic_Flux_(Level_16)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級17）",
-        "value": "Thaumaturgic_Flux_%28Level_17%29",
+        "value": "Thaumaturgic_Flux_(Level_17)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級18）",
-        "value": "Thaumaturgic_Flux_%28Level_18%29",
+        "value": "Thaumaturgic_Flux_(Level_18)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級19）",
-        "value": "Thaumaturgic_Flux_%28Level_19%29",
+        "value": "Thaumaturgic_Flux_(Level_19)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級20）",
-        "value": "Thaumaturgic_Flux_%28Level_20%29",
+        "value": "Thaumaturgic_Flux_(Level_20)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級2）",
-        "value": "Thaumaturgic_Flux_%28Level_2%29",
+        "value": "Thaumaturgic_Flux_(Level_2)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級3）",
-        "value": "Thaumaturgic_Flux_%28Level_3%29",
+        "value": "Thaumaturgic_Flux_(Level_3)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級4）",
-        "value": "Thaumaturgic_Flux_%28Level_4%29",
+        "value": "Thaumaturgic_Flux_(Level_4)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級5）",
-        "value": "Thaumaturgic_Flux_%28Level_5%29",
+        "value": "Thaumaturgic_Flux_(Level_5)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級6）",
-        "value": "Thaumaturgic_Flux_%28Level_6%29",
+        "value": "Thaumaturgic_Flux_(Level_6)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級7）",
-        "value": "Thaumaturgic_Flux_%28Level_7%29",
+        "value": "Thaumaturgic_Flux_(Level_7)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級8）",
-        "value": "Thaumaturgic_Flux_%28Level_8%29",
+        "value": "Thaumaturgic_Flux_(Level_8)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
         "label": "奇術溶劑（等級9）",
-        "value": "Thaumaturgic_Flux_%28Level_9%29",
+        "value": "Thaumaturgic_Flux_(Level_9)",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
@@ -8232,7 +8232,7 @@
         "class": "item_currency"
     },
     {
-        "label": "完美熔劑",
+        "label": "完美溶劑",
         "value": "Perfect_Flux",
         "desc": "可堆疊通貨",
         "class": "item_currency"
@@ -12967,97 +12967,97 @@
     },
     {
         "label": "換界石（階級 10）",
-        "value": "Waystone_%28Tier_10%29",
+        "value": "Waystone_(Tier_10)",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 11）",
-        "value": "Waystone_%28Tier_11%29",
+        "value": "Waystone_(Tier_11)",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 12）",
-        "value": "Waystone_%28Tier_12%29",
+        "value": "Waystone_(Tier_12)",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 13）",
-        "value": "Waystone_%28Tier_13%29",
+        "value": "Waystone_(Tier_13)",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 14）",
-        "value": "Waystone_%28Tier_14%29",
+        "value": "Waystone_(Tier_14)",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 15）",
-        "value": "Waystone_%28Tier_15%29",
+        "value": "Waystone_(Tier_15)",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 16）",
-        "value": "Waystone_%28Tier_16%29",
+        "value": "Waystone_(Tier_16)",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 1）",
-        "value": "Waystone_%28Tier_1%29",
+        "value": "Waystone_(Tier_1)",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 2）",
-        "value": "Waystone_%28Tier_2%29",
+        "value": "Waystone_(Tier_2)",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 3）",
-        "value": "Waystone_%28Tier_3%29",
+        "value": "Waystone_(Tier_3)",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 4）",
-        "value": "Waystone_%28Tier_4%29",
+        "value": "Waystone_(Tier_4)",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 5）",
-        "value": "Waystone_%28Tier_5%29",
+        "value": "Waystone_(Tier_5)",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 6）",
-        "value": "Waystone_%28Tier_6%29",
+        "value": "Waystone_(Tier_6)",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 7）",
-        "value": "Waystone_%28Tier_7%29",
+        "value": "Waystone_(Tier_7)",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 8）",
-        "value": "Waystone_%28Tier_8%29",
+        "value": "Waystone_(Tier_8)",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 9）",
-        "value": "Waystone_%28Tier_9%29",
+        "value": "Waystone_(Tier_9)",
         "desc": "換界石",
         "class": ""
     },
@@ -39999,6 +39999,48 @@
         "label": "龍鱗長靴",
         "value": "Dragonscale_Boots",
         "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "唐玛祖之乱",
+        "value": "Ravens_Reflection",
+        "desc": "六子添加",
+        "class": ""
+    },
+    {
+        "label": "裂隙石",
+        "value": "Breachstone",
+        "desc": "六子添加",
+        "class": ""
+    },
+    {
+        "label": "库勒马克的邀请",
+        "value": "Kulemaks_Invitation",
+        "desc": "六子添加",
+        "class": ""
+    },
+    {
+        "label": "星耀礦石",
+        "value": "Startlit_Ore",
+        "desc": "六子添加",
+        "class": ""
+    },
+    {
+        "label": "完美熔劑",
+        "value": "Perfect_Flux",
+        "desc": "六子添加",
+        "class": ""
+    },
+    {
+        "label": "莫里根的洞察",
+        "value": "Mórrigans_Insight",
+        "desc": "六子添加",
+        "class": ""
+    },
+    {
+        "label": "阿德爾的傳承",
+        "value": "Aldurs_Legacy",
+        "desc": "六子添加",
         "class": ""
     }
 ]
