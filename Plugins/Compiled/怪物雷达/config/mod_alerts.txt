@@ -1,0 +1,29 @@
+#匹配键; 中文说明; 小地图图标坐标
+MonsterNemesisUniqueDrop; 附近有内在宝藏; 1,4
+MonsterImplicitNemesisUniqueDrop; 附近有内在宝藏; 1,4
+MonsterAuraPhysicalThorns1; 附近有物理反射; 6,3
+MonsterPhysicalThorns; 附近有物理反射; 6,3
+MonsterAuraElementalThorns1; 附近有元素反射; 7,3
+MonsterElementalThorns; 附近有元素反射; 7,3
+MonsterNemesisCorruptedBlood; 附近有腐化之血; 6,7
+MonsterItems1; 附近有财富怪物; 3,4
+MonsterExplodesOnDeathFire1; 附近有火焰爆炸怪; 2,4
+MonsterExplodesOnDeathLightning1; 附近有闪电爆炸怪; 2,4
+MonsterExplodesOnDeathCold1; 附近有冰霜爆炸怪; 2,4
+MonsterThornsPhysical1; 附近有物理反射; 6,3
+MonsterThornsElemental1; 附近有元素反射; 7,3
+MonsterThornsPhysical1Large; 附近有物理反射; 6,3
+MonsterThornsElemental1Large; 附近有元素反射; 7,3
+MonsterBloodlinesDropRareItem; 宝库守卫; 3,4
+MonsterBloodlinesBeaconOnDeathFire; 火焰信标;2,4
+MonsterBloodlinesBeaconOnDeathCold; 冰霜信标;2,4
+MonsterBloodlinesBeaconOnDeathLightning; 闪电信标;2,4
+MonsterTentacleFieldDropModifiers;触手词缀; 3,4
+# 迷雾
+MonsterAfflictionMagicRewardDebuffFlaskEffect_; 稀释之触; 1,4
+MonsterAfflictionMagicRewardDebuffActionSpeed; 麻痹之触; 7,3
+MonsterAfflictionMagicRewardDebuffRecoveryRate__; 枯萎之触; 3,4
+MonsterAfflictionMagicRewardDebuffDamageTaken; 侵蚀之触; 6,3
+MonsterAfflictionHasTeleportAndExplodeOnDeathDaemon; 复仇追猎者; 1,7
+MonsterAfflictionVolatileOnDeath; 复仇追逐; 6,7
+MonsterAfflictionAnomalyOnDeath; 复仇之握; 1,5
