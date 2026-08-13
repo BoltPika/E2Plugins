@@ -48,7 +48,25 @@
         "class": ""
     },
     {
-        "label": "阿德爾的傳承",
+        "label": "0.5.1 版本更新公告",
+        "value": "Version_0.5.1",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "0.5.2 版本更新公告",
+        "value": "Version_0.5.2",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "0.5.4 版本更新公告",
+        "value": "Version_0.5.4",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "Aldur's Legacy",
         "value": "Aldurs_Legacy",
         "desc": "Wiki",
         "class": ""
@@ -72,14 +90,38 @@
         "class": ""
     },
     {
+        "label": "Desert",
+        "value": "Desert",
+        "desc": "關鍵字",
+        "class": ""
+    },
+    {
         "label": "Exceptional item",
         "value": "Exceptional_item",
         "desc": "Wiki",
         "class": ""
     },
     {
+        "label": "Forest",
+        "value": "Forest",
+        "desc": "關鍵字",
+        "class": ""
+    },
+    {
         "label": "Glory",
         "value": "Glory",
+        "desc": "關鍵字",
+        "class": ""
+    },
+    {
+        "label": "Grass",
+        "value": "Grass",
+        "desc": "關鍵字",
+        "class": ""
+    },
+    {
+        "label": "Mountain",
+        "value": "Mountain",
         "desc": "關鍵字",
         "class": ""
     },
@@ -90,9 +132,21 @@
         "class": ""
     },
     {
+        "label": "Swamp",
+        "value": "Swamp",
+        "desc": "關鍵字",
+        "class": ""
+    },
+    {
         "label": "Version 0.2.0h",
         "value": "Version_0.2.0h",
         "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "Water",
+        "value": "Water",
+        "desc": "關鍵字",
         "class": ""
     },
     {
@@ -153,6 +207,12 @@
         "label": "三相戒指",
         "value": "Prismatic_Ring",
         "desc": "戒指",
+        "class": ""
+    },
+    {
+        "label": "三相符文",
+        "value": "Prismatic_Rune",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -386,7 +446,7 @@
     {
         "label": "中毒",
         "value": "Poison",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -412,6 +472,12 @@
         "value": "Beaded_Circlet",
         "desc": "頭部",
         "class": ""
+    },
+    {
+        "label": "主宰之觸",
+        "value": "The_Masters_Reach",
+        "desc": "傳奇",
+        "class": "UniqueItem"
     },
     {
         "label": "主宰領地",
@@ -735,6 +801,12 @@
         "label": "任務物品",
         "value": "Quest_Items",
         "desc": "Item Classes",
+        "class": ""
+    },
+    {
+        "label": "任務繼續",
+        "value": "The_Quest_Continues",
+        "desc": "Passive",
         "class": ""
     },
     {
@@ -1196,7 +1268,7 @@
     {
         "label": "保留",
         "value": "Reservation",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -1214,13 +1286,13 @@
     {
         "label": "保護符文",
         "value": "Ward_Rune",
-        "desc": "增幅",
+        "desc": "Keywords",
         "class": ""
     },
     {
         "label": "保險箱",
         "value": "Strongbox",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -1418,7 +1490,7 @@
     {
         "label": "偷取",
         "value": "Leech",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -1945,8 +2017,8 @@
     },
     {
         "label": "傷害轉換",
-        "value": "Damage_conversion",
-        "desc": "關鍵字",
+        "value": "Damage_Conversion",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -2600,7 +2672,7 @@
     {
         "label": "先行者高塔",
         "value": "Precursor_Towers",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -2641,8 +2713,8 @@
     },
     {
         "label": "光環",
-        "value": "Aura",
-        "desc": "關鍵字",
+        "value": "Auras",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -2947,8 +3019,8 @@
     },
     {
         "label": "冰冷傷害",
-        "value": "Cold_damage",
-        "desc": "關鍵字",
+        "value": "Cold_Damage",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -2982,6 +3054,12 @@
         "class": "gemitem"
     },
     {
+        "label": "冰冷符文",
+        "value": "Cold_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "冰冽掌",
         "value": "Gelid_Palm",
         "desc": "技能寶石",
@@ -2989,8 +3067,8 @@
     },
     {
         "label": "冰凍",
-        "value": "Freeze",
-        "desc": "關鍵字",
+        "value": "Frozen",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -3140,7 +3218,7 @@
     {
         "label": "冰緩",
         "value": "Chill",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -3246,6 +3324,12 @@
         "class": ""
     },
     {
+        "label": "冰霜節奏",
+        "value": "Rhythm_of_Ice",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "冰靈之吼",
         "value": "Asphyxias_Wrath",
         "desc": "傳奇",
@@ -3342,6 +3426,12 @@
         "class": ""
     },
     {
+        "label": "冽風",
+        "value": "Flurry",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "凋萎敗柳",
         "value": "The_Withered_Willow",
         "desc": "WorldAreas",
@@ -3356,7 +3446,7 @@
     {
         "label": "凋零",
         "value": "Withered",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -3393,6 +3483,12 @@
         "label": "凋零老嫗．布拉卡",
         "value": "Brakka%2C_the_Withered_Crone",
         "desc": "怪物",
+        "class": ""
+    },
+    {
+        "label": "凍凍腦",
+        "value": "Brain_Freeze",
+        "desc": "Passive",
         "class": ""
     },
     {
@@ -3522,6 +3618,12 @@
         "class": ""
     },
     {
+        "label": "出血符文",
+        "value": "Bloodletting_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "出血致死",
         "value": "Bleeding_Out",
         "desc": "Passive",
@@ -3625,8 +3727,8 @@
     },
     {
         "label": "分裂",
-        "value": "Fork",
-        "desc": "關鍵字",
+        "value": "Split",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -4056,6 +4158,12 @@
         "class": ""
     },
     {
+        "label": "力量符文",
+        "value": "Power_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "力量震波",
         "value": "Forcewave",
         "desc": "Passive",
@@ -4152,12 +4260,6 @@
         "class": ""
     },
     {
-        "label": "努葛瑪呼之選",
-        "value": "Ngamahus_Chosen",
-        "desc": "傳奇",
-        "class": "UniqueItem"
-    },
-    {
         "label": "劫掠之錘",
         "value": "Marauding_Mace",
         "desc": "單手錘",
@@ -4226,7 +4328,7 @@
     {
         "label": "勇氣",
         "value": "Valour",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -4446,6 +4548,12 @@
         "class": ""
     },
     {
+        "label": "升級威脅",
+        "value": "Escalating_Threats",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "午夜天頂",
         "value": "Midnight_Zenith",
         "desc": "技能寶石",
@@ -4474,12 +4582,6 @@
         "value": "Penumbra_Amulet",
         "desc": "項鍊",
         "class": ""
-    },
-    {
-        "label": "半神的美德",
-        "value": "Demigods_Virtue",
-        "desc": "傳奇",
-        "class": "UniqueItem"
     },
     {
         "label": "卑劣珍寶",
@@ -4627,7 +4729,7 @@
     },
     {
         "label": "卡爾葛技能",
-        "value": "Kalguuran_Skills",
+        "value": "Kalguuran_Gems",
         "desc": "Wiki",
         "class": ""
     },
@@ -4730,7 +4832,7 @@
     {
         "label": "印記",
         "value": "Mark",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -4753,8 +4855,8 @@
     },
     {
         "label": "危險",
-        "value": "Hazard",
-        "desc": "關鍵字",
+        "value": "Hazards",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -4897,8 +4999,8 @@
     },
     {
         "label": "友方",
-        "value": "Ally",
-        "desc": "關鍵字",
+        "value": "Allies",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -5191,8 +5293,8 @@
     },
     {
         "label": "召喚物",
-        "value": "Minion",
-        "desc": "關鍵字",
+        "value": "Minions",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -5436,6 +5538,12 @@
         "class": ""
     },
     {
+        "label": "合金",
+        "value": "Alloy",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
         "label": "合金十字弓",
         "value": "Alloy_Crossbow",
         "desc": "十字弓",
@@ -5482,12 +5590,6 @@
         "value": "Sovereign_Alloy",
         "desc": "可堆疊通貨",
         "class": "item_currency"
-    },
-    {
-        "label": "君王之首",
-        "value": "Head_of_the_King",
-        "desc": "任務物品",
-        "class": "questitem"
     },
     {
         "label": "吞噬",
@@ -5563,8 +5665,8 @@
     },
     {
         "label": "命中",
-        "value": "Accuracy",
-        "desc": "關鍵字",
+        "value": "Accurate",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -5652,6 +5754,24 @@
         "class": "UniqueItem"
     },
     {
+        "label": "和死共舞",
+        "value": "Dance_with_Death",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "和河同行",
+        "value": "One_with_the_River",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "和火合一",
+        "value": "One_With_Flame",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "和諧發電",
         "value": "Harmonic_Generator",
         "desc": "Passive",
@@ -5672,6 +5792,12 @@
     {
         "label": "和諧腐化",
         "value": "Harmonic_Corruption",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "和風同行",
+        "value": "One_with_the_Storm",
         "desc": "Passive",
         "class": ""
     },
@@ -5750,7 +5876,7 @@
     {
         "label": "品質",
         "value": "Quality",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -5970,9 +6096,15 @@
         "class": ""
     },
     {
+        "label": "噬咬狂風",
+        "value": "Kingsguard",
+        "desc": "傳奇",
+        "class": "UniqueItem"
+    },
+    {
         "label": "噬魂者",
         "value": "Soul_Eater",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -6060,6 +6192,12 @@
         "class": ""
     },
     {
+        "label": "國王首級",
+        "value": "Head_of_the_King",
+        "desc": "任務物品",
+        "class": "questitem"
+    },
+    {
         "label": "圍城",
         "value": "Lay_Siege",
         "desc": "Passive",
@@ -6103,8 +6241,8 @@
     },
     {
         "label": "圖騰",
-        "value": "Totem",
-        "desc": "關鍵字",
+        "value": "Totems",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -6170,7 +6308,7 @@
     {
         "label": "地圖頭目",
         "value": "Map_Boss",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -6285,6 +6423,12 @@
         "label": "城塞",
         "value": "Citadel",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "城市",
+        "value": "City",
+        "desc": "關鍵字",
         "class": ""
     },
     {
@@ -6550,6 +6694,12 @@
         "value": "Hardy_Totems_II",
         "desc": "輔助寶石",
         "class": "gemitem"
+    },
+    {
+        "label": "堅韌奉獻寶珠",
+        "value": "Kopecs_Orb_of_Sacrifice",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
     },
     {
         "label": "堅韌守護",
@@ -6889,8 +7039,8 @@
     },
     {
         "label": "壓碎",
-        "value": "Crush",
-        "desc": "關鍵字",
+        "value": "Crushed",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -7134,6 +7284,12 @@
         "class": ""
     },
     {
+        "label": "大地符文",
+        "value": "Earth_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "大地粉碎者．魔籠",
         "value": "Rattlecage%2C_the_Earthbreaker",
         "desc": "怪物",
@@ -7146,8 +7302,8 @@
         "class": "gemitem"
     },
     {
-        "label": "大型探險痕跡",
-        "value": "Grand_Expedition_Remnant",
+        "label": "大型探險",
+        "value": "Grand_Expedition",
         "desc": "Keywords",
         "class": ""
     },
@@ -7275,6 +7431,12 @@
         "label": "天空先知．巴拉克",
         "value": "Bahlak%2C_the_Sky_Seer",
         "desc": "怪物",
+        "class": ""
+    },
+    {
+        "label": "天空符文",
+        "value": "Sky_Rune",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -7428,116 +7590,104 @@
         "class": ""
     },
     {
-        "label": "奇術溶劑（等級10）",
-        "value": "Thaumaturgic_Flux_(Level_10)",
+        "label": "奇術熔劑（等級10）",
+        "value": "Thaumaturgic_Flux_%28Level_10%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級11）",
-        "value": "Thaumaturgic_Flux_(Level_11)",
+        "label": "奇術熔劑（等級11）",
+        "value": "Thaumaturgic_Flux_%28Level_11%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級12）",
-        "value": "Thaumaturgic_Flux_(Level_12)",
+        "label": "奇術熔劑（等級12）",
+        "value": "Thaumaturgic_Flux_%28Level_12%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級13）",
-        "value": "Thaumaturgic_Flux_(Level_13)",
+        "label": "奇術熔劑（等級13）",
+        "value": "Thaumaturgic_Flux_%28Level_13%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級14）",
-        "value": "Thaumaturgic_Flux_(Level_14)",
+        "label": "奇術熔劑（等級14）",
+        "value": "Thaumaturgic_Flux_%28Level_14%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級15）",
-        "value": "Thaumaturgic_Flux_(Level_15)",
+        "label": "奇術熔劑（等級15）",
+        "value": "Thaumaturgic_Flux_%28Level_15%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級16）",
-        "value": "Thaumaturgic_Flux_(Level_16)",
+        "label": "奇術熔劑（等級16）",
+        "value": "Thaumaturgic_Flux_%28Level_16%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級17）",
-        "value": "Thaumaturgic_Flux_(Level_17)",
+        "label": "奇術熔劑（等級17）",
+        "value": "Thaumaturgic_Flux_%28Level_17%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級18）",
-        "value": "Thaumaturgic_Flux_(Level_18)",
+        "label": "奇術熔劑（等級18）",
+        "value": "Thaumaturgic_Flux_%28Level_18%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級19）",
-        "value": "Thaumaturgic_Flux_(Level_19)",
+        "label": "奇術熔劑（等級19）",
+        "value": "Thaumaturgic_Flux_%28Level_19%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級20）",
-        "value": "Thaumaturgic_Flux_(Level_20)",
+        "label": "奇術熔劑（等級20）",
+        "value": "Thaumaturgic_Flux_%28Level_20%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級2）",
-        "value": "Thaumaturgic_Flux_(Level_2)",
+        "label": "奇術熔劑（等級4）",
+        "value": "Thaumaturgic_Flux_%28Level_4%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級3）",
-        "value": "Thaumaturgic_Flux_(Level_3)",
+        "label": "奇術熔劑（等級5）",
+        "value": "Thaumaturgic_Flux_%28Level_5%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級4）",
-        "value": "Thaumaturgic_Flux_(Level_4)",
+        "label": "奇術熔劑（等級6）",
+        "value": "Thaumaturgic_Flux_%28Level_6%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級5）",
-        "value": "Thaumaturgic_Flux_(Level_5)",
+        "label": "奇術熔劑（等級7）",
+        "value": "Thaumaturgic_Flux_%28Level_7%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級6）",
-        "value": "Thaumaturgic_Flux_(Level_6)",
+        "label": "奇術熔劑（等級8）",
+        "value": "Thaumaturgic_Flux_%28Level_8%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
     {
-        "label": "奇術溶劑（等級7）",
-        "value": "Thaumaturgic_Flux_(Level_7)",
-        "desc": "可堆疊通貨",
-        "class": "item_currency"
-    },
-    {
-        "label": "奇術溶劑（等級8）",
-        "value": "Thaumaturgic_Flux_(Level_8)",
-        "desc": "可堆疊通貨",
-        "class": "item_currency"
-    },
-    {
-        "label": "奇術溶劑（等級9）",
-        "value": "Thaumaturgic_Flux_(Level_9)",
+        "label": "奇術熔劑（等級9）",
+        "value": "Thaumaturgic_Flux_%28Level_9%29",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
@@ -7554,12 +7704,6 @@
         "class": ""
     },
     {
-        "label": "奇點地圖",
-        "value": "Anomaly_Map",
-        "desc": "Wiki",
-        "class": ""
-    },
-    {
         "label": "奉承魔偶",
         "value": "Idol_of_the_Sycophant",
         "desc": "增幅",
@@ -7567,9 +7711,9 @@
     },
     {
         "label": "奉獻",
-        "value": "Offering",
-        "desc": "關鍵字",
-        "class": ""
+        "value": "Consecrate",
+        "desc": "技能寶石",
+        "class": "gemitem"
     },
     {
         "label": "奉獻地面",
@@ -7662,6 +7806,12 @@
         "class": ""
     },
     {
+        "label": "奢靡符文",
+        "value": "Opulent_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "奧敦塑像",
         "value": "Idol_of_Uldurn",
         "desc": "傳奇",
@@ -7740,6 +7890,12 @@
         "class": ""
     },
     {
+        "label": "奧術符文",
+        "value": "Arcane_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "奧術蝕刻師",
         "value": "Arcanists_Etcher",
         "desc": "可堆疊通貨",
@@ -7774,6 +7930,12 @@
         "value": "Huntress",
         "desc": "角色",
         "class": ""
+    },
+    {
+        "label": "女王進軍",
+        "value": "Queens_Procession",
+        "desc": "技能寶石",
+        "class": "gemitem"
     },
     {
         "label": "女皇之捷",
@@ -7818,6 +7980,12 @@
         "class": ""
     },
     {
+        "label": "好手氣",
+        "value": "Feeling_Lucky_",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "好相處",
         "value": "Easy_Going",
         "desc": "Passive",
@@ -7846,6 +8014,12 @@
         "value": "The_Mhachas_Gift",
         "desc": "Passive",
         "class": ""
+    },
+    {
+        "label": "始創維里西姆",
+        "value": "Founders_Verisium",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
     },
     {
         "label": "始料未及的後果",
@@ -7904,7 +8078,7 @@
     {
         "label": "存在範圍",
         "value": "Presence",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -7932,6 +8106,12 @@
         "class": ""
     },
     {
+        "label": "孤注一擲",
+        "value": "Double_or_Nothing",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "孤立",
         "value": "Isolated",
         "desc": "Keywords",
@@ -7946,7 +8126,7 @@
     {
         "label": "守護",
         "value": "Guard",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -8232,7 +8412,7 @@
         "class": "item_currency"
     },
     {
-        "label": "完美溶劑",
+        "label": "完美熔劑",
         "value": "Perfect_Flux",
         "desc": "可堆疊通貨",
         "class": "item_currency"
@@ -8566,12 +8746,6 @@
         "value": "Rearguard",
         "desc": "傳奇",
         "class": "UniqueItem"
-    },
-    {
-        "label": "寒霜之歌",
-        "value": "Rhythm_of_Ice",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "寒霜之鏢",
@@ -8960,7 +9134,7 @@
     {
         "label": "屍體",
         "value": "Corpses",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -9054,6 +9228,12 @@
         "class": ""
     },
     {
+        "label": "山地精通",
+        "value": "Mountain_Mastery",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "山嶺之怒",
         "value": "Fury_of_the_Mountain",
         "desc": "技能寶石",
@@ -9140,7 +9320,7 @@
     {
         "label": "岩石符文",
         "value": "Stone_Rune",
-        "desc": "增幅",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -9165,6 +9345,12 @@
         "label": "岩石鏈錘",
         "value": "Stone_Flail",
         "desc": "鏈錘",
+        "class": ""
+    },
+    {
+        "label": "島嶼傳言",
+        "value": "Island_Rumours",
+        "desc": "",
         "class": ""
     },
     {
@@ -9746,12 +9932,18 @@
     {
         "label": "已汙染",
         "value": "Corrupted",
-        "desc": "Wiki",
+        "desc": "強襲宿敵",
         "class": ""
     },
     {
         "label": "已汙染物品",
         "value": "Corrupted_Items",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "已汙染的怪物",
+        "value": "Corrupted_Monsters",
         "desc": "Keywords",
         "class": ""
     },
@@ -10010,8 +10202,8 @@
     {
         "label": "幻像斷片",
         "value": "Simulacrum_Splinter",
-        "desc": "Wiki",
-        "class": ""
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
     },
     {
         "label": "幻像異界",
@@ -10026,16 +10218,40 @@
         "class": "gemitem"
     },
     {
+        "label": "幻夢者之力",
+        "value": "Dreamers_Might",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "幻夢者之掌",
         "value": "Palm_of_the_Dreamer",
         "desc": "傳奇",
         "class": "UniqueItem"
     },
     {
+        "label": "幻夢者之贈",
+        "value": "Dreamers_Gift",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "幻夢者啟發",
+        "value": "Dreamers_Inspiration",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "幻夢者的喪鐘",
         "value": "Dreamers_Knell",
         "desc": "輔助寶石",
         "class": "gemitem"
+    },
+    {
+        "label": "幻夢者視界",
+        "value": "Dreamers_Sight",
+        "desc": "Keywords",
+        "class": ""
     },
     {
         "label": "幻影射手",
@@ -10310,7 +10526,7 @@
     {
         "label": "引導",
         "value": "Channelling",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -10376,7 +10592,7 @@
     {
         "label": "引爆器",
         "value": "Detonator",
-        "desc": "關鍵字",
+        "desc": "寶石標籤",
         "class": ""
     },
     {
@@ -10754,7 +10970,7 @@
     {
         "label": "彈藥",
         "value": "Ammunition",
-        "desc": "關鍵字",
+        "desc": "寶石標籤",
         "class": ""
     },
     {
@@ -11234,7 +11450,7 @@
     {
         "label": "快行",
         "value": "Travel",
-        "desc": "關鍵字",
+        "desc": "寶石標籤",
         "class": ""
     },
     {
@@ -11458,6 +11674,12 @@
         "value": "Grim_Pillars",
         "desc": "技能寶石",
         "class": "gemitem"
+    },
+    {
+        "label": "恐息符文",
+        "value": "Gasp_Rune",
+        "desc": "Keywords",
+        "class": ""
     },
     {
         "label": "恐懼之伴．賽菲菈",
@@ -11768,7 +11990,7 @@
     {
         "label": "感電",
         "value": "Shock",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -11983,8 +12205,8 @@
     },
     {
         "label": "戰吼",
-        "value": "Warcry",
-        "desc": "關鍵字",
+        "value": "Warcries",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -12057,6 +12279,12 @@
         "label": "戰爭長矛",
         "value": "War_Spear",
         "desc": "長矛",
+        "class": ""
+    },
+    {
+        "label": "戰略優勢",
+        "value": "Strategic_Advantage",
+        "desc": "Passive",
         "class": ""
     },
     {
@@ -12326,7 +12554,7 @@
     {
         "label": "投射物",
         "value": "Projectile",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -12409,14 +12637,14 @@
     },
     {
         "label": "抗性",
-        "value": "Resistance",
-        "desc": "關鍵字",
+        "value": "Resistances",
+        "desc": "Keywords",
         "class": ""
     },
     {
         "label": "抗性穿透",
-        "value": "Resistance_penetration",
-        "desc": "關鍵字",
+        "value": "Resistance_Penetration",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -12582,6 +12810,12 @@
         "class": "gemitem"
     },
     {
+        "label": "拿瑪乎之選",
+        "value": "Ngamahus_Chosen",
+        "desc": "傳奇",
+        "class": "UniqueItem"
+    },
+    {
         "label": "持久創傷",
         "value": "Lasting_Trauma",
         "desc": "Passive",
@@ -12608,7 +12842,7 @@
     {
         "label": "持續",
         "value": "Persistent",
-        "desc": "關鍵字",
+        "desc": "寶石標籤",
         "class": ""
     },
     {
@@ -12674,7 +12908,7 @@
     {
         "label": "持續時間",
         "value": "Duration",
-        "desc": "關鍵字",
+        "desc": "寶石標籤",
         "class": ""
     },
     {
@@ -12794,7 +13028,7 @@
     {
         "label": "捷光環",
         "value": "Herald",
-        "desc": "關鍵字",
+        "desc": "寶石標籤",
         "class": ""
     },
     {
@@ -12956,7 +13190,7 @@
     {
         "label": "換界石",
         "value": "Waystones",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -12967,97 +13201,97 @@
     },
     {
         "label": "換界石（階級 10）",
-        "value": "Waystone_(Tier_10)",
+        "value": "Waystone_%28Tier_10%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 11）",
-        "value": "Waystone_(Tier_11)",
+        "value": "Waystone_%28Tier_11%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 12）",
-        "value": "Waystone_(Tier_12)",
+        "value": "Waystone_%28Tier_12%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 13）",
-        "value": "Waystone_(Tier_13)",
+        "value": "Waystone_%28Tier_13%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 14）",
-        "value": "Waystone_(Tier_14)",
+        "value": "Waystone_%28Tier_14%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 15）",
-        "value": "Waystone_(Tier_15)",
+        "value": "Waystone_%28Tier_15%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 16）",
-        "value": "Waystone_(Tier_16)",
+        "value": "Waystone_%28Tier_16%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 1）",
-        "value": "Waystone_(Tier_1)",
+        "value": "Waystone_%28Tier_1%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 2）",
-        "value": "Waystone_(Tier_2)",
+        "value": "Waystone_%28Tier_2%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 3）",
-        "value": "Waystone_(Tier_3)",
+        "value": "Waystone_%28Tier_3%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 4）",
-        "value": "Waystone_(Tier_4)",
+        "value": "Waystone_%28Tier_4%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 5）",
-        "value": "Waystone_(Tier_5)",
+        "value": "Waystone_%28Tier_5%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 6）",
-        "value": "Waystone_(Tier_6)",
+        "value": "Waystone_%28Tier_6%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 7）",
-        "value": "Waystone_(Tier_7)",
+        "value": "Waystone_%28Tier_7%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 8）",
-        "value": "Waystone_(Tier_8)",
+        "value": "Waystone_%28Tier_8%29",
         "desc": "換界石",
         "class": ""
     },
     {
         "label": "換界石（階級 9）",
-        "value": "Waystone_(Tier_9)",
+        "value": "Waystone_%28Tier_9%29",
         "desc": "換界石",
         "class": ""
     },
@@ -13218,9 +13452,15 @@
         "class": "gemitem"
     },
     {
+        "label": "播種",
+        "value": "Sown_Seeds",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "撲殺",
-        "value": "Culling_strike",
-        "desc": "關鍵字",
+        "value": "Culling_Strike",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -13298,7 +13538,7 @@
     {
         "label": "擊退",
         "value": "Knockback",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -13316,7 +13556,7 @@
     {
         "label": "擲彈",
         "value": "Grenade",
-        "desc": "關鍵字",
+        "desc": "寶石標籤",
         "class": ""
     },
     {
@@ -14000,7 +14240,7 @@
     {
         "label": "旗幟",
         "value": "Banner",
-        "desc": "關鍵字",
+        "desc": "寶石標籤",
         "class": ""
     },
     {
@@ -14322,12 +14562,6 @@
         "class": ""
     },
     {
-        "label": "時間之遺",
-        "value": "Forgotten_By_Time",
-        "desc": "傳奇",
-        "class": "UniqueItem"
-    },
-    {
         "label": "時間凍結",
         "value": "Time_Freeze",
         "desc": "技能寶石",
@@ -14361,6 +14595,12 @@
         "label": "時間碑石",
         "value": "Monuments_in_Time",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "時間符文",
+        "value": "Time_Rune",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -14448,6 +14688,12 @@
         "class": ""
     },
     {
+        "label": "智慧符文",
+        "value": "Wisdom_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "智者織衫",
         "value": "Loreweave",
         "desc": "傳奇",
@@ -14461,8 +14707,8 @@
     },
     {
         "label": "暈眩",
-        "value": "Stun",
-        "desc": "關鍵字",
+        "value": "Stuns",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -14623,8 +14869,8 @@
     },
     {
         "label": "暴擊",
-        "value": "Critical_hit",
-        "desc": "關鍵字",
+        "value": "Critical_Hits",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -14780,7 +15026,7 @@
     {
         "label": "曝曬",
         "value": "Exposure",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -14883,6 +15129,12 @@
         "label": "月之祝福",
         "value": "Blessing_of_the_Moon",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "月亮符文 ",
+        "value": "Moon_Rune",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -15224,7 +15476,7 @@
     {
         "label": "格擋",
         "value": "Block",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -15296,7 +15548,7 @@
     {
         "label": "條件",
         "value": "Conditional",
-        "desc": "關鍵字",
+        "desc": "寶石標籤",
         "class": ""
     },
     {
@@ -15339,6 +15591,12 @@
         "label": "森林之憎．根爪",
         "value": "Rootgrasp%2C_the_Hateful_Forest",
         "desc": "怪物",
+        "class": ""
+    },
+    {
+        "label": "森林精通",
+        "value": "Forest_Mastery",
+        "desc": "Passive",
         "class": ""
     },
     {
@@ -15776,7 +16034,7 @@
     {
         "label": "武聖",
         "value": "Martial_Artist",
-        "desc": "Wiki",
+        "desc": "昇華試煉",
         "class": ""
     },
     {
@@ -15894,6 +16152,12 @@
         "class": ""
     },
     {
+        "label": "死亡符文",
+        "value": "Death_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "死亡行進",
         "value": "Deathmarch",
         "desc": "輔助寶石",
@@ -15908,7 +16172,7 @@
     {
         "label": "死境探險",
         "value": "Expedition",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -15940,6 +16204,12 @@
         "value": "Life_from_Death",
         "desc": "Passive",
         "class": ""
+    },
+    {
+        "label": "死靈催化劑",
+        "value": "Necrotic_Catalyst",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
     },
     {
         "label": "死靈魔符",
@@ -16098,6 +16368,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "殘酷奉獻寶珠",
+        "value": "Yaomacs_Orb_of_Sacrifice",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
+    },
+    {
         "label": "殘酷無情",
         "value": "Remorseless",
         "desc": "Passive",
@@ -16254,6 +16530,12 @@
         "class": "gemitem"
     },
     {
+        "label": "毒素符文",
+        "value": "Toxic_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "毒素領域",
         "value": "Toxic_Domain",
         "desc": "技能寶石",
@@ -16350,6 +16632,12 @@
         "class": "gemitem"
     },
     {
+        "label": "氣勢符文",
+        "value": "Momentum_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "氣場四散",
         "value": "Presence_Present",
         "desc": "Passive",
@@ -16360,6 +16648,12 @@
         "value": "Cyclonic_Alloy",
         "desc": "可堆疊通貨",
         "class": "item_currency"
+    },
+    {
+        "label": "氣旋符文",
+        "value": "Cyclonic_Rune",
+        "desc": "Keywords",
+        "class": ""
     },
     {
         "label": "水中之物",
@@ -16378,6 +16672,12 @@
         "value": "Heart_of_the_Well",
         "desc": "傳奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "水域精通",
+        "value": "Water_Mastery",
+        "desc": "Passive",
+        "class": ""
     },
     {
         "label": "水晶化免疫",
@@ -16766,7 +17066,7 @@
     {
         "label": "沉重暈眩",
         "value": "Heavy_Stun",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -16839,6 +17139,12 @@
         "label": "沙漠符文",
         "value": "Desert_Rune",
         "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "沙漠精通",
+        "value": "Desert_Mastery",
+        "desc": "Passive",
         "class": ""
     },
     {
@@ -16944,6 +17250,12 @@
         "class": ""
     },
     {
+        "label": "沼澤精通",
+        "value": "Swamp_Mastery",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "沼澤霸主",
         "value": "Boss_of_the_Bog",
         "desc": "Passive",
@@ -16957,12 +17269,12 @@
     },
     {
         "label": "法器",
-        "value": "Focus",
-        "desc": "關鍵字",
+        "value": "Foci",
+        "desc": "Keywords",
         "class": ""
     },
     {
-        "label": "法官、陪審團與劊子手",
+        "label": "法官、陪審團和劊子手",
         "value": "Judge%2C_Jury%2C_and_Executioner",
         "desc": "Passive",
         "class": ""
@@ -17276,7 +17588,7 @@
     {
         "label": "流血",
         "value": "Bleeding",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -17324,7 +17636,7 @@
     {
         "label": "流順之風",
         "value": "Tailwind",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -17391,6 +17703,12 @@
         "label": "海妖鱗手套",
         "value": "Sirenscale_Gloves",
         "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "海洋栽培",
+        "value": "Cultivate_the_Sea",
+        "desc": "Passive",
         "class": ""
     },
     {
@@ -17504,12 +17822,18 @@
     {
         "label": "液態情感",
         "value": "Liquid_Emotions",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
         "label": "液態絕望",
         "value": "Liquid_Despair",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
+    },
+    {
+        "label": "液態維里西姆",
+        "value": "Liquid_Verisium",
         "desc": "可堆疊通貨",
         "class": "item_currency"
     },
@@ -17541,6 +17865,12 @@
         "label": "深坑之王",
         "value": "Lord_of_the_Pit",
         "desc": "怪物",
+        "class": ""
+    },
+    {
+        "label": "深埋野心",
+        "value": "Buried_Ambition",
+        "desc": "Passive",
         "class": ""
     },
     {
@@ -17588,7 +17918,7 @@
     {
         "label": "深淵",
         "value": "Abyss",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -17616,14 +17946,32 @@
         "class": ""
     },
     {
+        "label": "深淵倉庫頁",
+        "value": "Abyss_Stash_Tab",
+        "desc": "Stashtab",
+        "class": ""
+    },
+    {
+        "label": "深淵冥約\r\n",
+        "value": "Abyssal_Pact",
+        "desc": "技能寶石",
+        "class": "gemitem"
+    },
+    {
         "label": "深淵妖巫",
         "value": "Abyssal_Lich",
-        "desc": "Wiki",
+        "desc": "昇華試煉",
         "class": ""
     },
     {
         "label": "深淵幻象",
         "value": "Abyssal_Apparition",
+        "desc": "技能寶石",
+        "class": "gemitem"
+    },
+    {
+        "label": "深淵活體炸彈",
+        "value": "Untether",
         "desc": "技能寶石",
         "class": "gemitem"
     },
@@ -17713,8 +18061,8 @@
     },
     {
         "label": "混沌傷害",
-        "value": "Chaos_damage",
-        "desc": "關鍵字",
+        "value": "Chaos_Damage",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -17860,12 +18208,6 @@
         "value": "The_Raven_Trickster",
         "desc": "怪物",
         "class": ""
-    },
-    {
-        "label": "渡鴉的鏡像",
-        "value": "Ravens_Reflection",
-        "desc": "任務物品",
-        "class": "questitem"
     },
     {
         "label": "渡鴉碎片",
@@ -18222,6 +18564,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "潮汐符文",
+        "value": "Tidal_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "澎湃灌注",
         "value": "Surging_Avatar",
         "desc": "Passive",
@@ -18238,6 +18586,12 @@
         "value": "Zerphis_Infamy",
         "desc": "輔助寶石",
         "class": "gemitem"
+    },
+    {
+        "label": "澤洛克之贈",
+        "value": "Zarokhs_Gift",
+        "desc": "Passive",
+        "class": ""
     },
     {
         "label": "澤洛克的克制",
@@ -18396,6 +18750,12 @@
         "class": "gemitem"
     },
     {
+        "label": "瀆神奉獻寶珠",
+        "value": "Kamasas_Orb_of_Sacrifice",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
+    },
+    {
         "label": "瀆神祭祀",
         "value": "Profane_Ritual",
         "desc": "技能寶石",
@@ -18452,6 +18812,12 @@
     {
         "label": "火化嚎叫",
         "value": "Cremating_Cries",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "火占師",
+        "value": "Pyromancer",
         "desc": "Passive",
         "class": ""
     },
@@ -18517,8 +18883,8 @@
     },
     {
         "label": "火焰傷害",
-        "value": "Fire_damage",
-        "desc": "關鍵字",
+        "value": "Fire_Damage",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -18582,9 +18948,21 @@
         "class": ""
     },
     {
+        "label": "火焰符文",
+        "value": "Fire_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "火焰箭袋",
         "value": "Fire_Quiver",
         "desc": "箭袋",
+        "class": ""
+    },
+    {
+        "label": "火焰節奏",
+        "value": "Rhythm_of_Fire",
+        "desc": "Passive",
         "class": ""
     },
     {
@@ -18858,12 +19236,6 @@
         "class": "UniqueItem"
     },
     {
-        "label": "烈焰之歌",
-        "value": "Rhythm_of_Fire",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "烈焰之牆",
         "value": "Flame_Wall",
         "desc": "技能寶石",
@@ -18888,6 +19260,12 @@
         "class": "gemitem"
     },
     {
+        "label": "烈焰看守者",
+        "value": "Flamekeeper",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "烈焰穿透",
         "value": "Flamepierce",
         "desc": "輔助寶石",
@@ -18909,6 +19287,12 @@
         "label": "烈許的寶庫鑰匙",
         "value": "Xeshts_Reliquary_Key",
         "desc": "遺鑰",
+        "class": ""
+    },
+    {
+        "label": "烈許的熱忱",
+        "value": "Xeshts_Fervour",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -19236,10 +19620,10 @@
         "class": "gemitem"
     },
     {
-        "label": "無畏戰士",
-        "value": "The_Road_Warrior",
-        "desc": "傳奇",
-        "class": "UniqueItem"
+        "label": "無盡之舞",
+        "value": "Puppet_Master_chance",
+        "desc": "Passive",
+        "class": ""
     },
     {
         "label": "無盡之衣",
@@ -19754,7 +20138,7 @@
     {
         "label": "燃燒",
         "value": "Burning",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -19772,7 +20156,7 @@
     {
         "label": "燃燒豐碑",
         "value": "The_Burning_Monolith",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -19836,7 +20220,7 @@
         "class": "gemitem"
     },
     {
-        "label": "爆炸矢",
+        "label": "爆炸箭矢",
         "value": "Explosive_Shot",
         "desc": "技能寶石",
         "class": "gemitem"
@@ -20059,8 +20443,8 @@
     },
     {
         "label": "物理傷害",
-        "value": "Physical_damage",
-        "desc": "關鍵字",
+        "value": "Physical_Damage",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -20558,7 +20942,7 @@
     {
         "label": "猛攻",
         "value": "Onslaught",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -20636,7 +21020,7 @@
     {
         "label": "獲得疊層",
         "value": "Staged",
-        "desc": "關鍵字",
+        "desc": "寶石標籤",
         "class": ""
     },
     {
@@ -20892,13 +21276,19 @@
         "class": ""
     },
     {
+        "label": "珠寶插槽",
+        "value": "Jewel_Socket",
+        "desc": "關鍵字",
+        "class": ""
+    },
+    {
         "label": "現實之殤",
         "value": "Reality_Wound",
         "desc": "Passive",
         "class": ""
     },
     {
-        "label": "球與鎖鏈",
+        "label": "球和鎖鏈",
         "value": "Ball_and_Chain",
         "desc": "Passive",
         "class": ""
@@ -21044,7 +21434,7 @@
     {
         "label": "瓦爾",
         "value": "Vaal",
-        "desc": "關鍵字",
+        "desc": "寶石標籤",
         "class": ""
     },
     {
@@ -21092,8 +21482,8 @@
     {
         "label": "瓦爾寶珠",
         "value": "Vaal_Orb",
-        "desc": "Wiki",
-        "class": ""
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
     },
     {
         "label": "瓦爾手套",
@@ -21110,8 +21500,8 @@
     {
         "label": "瓦爾栽培寶珠",
         "value": "Vaal_Cultivation_Orb",
-        "desc": "Wiki",
-        "class": ""
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
     },
     {
         "label": "瓦爾汲取者",
@@ -21294,6 +21684,12 @@
         "class": "gemitem"
     },
     {
+        "label": "生命符文",
+        "value": "Life_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "生命脈輪",
         "value": "Chakra_of_Life",
         "desc": "Passive",
@@ -21398,7 +21794,7 @@
     {
         "label": "界域之門",
         "value": "The_Realmgate",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -21427,8 +21823,8 @@
     },
     {
         "label": "異常狀態",
-        "value": "Ailment",
-        "desc": "關鍵字",
+        "value": "Ailments",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -21441,6 +21837,18 @@
         "label": "異界抓握",
         "value": "Otherworldly_Clutch",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "異界死敵",
+        "value": "Otherworldly_Nemesis",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "異界的",
+        "value": "Otherworldly",
+        "desc": "Wiki",
         "class": ""
     },
     {
@@ -21613,8 +22021,8 @@
     },
     {
         "label": "痕跡",
-        "value": "Remnant",
-        "desc": "關鍵字",
+        "value": "Remnants",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -21704,7 +22112,7 @@
     {
         "label": "癱瘓",
         "value": "Maim",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -21804,6 +22212,12 @@
         "class": ""
     },
     {
+        "label": "皇家奉獻寶珠",
+        "value": "Yuguls_Orb_of_Sacrifice",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
+    },
+    {
         "label": "皇家工藝",
         "value": "Royal_Craftsmanship",
         "desc": "Passive",
@@ -21820,12 +22234,6 @@
         "value": "Royal_Prerogative",
         "desc": "Passive",
         "class": ""
-    },
-    {
-        "label": "皇家衛甲",
-        "value": "Kingsguard",
-        "desc": "傳奇",
-        "class": "UniqueItem"
     },
     {
         "label": "皇族塔盾",
@@ -21884,7 +22292,7 @@
     {
         "label": "盛怒",
         "value": "Rage",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -21918,6 +22326,12 @@
         "class": "gemitem"
     },
     {
+        "label": "盛怒符文",
+        "value": "Rage_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "盛怒鍛造 I",
         "value": "Rageforged_I",
         "desc": "輔助寶石",
@@ -21936,6 +22350,12 @@
         "class": ""
     },
     {
+        "label": "盜賊之印",
+        "value": "Rogues_Marker",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
+    },
+    {
         "label": "盜賊之錘",
         "value": "Bandit_Mace",
         "desc": "單手錘",
@@ -21950,7 +22370,7 @@
     {
         "label": "盜賊流亡者",
         "value": "Rogue_Exile",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -21967,8 +22387,8 @@
     },
     {
         "label": "盟友",
-        "value": "Companion",
-        "desc": "關鍵字",
+        "value": "Companions",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -22010,7 +22430,7 @@
     {
         "label": "目眩",
         "value": "Daze",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -22053,6 +22473,12 @@
         "label": "直覺湧現",
         "value": "Emergent_Instinct",
         "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "直面過往",
+        "value": "Face_the_Past",
+        "desc": "Passive",
         "class": ""
     },
     {
@@ -22149,6 +22575,12 @@
         "label": "眾所周知",
         "value": "Known_by_All",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "眾星符文",
+        "value": "Celestial_Rune",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -22526,7 +22958,7 @@
     {
         "label": "碎裂地面",
         "value": "Jagged_Ground",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -22680,7 +23112,7 @@
         "class": ""
     },
     {
-        "label": "祈禱與誓約",
+        "label": "祈禱和誓約",
         "value": "Prayer_and_Pledge",
         "desc": "Passive",
         "class": ""
@@ -22744,12 +23176,6 @@
         "value": "Omen_of_the_Blessed",
         "desc": "預兆",
         "class": ""
-    },
-    {
-        "label": "祝福之絆",
-        "value": "Blessed_Bonds",
-        "desc": "傳奇",
-        "class": "UniqueItem"
     },
     {
         "label": "祝福大劍",
@@ -22850,7 +23276,7 @@
     {
         "label": "神殿",
         "value": "Shrine",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -22960,12 +23386,6 @@
         "value": "Righteous_Descent",
         "desc": "技能寶石",
         "class": "gemitem"
-    },
-    {
-        "label": "神聖一統",
-        "value": "Sacred_Unity",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "神聖之冠",
@@ -23096,7 +23516,7 @@
     {
         "label": "祭祀",
         "value": "Ritual",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -23150,7 +23570,7 @@
     {
         "label": "禁錮",
         "value": "Immobilised",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -23240,7 +23660,7 @@
     {
         "label": "秘能波動",
         "value": "Arcane_Surge",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -23342,7 +23762,7 @@
     {
         "label": "稀有度",
         "value": "Rarity",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -23418,6 +23838,12 @@
         "class": ""
     },
     {
+        "label": "穩定開發",
+        "value": "Steady_Development",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "穩當決心",
         "value": "Steadfast_Resolve",
         "desc": "Passive",
@@ -23438,7 +23864,7 @@
     {
         "label": "空手",
         "value": "Unarmed",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -23676,6 +24102,12 @@
         "class": ""
     },
     {
+        "label": "站穩腳跟",
+        "value": "Gaining_Traction",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "章節",
         "value": "Act",
         "desc": "Wiki",
@@ -23706,8 +24138,14 @@
         "class": ""
     },
     {
+        "label": "符形組合",
+        "value": "Runeshape_Combinations",
+        "desc": "",
+        "class": ""
+    },
+    {
         "label": "符文",
-        "value": "Runic",
+        "value": "Rune",
         "desc": "Keywords",
         "class": ""
     },
@@ -23742,9 +24180,15 @@
         "class": "UniqueItem"
     },
     {
+        "label": "符文之父的貪婪鎧甲",
+        "value": "Runefathers_Grasping_Mail",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
         "label": "符文保護",
         "value": "Runic_Ward",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -23784,9 +24228,21 @@
         "class": ""
     },
     {
+        "label": "符文尖叉",
+        "value": "Runic_Fork",
+        "desc": "法杖",
+        "class": ""
+    },
+    {
+        "label": "符文怪物",
+        "value": "Runic_Monsters",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "符文探求者",
         "value": "The_Runeseeker",
-        "desc": "Wiki",
+        "desc": "成就",
         "class": ""
     },
     {
@@ -23844,6 +24300,12 @@
         "class": "item_currency"
     },
     {
+        "label": "符文鍛造",
+        "value": "Runeforging",
+        "desc": "",
+        "class": ""
+    },
+    {
         "label": "符文閃焰",
         "value": "Runic_Flare",
         "desc": "Passive",
@@ -23889,6 +24351,12 @@
         "label": "符煉先祖鎖甲",
         "value": "Runemastered_Ancestral_Mail",
         "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符煉冰川堡壘",
+        "value": "Runemastered_Glacial_Fortress",
+        "desc": "盾",
         "class": ""
     },
     {
@@ -23948,7 +24416,7 @@
     {
         "label": "符煉古老護衛盾",
         "value": "Runemastered_Venerable_Defender",
-        "desc": "輕盾",
+        "desc": "盾",
         "class": ""
     },
     {
@@ -24024,6 +24492,12 @@
         "class": ""
     },
     {
+        "label": "符煉宏偉面紗",
+        "value": "Runemastered_Grand_Visage",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
         "label": "符煉家徽紋章盾",
         "value": "Runemastered_Blazon_Crest_Shield",
         "desc": "盾",
@@ -24087,6 +24561,12 @@
         "label": "符煉幻象鎖鏈",
         "value": "Runemastered_Veridical_Chain",
         "desc": "項鍊",
+        "class": ""
+    },
+    {
+        "label": "符煉幽暗寶冠",
+        "value": "Runemastered_Tenebrous_Crown",
+        "desc": "頭部",
         "class": ""
     },
     {
@@ -24200,7 +24680,7 @@
     {
         "label": "符煉新月圓盾",
         "value": "Runemastered_Crescent_Targe",
-        "desc": "輕盾",
+        "desc": "盾",
         "class": ""
     },
     {
@@ -24402,9 +24882,21 @@
         "class": ""
     },
     {
+        "label": "符煉瑪格思頭冠",
+        "value": "Runemastered_Magus_Tiara",
+        "desc": "頭部",
+        "class": ""
+    },
+    {
         "label": "符煉環鎖護手",
         "value": "Runemastered_Ringmail_Gauntlets",
         "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "符煉瓦爾塔盾",
+        "value": "Runemastered_Vaal_Tower_Shield",
+        "desc": "盾",
         "class": ""
     },
     {
@@ -24470,7 +24962,7 @@
     {
         "label": "符煉硬木圓盾",
         "value": "Runemastered_Hardwood_Targe",
-        "desc": "輕盾",
+        "desc": "盾",
         "class": ""
     },
     {
@@ -24507,6 +24999,12 @@
         "label": "符煉符印紋章盾",
         "value": "Runemastered_Sigil_Crest_Shield",
         "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符煉符文尖叉",
+        "value": "Runemastered_Runic_Fork",
+        "desc": "法杖",
         "class": ""
     },
     {
@@ -24684,6 +25182,12 @@
         "class": ""
     },
     {
+        "label": "符煉華貴環甲",
+        "value": "Runemastered_Ornate_Ringmail",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
         "label": "符煉華麗輕盾",
         "value": "Runemastered_Ornate_Buckler",
         "desc": "輕盾",
@@ -24756,6 +25260,12 @@
         "class": ""
     },
     {
+        "label": "符煉貪婪鎧甲",
+        "value": "Runemastered_Grasping_Mail",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
         "label": "符煉走私者外套",
         "value": "Runemastered_Smuggler_Coat",
         "desc": "胸甲",
@@ -24777,6 +25287,12 @@
         "label": "符煉遠古護腿",
         "value": "Runemastered_Ancient_Leggings",
         "desc": "鞋子",
+        "class": ""
+    },
+    {
+        "label": "符煉遠古護面盔",
+        "value": "Runemastered_Ancient_Visor",
+        "desc": "頭部",
         "class": ""
     },
     {
@@ -24807,6 +25323,12 @@
         "label": "符煉部落之面",
         "value": "Runemastered_Tribal_Mask",
         "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "符煉重革腰帶",
+        "value": "Runemastered_Heavy_Belt",
+        "desc": "腰帶",
         "class": ""
     },
     {
@@ -25094,12 +25616,6 @@
     {
         "label": "符煉黃金頭環",
         "value": "Runemastered_Gold_Circlet",
-        "desc": "頭部",
-        "class": ""
-    },
-    {
-        "label": "符煉黑暗之冠",
-        "value": "Runemastered_Tenebrous_Crown",
         "desc": "頭部",
         "class": ""
     },
@@ -25764,6 +26280,12 @@
         "class": ""
     },
     {
+        "label": "符鍛惡毒魔符",
+        "value": "Runeforged_Vicious_Talisman",
+        "desc": "魔符",
+        "class": ""
+    },
+    {
         "label": "符鍛戰士巨盔",
         "value": "Runeforged_Warrior_Greathelm",
         "desc": "頭部",
@@ -26082,6 +26604,12 @@
         "class": ""
     },
     {
+        "label": "符鍛沙漠輕盾",
+        "value": "Runeforged_Desert_Buckler",
+        "desc": "輕盾",
+        "class": ""
+    },
+    {
         "label": "符鍛沙誓便鞋",
         "value": "Runeforged_Sandsworn_Sandals",
         "desc": "鞋子",
@@ -26190,6 +26718,12 @@
         "class": ""
     },
     {
+        "label": "符鍛烏鋼紋章盾",
+        "value": "Runeforged_Blacksteel_Crest_Shield",
+        "desc": "盾",
+        "class": ""
+    },
+    {
         "label": "符鍛烏鋼鎧靴",
         "value": "Runeforged_Blacksteel_Sabatons",
         "desc": "鞋子",
@@ -26282,6 +26816,12 @@
     {
         "label": "符鍛獻祭披肩",
         "value": "Runeforged_Sacrificial_Mantle",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "符鍛獻祭法衣",
+        "value": "Runeforged_Sacrificial_Regalia",
         "desc": "胸甲",
         "class": ""
     },
@@ -26778,6 +27318,18 @@
         "class": ""
     },
     {
+        "label": "符鍛翱翔圓盾",
+        "value": "Runeforged_Soaring_Targe",
+        "desc": "盾",
+        "class": ""
+    },
+    {
+        "label": "符鍛耀金圓盾",
+        "value": "Runeforged_Golden_Targe",
+        "desc": "盾",
+        "class": ""
+    },
+    {
         "label": "符鍛耀金鎖甲",
         "value": "Runeforged_Golden_Mail",
         "desc": "胸甲",
@@ -27003,6 +27555,12 @@
         "label": "符鍛變形魔符",
         "value": "Runeforged_Changeling_Talisman",
         "desc": "魔符",
+        "class": ""
+    },
+    {
+        "label": "符鍛貪婪鎧甲",
+        "value": "Runeforged_Grasping_Mail",
+        "desc": "胸甲",
         "class": ""
     },
     {
@@ -27733,8 +28291,8 @@
     },
     {
         "label": "範圍效果",
-        "value": "Area_of_effect",
-        "desc": "關鍵字",
+        "value": "AoE",
+        "desc": "寶石標籤",
         "class": ""
     },
     {
@@ -27764,7 +28322,7 @@
     {
         "label": "粉碎",
         "value": "Shatter",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -27972,6 +28530,12 @@
         "class": "gemitem"
     },
     {
+        "label": "精算投資",
+        "value": "Calculated_Investment",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "精算獵者",
         "value": "Calculated_Hunter",
         "desc": "Passive",
@@ -28038,6 +28602,12 @@
         "class": "item_currency"
     },
     {
+        "label": "精製死靈催化劑",
+        "value": "Refined_Necrotic_Catalyst",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
+    },
+    {
         "label": "精製烏爾尼多的催化劑",
         "value": "Refined_Uul-Netols_Catalyst",
         "desc": "可堆疊通貨",
@@ -28100,7 +28670,7 @@
     {
         "label": "精髓",
         "value": "Essence",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -28136,7 +28706,7 @@
     {
         "label": "精魂",
         "value": "Spirit",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -28322,7 +28892,7 @@
     {
         "label": "純淨樂園",
         "value": "Untainted_Paradise",
-        "desc": "Wiki",
+        "desc": "WorldAreas",
         "class": ""
     },
     {
@@ -28335,6 +28905,12 @@
         "label": "純然天性",
         "value": "All_Natural",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "純粹情感",
+        "value": "Pure_Emotions",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -28782,6 +29358,12 @@
         "class": "item_currency"
     },
     {
+        "label": "維里西姆守望",
+        "value": "Verisium_Sentry",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "維里西姆強化",
         "value": "Powered_by_Verisium",
         "desc": "技能寶石",
@@ -29154,6 +29736,12 @@
         "class": "gemitem"
     },
     {
+        "label": "羈絆符文",
+        "value": "Bond_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "羊毛便帽",
         "value": "Wool_Cap",
         "desc": "頭部",
@@ -29484,6 +30072,12 @@
         "class": ""
     },
     {
+        "label": "聖潔一統",
+        "value": "Sacred_Unity",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "聖潔之冠",
         "value": "Hallowed_Crown",
         "desc": "頭部",
@@ -29762,7 +30356,7 @@
     {
         "label": "能量",
         "value": "Energy",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -29809,8 +30403,8 @@
     },
     {
         "label": "能量護盾",
-        "value": "Energy_shield",
-        "desc": "關鍵字",
+        "value": "Energy_Shield",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -29948,7 +30542,7 @@
     {
         "label": "腐化聖域",
         "value": "Corrupted_Nexus",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -30368,7 +30962,7 @@
     {
         "label": "致盲",
         "value": "Blind",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -30399,24 +30993,6 @@
         "label": "與死共舞",
         "value": "Dance_with_Death",
         "desc": "Keywords",
-        "class": ""
-    },
-    {
-        "label": "與河同行",
-        "value": "One_with_the_River",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "與火合一",
-        "value": "One_With_Flame",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "與風同行",
-        "value": "One_with_the_Storm",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -30714,6 +31290,12 @@
         "class": "gemitem"
     },
     {
+        "label": "草原精通",
+        "value": "Grass_Mastery",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "草根指揮官",
         "value": "Profane_Commander",
         "desc": "Passive",
@@ -30734,7 +31316,7 @@
     {
         "label": "荊棘",
         "value": "Thorns",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -30912,6 +31494,12 @@
         "class": ""
     },
     {
+        "label": "華貴環甲",
+        "value": "Ornate_Ringmail",
+        "desc": "胸甲",
+        "class": ""
+    },
+    {
         "label": "華麗之胎贈",
         "value": "Ornate_Wombgift",
         "desc": "胎贈",
@@ -30927,6 +31515,12 @@
         "label": "華麗招架",
         "value": "Flashy_Parrying",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "華麗環甲",
+        "value": "Ornate_Ringmail",
+        "desc": "胸甲",
         "class": ""
     },
     {
@@ -31098,6 +31692,12 @@
         "class": ""
     },
     {
+        "label": "蒼雷看守者",
+        "value": "Stormkeeper",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "蓄積毒素",
         "value": "Building_Toxins",
         "desc": "Passive",
@@ -31256,7 +31856,7 @@
     {
         "label": "藏身處",
         "value": "Hideout",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -31309,8 +31909,8 @@
     },
     {
         "label": "藥劑",
-        "value": "Flask",
-        "desc": "Wiki",
+        "value": "Flasks",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -31964,7 +32564,13 @@
     {
         "label": "裂痕",
         "value": "Breach",
-        "desc": "Wiki",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "裂痕倉庫頁",
+        "value": "Breach_Stash_Tab",
+        "desc": "Stashtab",
         "class": ""
     },
     {
@@ -32174,7 +32780,7 @@
     {
         "label": "褻瀆詞綴",
         "value": "Desecrated_Modifiers",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -32304,9 +32910,15 @@
         "class": ""
     },
     {
+        "label": "解脫纏帶",
+        "value": "Tethering_Bands",
+        "desc": "手套",
+        "class": ""
+    },
+    {
         "label": "觸發",
         "value": "Trigger",
-        "desc": "關鍵字",
+        "desc": "寶石標籤",
         "class": ""
     },
     {
@@ -32318,13 +32930,19 @@
     {
         "label": "觸電",
         "value": "Electrocution",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
         "label": "觸電曝曬",
         "value": "Electrocuting_Exposure",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "觸電符文",
+        "value": "Electrocuting_Rune",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -32340,14 +32958,14 @@
         "class": ""
     },
     {
-        "label": "訓練有素的寵物",
-        "value": "Disciplined_Pets",
+        "label": "訓練和準備",
+        "value": "Training_and_Preparation",
         "desc": "Passive",
         "class": ""
     },
     {
-        "label": "訓練與準備",
-        "value": "Training_and_Preparation",
+        "label": "訓練有素的寵物",
+        "value": "Disciplined_Pets",
         "desc": "Passive",
         "class": ""
     },
@@ -32377,8 +32995,8 @@
     },
     {
         "label": "詛咒",
-        "value": "Curse",
-        "desc": "關鍵字",
+        "value": "Curses",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -32451,6 +33069,18 @@
         "label": "詭譎嫌忌",
         "value": "Strange_Aversions",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "誓忠於王",
+        "value": "Devotion_to_the_King",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "誓言符文",
+        "value": "Oath_Rune",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -32546,7 +33176,7 @@
     {
         "label": "譫妄",
         "value": "Delirium",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -32600,7 +33230,7 @@
     {
         "label": "護甲",
         "value": "Armour",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -32719,8 +33349,8 @@
     },
     {
         "label": "變形",
-        "value": "Shapeshift",
-        "desc": "關鍵字",
+        "value": "Shapeshifting",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -33566,7 +34196,7 @@
     {
         "label": "近戰",
         "value": "Melee",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -33590,7 +34220,7 @@
     {
         "label": "近期",
         "value": "Recently",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -33956,7 +34586,7 @@
     {
         "label": "連擊",
         "value": "Combo",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -34016,7 +34646,7 @@
     {
         "label": "連鎖",
         "value": "Chain",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -34508,7 +35138,7 @@
     {
         "label": "遠見符文",
         "value": "Vision_Rune",
-        "desc": "增幅",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -34575,6 +35205,12 @@
         "label": "適應皮膚",
         "value": "Adaptive_Skin",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "適應符文",
+        "value": "Adaptive_Rune",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -34963,8 +35599,8 @@
     },
     {
         "label": "重擊",
-        "value": "Slam",
-        "desc": "關鍵字",
+        "value": "Slams",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -35006,7 +35642,7 @@
     {
         "label": "重生符文",
         "value": "Rebirth_Rune",
-        "desc": "增幅",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -36092,7 +36728,7 @@
     {
         "label": "閃避",
         "value": "Evasion",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -36139,8 +36775,8 @@
     },
     {
         "label": "閃電傷害",
-        "value": "Lightning_damage",
-        "desc": "關鍵字",
+        "value": "Lightning_Damage",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -36196,6 +36832,12 @@
         "value": "Lightning_Penetration",
         "desc": "輔助寶石",
         "class": "gemitem"
+    },
+    {
+        "label": "閃電符文",
+        "value": "Lightning_Rune",
+        "desc": "Keywords",
+        "class": ""
     },
     {
         "label": "閃電箭矢",
@@ -36312,6 +36954,12 @@
         "class": "item_currency"
     },
     {
+        "label": "防護符文",
+        "value": "Protective_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "防震",
         "value": "Shockproof",
         "desc": "Passive",
@@ -36320,7 +36968,7 @@
     {
         "label": "阻礙",
         "value": "Hinder",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -36464,7 +37112,7 @@
     {
         "label": "阿茲莫里魂靈",
         "value": "Azmeri_Spirit",
-        "desc": "Wiki",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -36714,6 +37362,12 @@
         "class": ""
     },
     {
+        "label": "隨風而行",
+        "value": "On_the_Wind",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "險惡增幅",
         "value": "Baleful_Augmentation",
         "desc": "永恆珠寶",
@@ -36776,6 +37430,12 @@
     {
         "label": "隱蔽",
         "value": "Unsight",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "隱蔽之手",
+        "value": "Puppet_Master_chance",
         "desc": "Passive",
         "class": ""
     },
@@ -37009,8 +37669,8 @@
     },
     {
         "label": "雙持",
-        "value": "Dual_wielding",
-        "desc": "關鍵字",
+        "value": "Dual_Wielding",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -37680,6 +38340,12 @@
         "class": "gemitem"
     },
     {
+        "label": "靈魂符文",
+        "value": "Soul_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "靈魂經脈",
         "value": "The_Soul_Meridian",
         "desc": "Passive",
@@ -37842,6 +38508,12 @@
         "class": ""
     },
     {
+        "label": "頂尖掠食者",
+        "value": "Apex_Predators",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "頂點 I",
         "value": "Culmination_I",
         "desc": "輔助寶石",
@@ -37950,6 +38622,12 @@
         "class": ""
     },
     {
+        "label": "領土擴張",
+        "value": "Expanding_Territory",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "領袖的重擔",
         "value": "The_Burden_of_Leadership",
         "desc": "傳奇",
@@ -37959,6 +38637,12 @@
         "label": "頭目",
         "value": "Boss",
         "desc": "關鍵字",
+        "class": ""
+    },
+    {
+        "label": "頭腦風暴",
+        "value": "Brain_Storm",
+        "desc": "Passive",
         "class": ""
     },
     {
@@ -38178,6 +38862,12 @@
         "class": ""
     },
     {
+        "label": "風暴符文",
+        "value": "Tempest_Rune",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "風暴統治者",
         "value": "Archon_of_the_Storm",
         "desc": "Passive",
@@ -38220,14 +38910,14 @@
         "class": ""
     },
     {
-        "label": "風險時刻",
-        "value": "Moment_of_Risk",
+        "label": "風險和獎勵",
+        "value": "Risk_and_Reward",
         "desc": "Passive",
         "class": ""
     },
     {
-        "label": "風險與獎勵",
-        "value": "Risk_and_Reward",
+        "label": "風險時刻",
+        "value": "Moment_of_Risk",
         "desc": "Passive",
         "class": ""
     },
@@ -38395,8 +39085,8 @@
     },
     {
         "label": "餘震",
-        "value": "Aftershock",
-        "desc": "關鍵字",
+        "value": "Aftershocks",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -39180,6 +39870,18 @@
         "class": ""
     },
     {
+        "label": "魁儡大師持續時間",
+        "value": "Puppet_Master_chance",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "魁儡大師效果",
+        "value": "Puppet_Master_chance",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "魁儡大師機率",
         "value": "Puppet_Master_chance",
         "desc": "Passive",
@@ -39200,7 +39902,7 @@
     {
         "label": "魂靈行者",
         "value": "Spirit_Walker",
-        "desc": "Wiki",
+        "desc": "昇華試煉",
         "class": ""
     },
     {
@@ -39860,7 +40562,7 @@
     {
         "label": "點燃",
         "value": "Ignite",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -39999,48 +40701,6 @@
         "label": "龍鱗長靴",
         "value": "Dragonscale_Boots",
         "desc": "鞋子",
-        "class": ""
-    },
-    {
-        "label": "唐玛祖之乱",
-        "value": "Ravens_Reflection",
-        "desc": "六子添加",
-        "class": ""
-    },
-    {
-        "label": "裂隙石",
-        "value": "Breachstone",
-        "desc": "六子添加",
-        "class": ""
-    },
-    {
-        "label": "库勒马克的邀请",
-        "value": "Kulemaks_Invitation",
-        "desc": "六子添加",
-        "class": ""
-    },
-    {
-        "label": "星耀礦石",
-        "value": "Startlit_Ore",
-        "desc": "六子添加",
-        "class": ""
-    },
-    {
-        "label": "完美熔劑",
-        "value": "Perfect_Flux",
-        "desc": "六子添加",
-        "class": ""
-    },
-    {
-        "label": "莫里根的洞察",
-        "value": "Mórrigans_Insight",
-        "desc": "六子添加",
-        "class": ""
-    },
-    {
-        "label": "阿德爾的傳承",
-        "value": "Aldurs_Legacy",
-        "desc": "六子添加",
         "class": ""
     }
 ]
