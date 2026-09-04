@@ -1,0 +1,839 @@
+{
+  "core": {
+    "items": [
+      {
+        "id": "divine",
+        "name": "Divine Orb",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/2986e220b3/CurrencyModValues.png",
+        "category": "Currency",
+        "detailsId": "divine-orb"
+      },
+      {
+        "id": "exalted",
+        "name": "Exalted Orb",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb1JhcmUiLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/ad7c366789/CurrencyAddModToRare.png",
+        "category": "Currency",
+        "detailsId": "exalted-orb"
+      },
+      {
+        "id": "chaos",
+        "name": "Chaos Orb",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxSYXJlIiwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/c0ca392a78/CurrencyRerollRare.png",
+        "category": "Currency",
+        "detailsId": "chaos-orb"
+      }
+    ],
+    "rates": {
+      "exalted": 409.3,
+      "chaos": 10.1
+    },
+    "primary": "divine",
+    "secondary": "chaos"
+  },
+  "lines": [
+    {
+      "id": 366,
+      "itemId": "Rite of Passage Golden Charm",
+      "detailsId": "rite-of-passage-golden-charm",
+      "name": "Rite of Passage",
+      "baseType": "Golden Charm",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ2hhcm1zL1VuaXF1ZXMvR29sZGVuVW5pcXVlQ2hhcm0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/f76038bf1c/GoldenUniqueCharm.png",
+      "flavourText": "To become a warrior and a hunter, each young\r\nAzmeri must prove themselves before the Spirit.",
+      "levelRequired": 50,
+      "category": "Charm",
+      "primaryValue": 4.87,
+      "listingCount": 4021,
+      "corrupted": false,
+      "sparkLine": {
+        "totalChange": 0.3,
+        "data": [
+          0.0,
+          0.62,
+          null,
+          null,
+          -4.0,
+          null,
+          0.3
+        ]
+      },
+      "implicitModifiers": [
+        {
+          "text": "Used when you kill a [Rarity|Rare] or [Rarity|Unique] enemy",
+          "optional": false
+        }
+      ],
+      "explicitModifiers": [
+        {
+          "text": "[PlayerPossessed|Possessed] by [SpiritOfThePrimatePossessedPlayer|Spirit Of The Primate] for (10-20) seconds on use",
+          "optional": true
+        },
+        {
+          "text": "[PlayerPossessed|Possessed] by [SpiritOfTheCatPossessedPlayer|Spirit Of The Cat] for (11-17) seconds on use",
+          "optional": true
+        },
+        {
+          "text": "[PlayerPossessed|Possessed] by [SpiritOfTheSerpentPossessedPlayer|Spirit Of The Serpent] for (10-20) seconds on use",
+          "optional": true
+        },
+        {
+          "text": "[PlayerPossessed|Possessed] by [SpiritOfTheWolfPossessedPlayer|Spirit Of The Wolf] for (10-20) seconds on use",
+          "optional": true
+        },
+        {
+          "text": "[PlayerPossessed|Possessed] by [SpiritOfTheOxPossessedPlayer|Spirit Of The Ox] for (10-20) seconds on use",
+          "optional": true
+        },
+        {
+          "text": "[PlayerPossessed|Possessed] by [SpiritOfTheBearPossessedPlayer|Spirit Of The Bear] for (10-20) seconds on use",
+          "optional": true
+        },
+        {
+          "text": "[PlayerPossessed|Possessed] by [SpiritOfTheOwlPossessedPlayer|Spirit Of The Owl] for (10-20) seconds on use",
+          "optional": true
+        },
+        {
+          "text": "[PlayerPossessed|Possessed] by [SpiritOfTheStagPossessedPlayer|Spirit Of The Stag] for (12-19) seconds on use",
+          "optional": true
+        },
+        {
+          "text": "[PlayerPossessed|Possessed] by [SpiritOfTheBoarPossessedPlayer|Spirit Of The Boar] for (10-20) seconds on use",
+          "optional": true
+        }
+      ],
+      "propertyModifiers": [
+        {
+          "text": "Lasts 1 Second",
+          "optional": true
+        },
+        {
+          "text": "Lasts (1.1-1.2) Seconds",
+          "optional": true
+        },
+        {
+          "text": "Consumes 80 of 80 Charges on use",
+          "optional": false
+        }
+      ],
+      "requirementModifiers": [
+        {
+          "text": "Level: 50",
+          "optional": false
+        }
+      ],
+      "utilityModifiers": [
+        {
+          "text": "15% increased [ItemRarity|Rarity of Items] found",
+          "optional": false
+        }
+      ],
+      "grantedSkillModifiers": null
+    },
+    {
+      "id": 370,
+      "itemId": "The Fall of the Axe Silver Charm",
+      "detailsId": "the-fall-of-the-axe-silver-charm",
+      "name": "The Fall of the Axe",
+      "baseType": "Silver Charm",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ2hhcm1zL1VuaXF1ZXMvU2lsdmVyVW5pcXVlQ2hhcm0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/b1ede8589d/SilverUniqueCharm.png",
+      "flavourText": "\"When the headsman's blade swings,\r\nyour last moments stretch to eternity.\"\r\n- Vorm, the Twice-Pardoned",
+      "levelRequired": 10,
+      "category": "Ezomyte Charm",
+      "primaryValue": 0.4764,
+      "listingCount": 1254,
+      "corrupted": false,
+      "sparkLine": {
+        "totalChange": 71.6,
+        "data": [
+          0.0,
+          -0.98,
+          null,
+          null,
+          73.55,
+          null,
+          71.6
+        ]
+      },
+      "implicitModifiers": [
+        {
+          "text": "Used when you are affected by a [Slow]",
+          "optional": false
+        }
+      ],
+      "explicitModifiers": [
+        {
+          "text": "Grants [Onslaught] during effect",
+          "optional": false
+        }
+      ],
+      "propertyModifiers": [
+        {
+          "text": "Lasts (3-3.4) Seconds",
+          "optional": false
+        },
+        {
+          "text": "Consumes 20 of 40 Charges on use",
+          "optional": false
+        }
+      ],
+      "requirementModifiers": [
+        {
+          "text": "Level: 10",
+          "optional": false
+        }
+      ],
+      "utilityModifiers": [
+        {
+          "text": "Your speed is unaffected by [Slow|Slows]",
+          "optional": false
+        }
+      ],
+      "grantedSkillModifiers": null
+    },
+    {
+      "id": 372,
+      "itemId": "For Utopia Stone Charm",
+      "detailsId": "for-utopia-stone-charm",
+      "name": "For Utopia",
+      "baseType": "Stone Charm",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ2hhcm1zL1VuaXF1ZXMvU3RvbmVVbmlxdWVDaGFybSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/6624d23611/StoneUniqueCharm.png",
+      "flavourText": "\"It may be centuries hence, but I still hold utmost faith.\r\nThe Saviour will rise, and mankind will be free.\"",
+      "levelRequired": 8,
+      "category": "Charm",
+      "primaryValue": 0.1222,
+      "listingCount": 890,
+      "corrupted": false,
+      "sparkLine": {
+        "totalChange": 19.24,
+        "data": [
+          0.0,
+          21.97,
+          null,
+          null,
+          17.58,
+          null,
+          19.24
+        ]
+      },
+      "implicitModifiers": [
+        {
+          "text": "Used when you become [Stun|Stunned]",
+          "optional": false
+        }
+      ],
+      "explicitModifiers": [
+        {
+          "text": "Defend with 200% of [Armour|Armour] during effect",
+          "optional": false
+        }
+      ],
+      "propertyModifiers": [
+        {
+          "text": "Lasts (3-3.5) Seconds",
+          "optional": false
+        },
+        {
+          "text": "Consumes 20 of 40 Charges on use",
+          "optional": false
+        }
+      ],
+      "requirementModifiers": [
+        {
+          "text": "Level: 8",
+          "optional": false
+        }
+      ],
+      "utilityModifiers": [
+        {
+          "text": "Cannot be [Stun|Stunned]",
+          "optional": false
+        }
+      ],
+      "grantedSkillModifiers": null
+    },
+    {
+      "id": 373,
+      "itemId": "Nascent Hope Thawing Charm",
+      "detailsId": "nascent-hope-thawing-charm",
+      "name": "Nascent Hope",
+      "baseType": "Thawing Charm",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ2hhcm1zL1VuaXF1ZXMvVGhhd2luZ1VuaXF1ZUNoYXJtIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/310b095659/ThawingUniqueCharm.png",
+      "flavourText": "\"Even in the face of the Winter of the World,\r\nlife found a way. The Spirit always provides.\"",
+      "levelRequired": 12,
+      "category": "Charm",
+      "primaryValue": 0.06108,
+      "listingCount": 4164,
+      "corrupted": false,
+      "sparkLine": {
+        "totalChange": 19.25,
+        "data": [
+          0.0,
+          -2.42,
+          null,
+          null,
+          -5.94,
+          null,
+          19.25
+        ]
+      },
+      "implicitModifiers": [
+        {
+          "text": "Used when you become [Frozen]",
+          "optional": false
+        }
+      ],
+      "explicitModifiers": [
+        {
+          "text": "(20-25)% Chance to gain a [Charges|Charge] when you kill an enemy",
+          "optional": false
+        },
+        {
+          "text": "[ESRecharge|Energy Shield Recharge] starts on use",
+          "optional": false
+        }
+      ],
+      "propertyModifiers": [
+        {
+          "text": "Lasts (3-3.5) Seconds",
+          "optional": false
+        },
+        {
+          "text": "Consumes 40 of 40 Charges on use",
+          "optional": false
+        }
+      ],
+      "requirementModifiers": [
+        {
+          "text": "Level: 12",
+          "optional": false
+        }
+      ],
+      "utilityModifiers": [
+        {
+          "text": "Grants Immunity to [Freeze|Freeze]",
+          "optional": false
+        }
+      ],
+      "grantedSkillModifiers": null
+    },
+    {
+      "id": 361,
+      "itemId": "Forsaken Bangle Amethyst Charm",
+      "detailsId": "forsaken-bangle-amethyst-charm",
+      "name": "Forsaken Bangle",
+      "baseType": "Amethyst Charm",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ2hhcm1zL1VuaXF1ZXMvQ2hhb3NVbmlxdWVDaGFybSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/e3dcd9d7e6/ChaosUniqueCharm.png",
+      "flavourText": "Among the Templars, a secret few ate the sins of others.\r\nThey bore this burden to empower their hidden Order.",
+      "levelRequired": 40,
+      "category": "Charm",
+      "primaryValue": 0.00977,
+      "listingCount": 1302,
+      "corrupted": false,
+      "sparkLine": {
+        "totalChange": 27.21,
+        "data": [
+          0.0,
+          26.95,
+          null,
+          null,
+          -68.62,
+          null,
+          27.21
+        ]
+      },
+      "implicitModifiers": [
+        {
+          "text": "Used when you take [Chaos] damage from a [HitDamage|Hit]",
+          "optional": false
+        }
+      ],
+      "explicitModifiers": [
+        {
+          "text": "(15-25)% increased Duration",
+          "optional": false
+        },
+        {
+          "text": "50% of [Chaos] damage you prevent when [HitDamage|Hit] [Recoup|Recouped] as Life and Mana during effect",
+          "optional": false
+        }
+      ],
+      "propertyModifiers": [
+        {
+          "text": "Lasts (4.6-5.4) Seconds",
+          "optional": false
+        },
+        {
+          "text": "Consumes 30 of 40 Charges on use",
+          "optional": false
+        }
+      ],
+      "requirementModifiers": [
+        {
+          "text": "Level: 40",
+          "optional": false
+        }
+      ],
+      "utilityModifiers": [
+        {
+          "text": "+18% to [Resistances|Chaos Resistance]",
+          "optional": false
+        }
+      ],
+      "grantedSkillModifiers": null
+    },
+    {
+      "id": 363,
+      "itemId": "Beira's Anguish Dousing Charm",
+      "detailsId": "beiras-anguish-dousing-charm",
+      "name": "Beira's Anguish",
+      "baseType": "Dousing Charm",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ2hhcm1zL1VuaXF1ZXMvRG91c2luZ1VuaXF1ZUNoYXJtIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/7bac529607/DousingUniqueCharm.png",
+      "flavourText": "They found a crying child tied to a frozen pyre.\r\nShe was clad in ice, but the village was ash.",
+      "levelRequired": 32,
+      "category": "Ezomyte Charm",
+      "primaryValue": 0.00489,
+      "listingCount": 2894,
+      "corrupted": false,
+      "sparkLine": {
+        "totalChange": -36.33,
+        "data": [
+          0.0,
+          -2.34,
+          null,
+          null,
+          -37.24,
+          null,
+          -36.33
+        ]
+      },
+      "implicitModifiers": [
+        {
+          "text": "Used when you become [Ignite|Ignited]",
+          "optional": false
+        }
+      ],
+      "explicitModifiers": [
+        {
+          "text": "(20-25)% Chance to gain a [Charges|Charge] when you kill an enemy",
+          "optional": false
+        },
+        {
+          "text": "Creates [IgnitedGround|Ignited Ground] for 4 seconds when used, [Ignite|Igniting] enemies as though dealing [Fire] damage equal to 500% of your maximum Life",
+          "optional": false
+        }
+      ],
+      "propertyModifiers": [
+        {
+          "text": "Lasts (3-3.5) Seconds",
+          "optional": false
+        },
+        {
+          "text": "Consumes 30 of 40 Charges on use",
+          "optional": false
+        }
+      ],
+      "requirementModifiers": [
+        {
+          "text": "Level: 32",
+          "optional": false
+        }
+      ],
+      "utilityModifiers": [
+        {
+          "text": "Grants Immunity to [Ignite|Ignite]",
+          "optional": false
+        }
+      ],
+      "grantedSkillModifiers": null
+    },
+    {
+      "id": 362,
+      "itemId": "Arakaali's Gift Antidote Charm",
+      "detailsId": "arakaalis-gift-antidote-charm",
+      "name": "Arakaali's Gift",
+      "baseType": "Antidote Charm",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ2hhcm1zL1VuaXF1ZXMvQW50aWRvdGVVbmlxdWVDaGFybSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/ae5b677752/AntidoteUniqueCharm.png",
+      "flavourText": "Devotees of the Goddess of Lust\r\nneeded never fear her sting.",
+      "levelRequired": 24,
+      "category": "Vaal Charm",
+      "primaryValue": 0.00244,
+      "listingCount": 7766,
+      "corrupted": false,
+      "sparkLine": {
+        "totalChange": -4.69,
+        "data": [
+          0.0,
+          -2.34,
+          null,
+          null,
+          -5.86,
+          null,
+          -4.69
+        ]
+      },
+      "implicitModifiers": [
+        {
+          "text": "Used when you become [Poison|Poisoned]",
+          "optional": false
+        }
+      ],
+      "explicitModifiers": [
+        {
+          "text": "Recover Life equal to (15-20)% of Mana [Flask|Flask's] Recovery Amount when used",
+          "optional": false
+        },
+        {
+          "text": "Recover Mana equal to (15-20)% of Life [Flask|Flask's] Recovery Amount when used",
+          "optional": false
+        }
+      ],
+      "propertyModifiers": [
+        {
+          "text": "Lasts (3-3.4) Seconds",
+          "optional": false
+        },
+        {
+          "text": "Consumes 20 of 40 Charges on use",
+          "optional": false
+        }
+      ],
+      "requirementModifiers": [
+        {
+          "text": "Level: 24",
+          "optional": false
+        }
+      ],
+      "utilityModifiers": [
+        {
+          "text": "Grants Immunity to [Poison|Poison]",
+          "optional": false
+        }
+      ],
+      "grantedSkillModifiers": null
+    },
+    {
+      "id": 367,
+      "itemId": "The Black Cat Grounding Charm",
+      "detailsId": "the-black-cat-grounding-charm",
+      "name": "The Black Cat",
+      "baseType": "Grounding Charm",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ2hhcm1zL1VuaXF1ZXMvR3JvdW5kaW5nVW5pcXVlQ2hhcm0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwicmVhbG0iOiJwb2UyIn1d/1abbdce909/GroundingUniqueCharm.png",
+      "flavourText": "The most beloved member of every Brinerot crew\r\nis the one that refuses to do any actual work.",
+      "levelRequired": 32,
+      "category": "Charm",
+      "primaryValue": 0.00244,
+      "listingCount": 1302,
+      "corrupted": false,
+      "sparkLine": {
+        "totalChange": -52.34,
+        "data": [
+          0.0,
+          -2.34,
+          null,
+          null,
+          -52.93,
+          null,
+          -52.34
+        ]
+      },
+      "implicitModifiers": [
+        {
+          "text": "Used when you become [Shock|Shocked]",
+          "optional": false
+        }
+      ],
+      "explicitModifiers": [
+        {
+          "text": "(10-20)% increased Duration",
+          "optional": false
+        },
+        {
+          "text": "[Lightning] Damage of Enemies [HitDamage|Hitting] you is [Unlucky] during effect",
+          "optional": false
+        }
+      ],
+      "propertyModifiers": [
+        {
+          "text": "Lasts (3.3-3.8) Seconds",
+          "optional": false
+        },
+        {
+          "text": "Consumes 30 of 40 Charges on use",
+          "optional": false
+        }
+      ],
+      "requirementModifiers": [
+        {
+          "text": "Level: 32",
+          "optional": false
+        }
+      ],
+      "utilityModifiers": [
+        {
+          "text": "Grants Immunity to [Shock|Shock]",
+          "optional": false
+        }
+      ],
+      "grantedSkillModifiers": null
+    },
+    {
+      "id": 368,
+      "itemId": "Ngamahu's Chosen Ruby Charm",
+      "detailsId": "ngamahus-chosen-ruby-charm",
+      "name": "Ngamahu's Chosen",
+      "baseType": "Ruby Charm",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ2hhcm1zL1VuaXF1ZXMvUnVieVVuaXF1ZUNoYXJtIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/f88d02b00c/RubyUniqueCharm.png",
+      "flavourText": "Kaom was not known for his restraint.",
+      "levelRequired": 5,
+      "category": "Charm",
+      "primaryValue": 0.00244,
+      "listingCount": 4769,
+      "corrupted": false,
+      "sparkLine": {
+        "totalChange": -4.69,
+        "data": [
+          0.0,
+          -2.34,
+          null,
+          null,
+          -5.86,
+          null,
+          -4.69
+        ]
+      },
+      "implicitModifiers": [
+        {
+          "text": "Used when you take [Fire] damage from a [HitDamage|Hit]",
+          "optional": false
+        }
+      ],
+      "explicitModifiers": [
+        {
+          "text": "(30-40)% increased Charges",
+          "optional": false
+        },
+        {
+          "text": "Grants up to your maximum [Rage] on use",
+          "optional": false
+        }
+      ],
+      "propertyModifiers": [
+        {
+          "text": "Lasts (4-4.6) Seconds",
+          "optional": false
+        },
+        {
+          "text": "Consumes 20 of (52-56) Charges on use",
+          "optional": false
+        }
+      ],
+      "requirementModifiers": [
+        {
+          "text": "Level: 5",
+          "optional": false
+        }
+      ],
+      "utilityModifiers": [
+        {
+          "text": "+25% to [Resistances|Fire Resistance]",
+          "optional": false
+        }
+      ],
+      "grantedSkillModifiers": null
+    },
+    {
+      "id": 369,
+      "itemId": "Breath of the Mountains Sapphire Charm",
+      "detailsId": "breath-of-the-mountains-sapphire-charm",
+      "name": "Breath of the Mountains",
+      "baseType": "Sapphire Charm",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ2hhcm1zL1VuaXF1ZXMvU2FwcGhpcmVVbmlxdWVDaGFybSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/c414406632/SapphireUniqueCharm.png",
+      "flavourText": "\"To scrape the sky,\r\nto touch the clouds themselves,\r\nis to know true freedom.\"\r\n- Mutewind saying",
+      "levelRequired": 5,
+      "category": "Charm",
+      "primaryValue": 0.00244,
+      "listingCount": 9531,
+      "corrupted": false,
+      "sparkLine": {
+        "totalChange": -4.69,
+        "data": [
+          0.0,
+          -2.34,
+          null,
+          null,
+          -5.86,
+          null,
+          -4.69
+        ]
+      },
+      "implicitModifiers": [
+        {
+          "text": "Used when you take [Cold] damage from a [HitDamage|Hit]",
+          "optional": false
+        }
+      ],
+      "explicitModifiers": [
+        {
+          "text": "(10-15)% reduced Charges per use",
+          "optional": false
+        },
+        {
+          "text": "Grants a [Charges|Power Charge] on use",
+          "optional": false
+        }
+      ],
+      "propertyModifiers": [
+        {
+          "text": "Lasts (4-4.6) Seconds",
+          "optional": false
+        },
+        {
+          "text": "Consumes (17-18) of 40 Charges on use",
+          "optional": false
+        }
+      ],
+      "requirementModifiers": [
+        {
+          "text": "Level: 5",
+          "optional": false
+        }
+      ],
+      "utilityModifiers": [
+        {
+          "text": "+25% to [Resistances|Cold Resistance]",
+          "optional": false
+        }
+      ],
+      "grantedSkillModifiers": null
+    },
+    {
+      "id": 371,
+      "itemId": "Sanguis Heroum Staunching Charm",
+      "detailsId": "sanguis-heroum-staunching-charm",
+      "name": "Sanguis Heroum",
+      "baseType": "Staunching Charm",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ2hhcm1zL1VuaXF1ZXMvU3RhdW5jaGluZ1VuaXF1ZUNoYXJtIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsInJlYWxtIjoicG9lMiJ9XQ/67d2007223/StaunchingUniqueCharm.png",
+      "flavourText": "Wraeclast has known too few true heroes.\r\nIt remembers those that stood in defiance.",
+      "levelRequired": 18,
+      "category": "Charm",
+      "primaryValue": 0.00244,
+      "listingCount": 3270,
+      "corrupted": false,
+      "sparkLine": {
+        "totalChange": -52.34,
+        "data": [
+          0.0,
+          -51.17,
+          null,
+          null,
+          -52.93,
+          null,
+          -52.34
+        ]
+      },
+      "implicitModifiers": [
+        {
+          "text": "Used when you start [Bleeding]",
+          "optional": false
+        }
+      ],
+      "explicitModifiers": [
+        {
+          "text": "Gains (0.15-0.2) Charges per Second",
+          "optional": false
+        },
+        {
+          "text": "Creates [ConsecratedGround|Consecrated Ground] on use",
+          "optional": false
+        }
+      ],
+      "propertyModifiers": [
+        {
+          "text": "Lasts (3-3.4) Seconds",
+          "optional": false
+        },
+        {
+          "text": "Consumes 30 of 40 Charges on use",
+          "optional": false
+        }
+      ],
+      "requirementModifiers": [
+        {
+          "text": "Level: 18",
+          "optional": false
+        }
+      ],
+      "utilityModifiers": [
+        {
+          "text": "Grants Immunity to [Bleeding|Bleeding]",
+          "optional": false
+        }
+      ],
+      "grantedSkillModifiers": null
+    },
+    {
+      "id": 374,
+      "itemId": "Valako's Roar Topaz Charm",
+      "detailsId": "valakos-roar-topaz-charm",
+      "name": "Valako's Roar",
+      "baseType": "Topaz Charm",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ2hhcm1zL1VuaXF1ZXMvVG9wYXpVbmlxdWVDaGFybSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJyZWFsbSI6InBvZTIifV0/f4956985b3/TopazUniqueCharm.png",
+      "flavourText": "The sea swells, the sky thunders; two ships tilt at odds.\r\nFlashes of light show only swinging axes... and a grin.",
+      "levelRequired": 5,
+      "category": "Charm",
+      "primaryValue": 0.00244,
+      "listingCount": 10000,
+      "corrupted": false,
+      "sparkLine": {
+        "totalChange": -4.69,
+        "data": [
+          0.0,
+          -2.34,
+          null,
+          null,
+          -5.86,
+          null,
+          -4.69
+        ]
+      },
+      "implicitModifiers": [
+        {
+          "text": "Used when you take [Lightning] damage from a [HitDamage|Hit]",
+          "optional": false
+        }
+      ],
+      "explicitModifiers": [
+        {
+          "text": "(30-40)% increased Charges gained",
+          "optional": false
+        },
+        {
+          "text": "Grants a [Charges|Frenzy Charge] on use",
+          "optional": false
+        }
+      ],
+      "propertyModifiers": [
+        {
+          "text": "Lasts (4-4.6) Seconds",
+          "optional": false
+        },
+        {
+          "text": "Consumes 20 of 40 Charges on use",
+          "optional": false
+        }
+      ],
+      "requirementModifiers": [
+        {
+          "text": "Level: 5",
+          "optional": false
+        }
+      ],
+      "utilityModifiers": [
+        {
+          "text": "+25% to [Resistances|Lightning Resistance]",
+          "optional": false
+        }
+      ],
+      "grantedSkillModifiers": null
+    }
+  ]
+}
