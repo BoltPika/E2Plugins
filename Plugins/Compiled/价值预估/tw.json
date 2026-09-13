@@ -126,6 +126,12 @@
         "class": ""
     },
     {
+        "label": "PobTools — Path of Building 繁體中文化啟動器",
+        "value": "PobTools",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
         "label": "PoeCharm",
         "value": "PoeCharm",
         "desc": "Wiki",
@@ -832,6 +838,12 @@
         "value": "Idol_of_Yeena",
         "desc": "增幅",
         "class": ""
+    },
+    {
+        "label": "伊果奉獻寶珠",
+        "value": "Yuguls_Orb_of_Sacrifice",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
     },
     {
         "label": "伊歐涅的雷霆",
@@ -1650,12 +1662,6 @@
         "class": ""
     },
     {
-        "label": "傳承．埃狄恩的曲牙",
-        "value": "Legacy_of_Edyrns_Tusks",
-        "desc": "增幅",
-        "class": ""
-    },
-    {
         "label": "傳承．埃里安的鵝卵石",
         "value": "Legacy_of_Erians_Cobble",
         "desc": "增幅",
@@ -1806,12 +1812,6 @@
         "class": ""
     },
     {
-        "label": "傳承．王衛",
-        "value": "Legacy_of_Kingsguard",
-        "desc": "增幅",
-        "class": ""
-    },
-    {
         "label": "傳承．瑟雷之握",
         "value": "Legacy_of_Serles_Grit",
         "desc": "增幅",
@@ -1826,6 +1826,12 @@
     {
         "label": "傳承．畸變星穹",
         "value": "Legacy_of_Twisted_Empyrean",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "傳承．皇家衛甲",
+        "value": "Legacy_of_Kingsguard",
         "desc": "增幅",
         "class": ""
     },
@@ -2244,7 +2250,7 @@
         "class": "gemitem"
     },
     {
-        "label": "元素地表",
+        "label": "元素地面",
         "value": "Elemental_Ground_Surfaces",
         "desc": "Keywords",
         "class": ""
@@ -3006,6 +3012,12 @@
         "class": ""
     },
     {
+        "label": "冬之翼．賽爾雷溫",
+        "value": "Thraeven%2C_Wing_of_Winter",
+        "desc": "怪物",
+        "class": ""
+    },
+    {
         "label": "冬鴞",
         "value": "The_Winter_Owl",
         "desc": "Passive",
@@ -3692,8 +3704,8 @@
     {
         "label": "分岔",
         "value": "Fork",
-        "desc": "Keywords",
-        "class": ""
+        "desc": "輔助寶石",
+        "class": "gemitem"
     },
     {
         "label": "分岔暴擊",
@@ -3727,7 +3739,7 @@
     },
     {
         "label": "分裂",
-        "value": "Split",
+        "value": "Fork",
         "desc": "Keywords",
         "class": ""
     },
@@ -4764,6 +4776,12 @@
         "class": ""
     },
     {
+        "label": "卡瑪薩奉獻寶珠",
+        "value": "Kamasas_Orb_of_Sacrifice",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
+    },
+    {
         "label": "卡瑪薩秘寶庫",
         "value": "Vaults_of_Kamasa",
         "desc": "WorldAreas",
@@ -5148,7 +5166,7 @@
         "class": ""
     },
     {
-        "label": "叛徒芭芭拉",
+        "label": "叛徒．芭芭拉",
         "value": "Balbala%2C_the_Traitor",
         "desc": "怪物",
         "class": ""
@@ -5556,6 +5574,84 @@
         "class": ""
     },
     {
+        "label": "吉卡尼的彈藥靈魂核心",
+        "value": "Jiquanis_Soul_Core_of_Munitions",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "吉卡尼的惡語靈魂核心",
+        "value": "Jiquanis_Soul_Core_of_Malediction",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "吉卡尼的斷切靈魂核心",
+        "value": "Jiquanis_Soul_Core_of_Severing",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "吉卡尼的漣漪靈魂核心",
+        "value": "Jiquanis_Soul_Core_of_Rippling",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "吉卡尼的狂風靈魂核心",
+        "value": "Jiquanis_Soul_Core_of_Squalls",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "吉卡尼的索敵靈魂核心",
+        "value": "Jiquanis_Soul_Core_of_Targeting",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "吉卡尼的自動化靈魂核心",
+        "value": "Jiquanis_Soul_Core_of_Automation",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "吉卡尼的號召靈魂核心",
+        "value": "Jiquanis_Soul_Core_of_Rallying",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "吉卡尼的豐饒靈魂核心",
+        "value": "Jiquanis_Soul_Core_of_Abundance",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "吉卡尼的輝耀靈魂核心",
+        "value": "Jiquanis_Soul_Core_of_Radiance",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "吉卡尼的陷阱靈魂核心",
+        "value": "Jiquanis_Soul_Core_of_Snares",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "吉卡尼的雷鳴靈魂核心",
+        "value": "Jiquanis_Soul_Core_of_Thundering",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "吉卡尼的震顫靈魂核心",
+        "value": "Jiquanis_Soul_Core_of_Quaking",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
         "label": "吉卡尼靈魂核心",
         "value": "Soul_Core_of_Jiquani",
         "desc": "增幅",
@@ -5602,6 +5698,12 @@
         "value": "The_Devouring_Diadem",
         "desc": "傳奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "吞噬之魂",
+        "value": "Eaten_Souls",
+        "desc": "Keywords",
+        "class": ""
     },
     {
         "label": "吞噬獸",
@@ -6094,12 +6196,6 @@
         "value": "Vase_Relic",
         "desc": "聖物",
         "class": ""
-    },
-    {
-        "label": "噬咬狂風",
-        "value": "Kingsguard",
-        "desc": "傳奇",
-        "class": "UniqueItem"
     },
     {
         "label": "噬魂者",
@@ -6696,12 +6792,6 @@
         "class": "gemitem"
     },
     {
-        "label": "堅韌奉獻寶珠",
-        "value": "Kopecs_Orb_of_Sacrifice",
-        "desc": "可堆疊通貨",
-        "class": "item_currency"
-    },
-    {
         "label": "堅韌守護",
         "value": "Resilient_Wards",
         "desc": "永恆珠寶",
@@ -6742,6 +6832,12 @@
         "value": "Soul_Core_of_Ticaba",
         "desc": "增幅",
         "class": ""
+    },
+    {
+        "label": "堯馬克奉獻寶珠",
+        "value": "Yaomacs_Orb_of_Sacrifice",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
     },
     {
         "label": "報復 I",
@@ -7656,12 +7752,6 @@
         "class": "item_currency"
     },
     {
-        "label": "奇術熔劑（等級4）",
-        "value": "Thaumaturgic_Flux_%28Level_4%29",
-        "desc": "可堆疊通貨",
-        "class": "item_currency"
-    },
-    {
         "label": "奇術熔劑（等級5）",
         "value": "Thaumaturgic_Flux_%28Level_5%29",
         "desc": "可堆疊通貨",
@@ -8014,12 +8104,6 @@
         "value": "The_Mhachas_Gift",
         "desc": "Passive",
         "class": ""
-    },
-    {
-        "label": "始創維里西姆",
-        "value": "Founders_Verisium",
-        "desc": "可堆疊通貨",
-        "class": "item_currency"
     },
     {
         "label": "始料未及的後果",
@@ -8852,12 +8936,6 @@
     {
         "label": "寶物 I",
         "value": "Bounty_I",
-        "desc": "輔助寶石",
-        "class": "gemitem"
-    },
-    {
-        "label": "寶物 II",
-        "value": "Bounty_II",
         "desc": "輔助寶石",
         "class": "gemitem"
     },
@@ -9844,12 +9922,6 @@
         "value": "Behemoth",
         "desc": "Passive",
         "class": ""
-    },
-    {
-        "label": "巨獸之腹",
-        "value": "Belly_of_the_Beast",
-        "desc": "傳奇",
-        "class": "UniqueItem"
     },
     {
         "label": "巨著",
@@ -10992,12 +11064,6 @@
         "class": "gemitem"
     },
     {
-        "label": "彎刀",
-        "value": "Scimitar",
-        "desc": "單手劍",
-        "class": ""
-    },
-    {
         "label": "彎刃劍",
         "value": "Falchion",
         "desc": "單手劍",
@@ -11218,12 +11284,6 @@
         "value": "The_Smiling_Knight",
         "desc": "傳奇",
         "class": "UniqueItem"
-    },
-    {
-        "label": "徵兆",
-        "value": "Omens",
-        "desc": "Keywords",
-        "class": ""
     },
     {
         "label": "徵兆權杖",
@@ -12148,6 +12208,12 @@
         "value": "Wasting_Casts",
         "desc": "Passive",
         "class": ""
+    },
+    {
+        "label": "懸賞 II",
+        "value": "Bounty_II",
+        "desc": "輔助寶石",
+        "class": "gemitem"
     },
     {
         "label": "懾人劇毒",
@@ -13752,12 +13818,6 @@
         "class": ""
     },
     {
-        "label": "效率",
-        "value": "Efficiency",
-        "desc": "Keywords",
-        "class": ""
-    },
-    {
         "label": "效率 I",
         "value": "Efficiency_I",
         "desc": "輔助寶石",
@@ -13773,6 +13833,12 @@
         "label": "效率裝置",
         "value": "Efficient_Contraptions",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "效用",
+        "value": "Efficiency",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -14240,13 +14306,7 @@
     {
         "label": "旗幟",
         "value": "Banner",
-        "desc": "寶石標籤",
-        "class": ""
-    },
-    {
-        "label": "旗幟技能",
-        "value": "Banner_Skills",
-        "desc": "Keywords",
+        "desc": "關鍵字",
         "class": ""
     },
     {
@@ -15966,6 +16026,12 @@
         "class": ""
     },
     {
+        "label": "歐羅的貢品",
+        "value": "Oros_Sacrifice",
+        "desc": "傳奇",
+        "class": "UniqueItem"
+    },
+    {
         "label": "歐辛的誓言",
         "value": "Ois%C3%ADns_Oath",
         "desc": "輔助寶石",
@@ -16368,12 +16434,6 @@
         "class": "UniqueItem"
     },
     {
-        "label": "殘酷奉獻寶珠",
-        "value": "Yaomacs_Orb_of_Sacrifice",
-        "desc": "可堆疊通貨",
-        "class": "item_currency"
-    },
-    {
         "label": "殘酷無情",
         "value": "Remorseless",
         "desc": "Passive",
@@ -16453,8 +16513,8 @@
     },
     {
         "label": "毀滅",
-        "value": "Devastation",
-        "desc": "Passive",
+        "value": "Ruin",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -17970,12 +18030,6 @@
         "class": "gemitem"
     },
     {
-        "label": "深淵活體炸彈",
-        "value": "Untether",
-        "desc": "技能寶石",
-        "class": "gemitem"
-    },
-    {
         "label": "深淵碑牌",
         "value": "Abyss_Tablet",
         "desc": "碑牌",
@@ -17990,6 +18044,12 @@
     {
         "label": "深淵耗損",
         "value": "Abyssal_Wasting",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "深淵裂谷",
+        "value": "Abyssal_Fissure",
         "desc": "Keywords",
         "class": ""
     },
@@ -18748,12 +18808,6 @@
         "value": "Blasphemy",
         "desc": "Meta Skill Gem",
         "class": "gemitem"
-    },
-    {
-        "label": "瀆神奉獻寶珠",
-        "value": "Kamasas_Orb_of_Sacrifice",
-        "desc": "可堆疊通貨",
-        "class": "item_currency"
     },
     {
         "label": "瀆神祭祀",
@@ -19620,12 +19674,6 @@
         "class": "gemitem"
     },
     {
-        "label": "無盡之舞",
-        "value": "Puppet_Master_chance",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "無盡之衣",
         "value": "Tabula_Rasa",
         "desc": "傳奇",
@@ -20360,6 +20408,12 @@
     {
         "label": "版本 0.5.0",
         "value": "Version_0.5.0",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "版本 0.5.5 禁忌儀式活動聯盟",
+        "value": "Version_0.5.5",
         "desc": "Wiki",
         "class": ""
     },
@@ -21102,6 +21156,12 @@
         "class": ""
     },
     {
+        "label": "獸腹",
+        "value": "Belly_of_the_Beast",
+        "desc": "傳奇",
+        "class": "UniqueItem"
+    },
+    {
         "label": "獻祭",
         "value": "Sacrifice",
         "desc": "Keywords",
@@ -21363,6 +21423,12 @@
         "label": "瑪格思頭冠",
         "value": "Magus_Tiara",
         "desc": "頭部",
+        "class": ""
+    },
+    {
+        "label": "瑪薩里歐斯魔偶",
+        "value": "Idol_of_Maxarius",
+        "desc": "增幅",
         "class": ""
     },
     {
@@ -22212,12 +22278,6 @@
         "class": ""
     },
     {
-        "label": "皇家奉獻寶珠",
-        "value": "Yuguls_Orb_of_Sacrifice",
-        "desc": "可堆疊通貨",
-        "class": "item_currency"
-    },
-    {
         "label": "皇家工藝",
         "value": "Royal_Craftsmanship",
         "desc": "Passive",
@@ -22230,10 +22290,22 @@
         "class": ""
     },
     {
+        "label": "皇家氣度",
+        "value": "Royal_Lenience",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "皇家特權",
         "value": "Royal_Prerogative",
         "desc": "Passive",
         "class": ""
+    },
+    {
+        "label": "皇家衛甲",
+        "value": "Kingsguard",
+        "desc": "傳奇",
+        "class": "UniqueItem"
     },
     {
         "label": "皇族塔盾",
@@ -22638,6 +22710,12 @@
         "class": ""
     },
     {
+        "label": "短彎刀",
+        "value": "Scimitar",
+        "desc": "單手劍",
+        "class": ""
+    },
+    {
         "label": "短距離射擊",
         "value": "Short_Shot",
         "desc": "Passive",
@@ -22729,7 +22807,7 @@
     },
     {
         "label": "破壞裝置",
-        "value": "Devestating_Devices",
+        "value": "Devastating_Devices",
         "desc": "Passive",
         "class": ""
     },
@@ -23620,6 +23698,12 @@
         "value": "Moment_of_Zen",
         "desc": "WorldAreas",
         "class": ""
+    },
+    {
+        "label": "科佩克奉獻寶珠",
+        "value": "Kopecs_Orb_of_Sacrifice",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
     },
     {
         "label": "科那索姆",
@@ -30150,6 +30234,12 @@
         "class": ""
     },
     {
+        "label": "聖綻之花",
+        "value": "Sacred_Bloom",
+        "desc": "地圖碎片",
+        "class": ""
+    },
+    {
         "label": "聖賢智慧",
         "value": "Wisdom_of_the_Maji",
         "desc": "Passive",
@@ -32532,6 +32622,12 @@
         "class": ""
     },
     {
+        "label": "被釋放的阿茲莫里魂靈",
+        "value": "Released_Azmeri_Spirits",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "被釘身",
         "value": "Pinned",
         "desc": "Keywords",
@@ -32540,7 +32636,7 @@
     {
         "label": "裂化",
         "value": "Split",
-        "desc": "關鍵字",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -32908,6 +33004,12 @@
         "value": "Antidote_Charm",
         "desc": "護符",
         "class": ""
+    },
+    {
+        "label": "解脫",
+        "value": "Untether",
+        "desc": "技能寶石",
+        "class": "gemitem"
     },
     {
         "label": "解脫纏帶",
@@ -37122,6 +37224,12 @@
         "class": "gemitem"
     },
     {
+        "label": "阿茲里的免疫靈魂核心",
+        "value": "Atziris_Soul_Core_of_Inoculation",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
         "label": "阿茲里的共融",
         "value": "Atziris_Communion",
         "desc": "輔助寶石",
@@ -37134,6 +37242,12 @@
         "class": "gemitem"
     },
     {
+        "label": "阿茲里的奉獻靈魂核心",
+        "value": "Atziris_Soul_Core_of_Devotion",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
         "label": "阿茲里的威權",
         "value": "Atziris_Splendour",
         "desc": "傳奇",
@@ -37144,6 +37258,18 @@
         "value": "Atziris_Acuity",
         "desc": "傳奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "阿茲里的敏捷靈魂核心",
+        "value": "Atziris_Soul_Core_of_Alacrity",
+        "desc": "增幅",
+        "class": ""
+    },
+    {
+        "label": "阿茲里的活力靈魂核心",
+        "value": "Atziris_Soul_Core_of_Vitality",
+        "desc": "增幅",
+        "class": ""
     },
     {
         "label": "阿茲里的神廟",
@@ -37430,12 +37556,6 @@
     {
         "label": "隱蔽",
         "value": "Unsight",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "隱蔽之手",
-        "value": "Puppet_Master_chance",
         "desc": "Passive",
         "class": ""
     },
@@ -38539,8 +38659,8 @@
     },
     {
         "label": "預兆",
-        "value": "Augury",
-        "desc": "WorldAreas",
+        "value": "Omens",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -39153,12 +39273,6 @@
         "label": "馬拉松跑者",
         "value": "Marathon_Runner",
         "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "馬薩里斯魔偶",
-        "value": "Idol_of_Maxarius",
-        "desc": "增幅",
         "class": ""
     },
     {
@@ -39840,6 +39954,18 @@
         "class": ""
     },
     {
+        "label": "鬥旗",
+        "value": "Banner",
+        "desc": "寶石標籤",
+        "class": ""
+    },
+    {
+        "label": "鬥旗技能",
+        "value": "Banner_Skills",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "鬥爭鎬",
         "value": "Strife_Pick",
         "desc": "單手錘",
@@ -39867,12 +39993,6 @@
         "label": "魁儡大師",
         "value": "Puppet_Master",
         "desc": "Keywords",
-        "class": ""
-    },
-    {
-        "label": "魁儡大師持續時間",
-        "value": "Puppet_Master_chance",
-        "desc": "Passive",
         "class": ""
     },
     {

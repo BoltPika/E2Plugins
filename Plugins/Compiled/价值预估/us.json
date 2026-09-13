@@ -114,6 +114,12 @@
         "class": ""
     },
     {
+        "label": "0.5.5b Patch Notes",
+        "value": "Version_0.5.5b",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
         "label": "A Solid Plan",
         "value": "A_Solid_Plan",
         "desc": "Passive",
@@ -200,6 +206,12 @@
     {
         "label": "Abyssal Eye",
         "value": "Abyssal_Eye",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "Abyssal Fissure",
+        "value": "Abyssal_Fissure",
         "desc": "Keywords",
         "class": ""
     },
@@ -969,6 +981,12 @@
         "label": "Amphora Relic",
         "value": "Amphora_Relic",
         "desc": "Relics",
+        "class": ""
+    },
+    {
+        "label": "Amplification",
+        "value": "Amplification",
+        "desc": "",
         "class": ""
     },
     {
@@ -2154,6 +2172,30 @@
         "class": "UniqueItem"
     },
     {
+        "label": "Atziri's Soul Core of Alacrity",
+        "value": "Atziris_Soul_Core_of_Alacrity",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Atziri's Soul Core of Devotion",
+        "value": "Atziris_Soul_Core_of_Devotion",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Atziri's Soul Core of Inoculation",
+        "value": "Atziris_Soul_Core_of_Inoculation",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Atziri's Soul Core of Vitality",
+        "value": "Atziris_Soul_Core_of_Vitality",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
         "label": "Atziri's Splendour",
         "value": "Atziris_Splendour",
         "desc": "Unique",
@@ -3186,9 +3228,21 @@
         "class": ""
     },
     {
+        "label": "Blade Conduit",
+        "value": "Blade_Conduit",
+        "desc": "",
+        "class": ""
+    },
+    {
         "label": "Blade Flurry",
         "value": "Blade_Flurry",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Blade Plunge",
+        "value": "Blade_Plunge",
+        "desc": "",
         "class": ""
     },
     {
@@ -3466,6 +3520,12 @@
         "value": "Bloodhounds_Mark",
         "desc": "Skill Gems",
         "class": "gemitem"
+    },
+    {
+        "label": "Bloodied Blade",
+        "value": "Bloodied_Blade",
+        "desc": "",
+        "class": ""
     },
     {
         "label": "Bloodless",
@@ -5392,6 +5452,12 @@
         "value": "Charged_Shots_II",
         "desc": "Support Gems",
         "class": "gemitem"
+    },
+    {
+        "label": "Charged Slash",
+        "value": "Charged_Slash",
+        "desc": "",
+        "class": ""
     },
     {
         "label": "Charged Staff",
@@ -7446,6 +7512,12 @@
         "class": ""
     },
     {
+        "label": "Cyclone",
+        "value": "Cyclone",
+        "desc": "",
+        "class": ""
+    },
+    {
         "label": "Cyclonic Alloy",
         "value": "Cyclonic_Alloy",
         "desc": "Stackable Currency",
@@ -8304,14 +8376,14 @@
         "class": "gemitem"
     },
     {
-        "label": "Devastation",
-        "value": "Devastation",
+        "label": "Devastating Devices",
+        "value": "Devastating_Devices",
         "desc": "Passive",
         "class": ""
     },
     {
-        "label": "Devestating Devices",
-        "value": "Devestating_Devices",
+        "label": "Devastation",
+        "value": "Devastation",
         "desc": "Passive",
         "class": ""
     },
@@ -9084,6 +9156,12 @@
         "class": "gemitem"
     },
     {
+        "label": "Earthrend",
+        "value": "Earthrend",
+        "desc": "",
+        "class": ""
+    },
+    {
         "label": "Earthshatter",
         "value": "Earthshatter",
         "desc": "Skill Gems",
@@ -9147,6 +9225,12 @@
         "label": "Echoing Pulse",
         "value": "Echoing_Pulse",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Echoing Strikes",
+        "value": "Echoing_Strikes",
+        "desc": "",
         "class": ""
     },
     {
@@ -10092,6 +10176,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "Engage",
+        "value": "Engage",
+        "desc": "",
+        "class": ""
+    },
+    {
         "label": "Engineered Blaze",
         "value": "Engineered_Blaze",
         "desc": "Passive",
@@ -10293,6 +10383,12 @@
         "label": "Eroding Chains",
         "value": "Eroding_Chains",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Eroding Sands",
+        "value": "Eroding_Sands",
+        "desc": "",
         "class": ""
     },
     {
@@ -10917,12 +11013,6 @@
         "label": "Exhumed Ruins",
         "value": "Exhumed_Ruins",
         "desc": "WorldAreas",
-        "class": ""
-    },
-    {
-        "label": "ExileCon 2026",
-        "value": "ExileCon_2026",
-        "desc": "Wiki",
         "class": ""
     },
     {
@@ -12972,6 +13062,12 @@
         "class": ""
     },
     {
+        "label": "Galvanising Blades",
+        "value": "Galvanising_Blades",
+        "desc": "",
+        "class": ""
+    },
+    {
         "label": "Gambleshot",
         "value": "Gambleshot",
         "desc": "Support Gems",
@@ -13569,6 +13665,12 @@
         "label": "Gothic Quarterstaff",
         "value": "Gothic_Quarterstaff",
         "desc": "Quarterstaves",
+        "class": ""
+    },
+    {
+        "label": "Gouge",
+        "value": "Gouge",
+        "desc": "",
         "class": ""
     },
     {
@@ -14332,6 +14434,12 @@
         "value": "Haemocrystals",
         "desc": "Support Gems",
         "class": "gemitem"
+    },
+    {
+        "label": "Haemorrhage",
+        "value": "Haemorrhage",
+        "desc": "",
+        "class": ""
     },
     {
         "label": "Haemorrhaging Cuts",
@@ -16296,6 +16404,12 @@
         "class": ""
     },
     {
+        "label": "Infernal Step",
+        "value": "Infernal_Step",
+        "desc": "",
+        "class": ""
+    },
+    {
         "label": "Infernalist",
         "value": "Infernalist",
         "desc": "Ascendancy",
@@ -17085,6 +17199,84 @@
         "label": "Jingling Focus",
         "value": "Jingling_Focus",
         "desc": "Foci",
+        "class": ""
+    },
+    {
+        "label": "Jiquani's Soul Core of Abundance",
+        "value": "Jiquanis_Soul_Core_of_Abundance",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Jiquani's Soul Core of Automation",
+        "value": "Jiquanis_Soul_Core_of_Automation",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Jiquani's Soul Core of Malediction",
+        "value": "Jiquanis_Soul_Core_of_Malediction",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Jiquani's Soul Core of Munitions",
+        "value": "Jiquanis_Soul_Core_of_Munitions",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Jiquani's Soul Core of Quaking",
+        "value": "Jiquanis_Soul_Core_of_Quaking",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Jiquani's Soul Core of Radiance",
+        "value": "Jiquanis_Soul_Core_of_Radiance",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Jiquani's Soul Core of Rallying",
+        "value": "Jiquanis_Soul_Core_of_Rallying",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Jiquani's Soul Core of Rippling",
+        "value": "Jiquanis_Soul_Core_of_Rippling",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Jiquani's Soul Core of Severing",
+        "value": "Jiquanis_Soul_Core_of_Severing",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Jiquani's Soul Core of Snares",
+        "value": "Jiquanis_Soul_Core_of_Snares",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Jiquani's Soul Core of Squalls",
+        "value": "Jiquanis_Soul_Core_of_Squalls",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Jiquani's Soul Core of Targeting",
+        "value": "Jiquanis_Soul_Core_of_Targeting",
+        "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Jiquani's Soul Core of Thundering",
+        "value": "Jiquanis_Soul_Core_of_Thundering",
+        "desc": "Augment",
         "class": ""
     },
     {
@@ -17912,12 +18104,6 @@
     {
         "label": "Legacy of Dusk Vigil",
         "value": "Legacy_of_Dusk_Vigil",
-        "desc": "Augment",
-        "class": ""
-    },
-    {
-        "label": "Legacy of Edyrns Tusks",
-        "value": "Legacy_of_Edyrns_Tusks",
         "desc": "Augment",
         "class": ""
     },
@@ -21972,6 +22158,12 @@
         "class": ""
     },
     {
+        "label": "Oro's Sacrifice",
+        "value": "Oros_Sacrifice",
+        "desc": "Unique",
+        "class": "UniqueItem"
+    },
+    {
         "label": "Oswin, the Dread Warden",
         "value": "Oswin%2C_the_Dread_Warden",
         "desc": "Monster",
@@ -22852,6 +23044,12 @@
         "value": "Perfidy",
         "desc": "Unique",
         "class": "UniqueItem"
+    },
+    {
+        "label": "Perforate",
+        "value": "Perforate",
+        "desc": "",
+        "class": ""
     },
     {
         "label": "Perforation",
@@ -25188,6 +25386,12 @@
         "class": ""
     },
     {
+        "label": "Released Azmeri Spirits",
+        "value": "Released_Azmeri_Spirits",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "Relentless",
         "value": "Relentless",
         "desc": "Passive",
@@ -25300,6 +25504,12 @@
         "value": "Rending_Apex",
         "desc": "Support Gems",
         "class": "gemitem"
+    },
+    {
+        "label": "Rending Dash",
+        "value": "Rending_Dash",
+        "desc": "",
+        "class": ""
     },
     {
         "label": "Rending Halberd",
@@ -26166,6 +26376,12 @@
         "class": ""
     },
     {
+        "label": "Royal Lenience",
+        "value": "Royal_Lenience",
+        "desc": "Passive",
+        "class": ""
+    },
+    {
         "label": "Royal Prerogative",
         "value": "Royal_Prerogative",
         "desc": "Passive",
@@ -26222,7 +26438,7 @@
     {
         "label": "Ruin",
         "value": "Ruin",
-        "desc": "Passive",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -30474,6 +30690,12 @@
         "class": ""
     },
     {
+        "label": "Sacred Bloom",
+        "value": "Sacred_Bloom",
+        "desc": "Map Fragments",
+        "class": ""
+    },
+    {
         "label": "Sacred Flame",
         "value": "Sacred_Flame",
         "desc": "Unique",
@@ -30669,6 +30891,12 @@
         "label": "Sanctuary",
         "value": "Sanctuary",
         "desc": "WorldAreas",
+        "class": ""
+    },
+    {
+        "label": "Sand Scour",
+        "value": "Sand_Scour",
+        "desc": "",
         "class": ""
     },
     {
@@ -31506,6 +31734,12 @@
         "class": "gemitem"
     },
     {
+        "label": "Shattering Parry",
+        "value": "Shattering_Parry",
+        "desc": "",
+        "class": ""
+    },
+    {
         "label": "Shattering Spite",
         "value": "Shattering_Spite",
         "desc": "Skill Gems",
@@ -32217,6 +32451,12 @@
         "label": "Slicing Quarterstaff",
         "value": "Slicing_Quarterstaff",
         "desc": "Quarterstaves",
+        "class": ""
+    },
+    {
+        "label": "Slicing Winds",
+        "value": "Slicing_Winds",
+        "desc": "",
         "class": ""
     },
     {
@@ -34455,6 +34695,12 @@
         "label": "Surging Currents",
         "value": "Surging_Currents",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Surprise Attack",
+        "value": "Surprise_Attack",
+        "desc": "",
         "class": ""
     },
     {
@@ -38004,6 +38250,12 @@
         "class": ""
     },
     {
+        "label": "Vaal Relics",
+        "value": "Vaal_Relics",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "Vaal Ruins",
         "value": "Vaal_Ruins",
         "desc": "WorldAreas",
@@ -38414,6 +38666,18 @@
     {
         "label": "Version 0.5.0",
         "value": "Version_0.5.0",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "Version 0.5.5",
+        "value": "Version_0.5.5",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "Version 1.0.0",
+        "value": "Version_1.0.0",
         "desc": "Wiki",
         "class": ""
     },
@@ -40017,6 +40281,12 @@
         "label": "Wool Cap",
         "value": "Wool_Cap",
         "desc": "Helmets",
+        "class": ""
+    },
+    {
+        "label": "Worldcutter",
+        "value": "Worldcutter",
+        "desc": "",
         "class": ""
     },
     {
