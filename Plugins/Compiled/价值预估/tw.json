@@ -66,6 +66,12 @@
         "class": ""
     },
     {
+        "label": "0.5.5c 版本更新公告",
+        "value": "Version_0.5.5c",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
         "label": "Aldur's Legacy",
         "value": "Aldurs_Legacy",
         "desc": "Wiki",
@@ -189,6 +195,12 @@
         "label": "一箭穿心",
         "value": "Pierce_the_Heart",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "七大水域之都",
+        "value": "The_City_of_Seven_Waters",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -384,9 +396,21 @@
         "class": ""
     },
     {
+        "label": "不祥凶兆",
+        "value": "Grim_Portents",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "不祥珠寶插槽",
         "value": "Sinister_Jewel_Sockets",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "不祥祭壇",
+        "value": "Ominous_Altars",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -792,6 +816,12 @@
         "class": "gemitem"
     },
     {
+        "label": "仲裁者頭目輿圖技能書",
+        "value": "Arbiter_Boss_Atlas_Skill_Books",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "任你指揮",
         "value": "At_your_Command",
         "desc": "Passive",
@@ -885,6 +915,12 @@
         "label": "伐林地",
         "value": "Deforestation",
         "desc": "WorldAreas",
+        "class": ""
+    },
+    {
+        "label": "伯勞鳥之島",
+        "value": "Shrike_Island",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -1974,6 +2010,12 @@
         "class": ""
     },
     {
+        "label": "傳統的代價",
+        "value": "Traditions_Toll",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "傳說之戰",
         "value": "Legendary_Duels",
         "desc": "Passive",
@@ -2640,6 +2682,12 @@
         "class": "gemitem"
     },
     {
+        "label": "先行者之遺",
+        "value": "Legacy_of_the_Precursors",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "先行者分離器",
         "value": "Precursor_Separator",
         "desc": "怪物",
@@ -2678,7 +2726,7 @@
     {
         "label": "先行者高塔",
         "value": "Precursor_Towers",
-        "desc": "Keywords",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -3453,6 +3501,12 @@
         "label": "凋落倉庫頁",
         "value": "Blight_Stash_Tab",
         "desc": "Stashtab",
+        "class": ""
+    },
+    {
+        "label": "凋落者永無寧日",
+        "value": "No_Rest_for_the_Blighted",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -4314,6 +4368,12 @@
         "class": ""
     },
     {
+        "label": "勁敵",
+        "value": "Powerful_Foe",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "勁風蝮蛇之怒",
         "value": "Wind_Serpents_Fury",
         "desc": "技能寶石",
@@ -4378,6 +4438,12 @@
         "value": "Powertread",
         "desc": "傳奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "動彈不得",
+        "value": "Pinned_Down",
+        "desc": "任務",
+        "class": ""
     },
     {
         "label": "動能猛擊",
@@ -5940,6 +6006,12 @@
         "class": "gemitem"
     },
     {
+        "label": "咫尺亡命",
+        "value": "Death_in_the_Ranges",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "咫尺天堂",
         "value": "Closer_to_the_Heavens",
         "desc": "Passive",
@@ -6230,7 +6302,7 @@
     {
         "label": "囚犯",
         "value": "The_Prisoner",
-        "desc": "怪物",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -6405,6 +6477,12 @@
         "label": "地圖頭目",
         "value": "Map_Boss",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "地圖頭目輿圖技能書",
+        "value": "Map_Boss_Atlas_Skill_Books",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -6888,6 +6966,12 @@
         "class": "gemitem"
     },
     {
+        "label": "塔薩里奧的考驗",
+        "value": "Tasalios_Test",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "塔薩里奧脛甲",
         "value": "Tasalian_Greaves",
         "desc": "鞋子",
@@ -6910,6 +6994,12 @@
         "value": "Tawhoas_Tending",
         "desc": "輔助寶石",
         "class": "gemitem"
+    },
+    {
+        "label": "塔赫亞的考驗",
+        "value": "Tawhoas_Test",
+        "desc": "任務",
+        "class": ""
     },
     {
         "label": "塗層匕首",
@@ -7164,6 +7254,12 @@
         "class": "gemitem"
     },
     {
+        "label": "壞滅黃沙",
+        "value": "Sands_of_Ruin",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "士兵之盔",
         "value": "Soldier_Helm",
         "desc": "頭部",
@@ -7284,6 +7380,12 @@
         "class": ""
     },
     {
+        "label": "多里亞尼的科學",
+        "value": "Doryanis_Science",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "多重射擊 I",
         "value": "Multishot_I",
         "desc": "輔助寶石",
@@ -7380,6 +7482,12 @@
         "class": ""
     },
     {
+        "label": "大地的裂痕",
+        "value": "Cracks_in_the_Earth",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "大地符文",
         "value": "Earth_Rune",
         "desc": "Keywords",
@@ -7398,9 +7506,15 @@
         "class": "gemitem"
     },
     {
+        "label": "大型任務",
+        "value": "The_Grand_Quest",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "大型探險",
-        "value": "Grand_Expedition",
-        "desc": "Keywords",
+        "value": "The_Grand_Expedition",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -7425,6 +7539,12 @@
         "label": "大幅提升之兆",
         "value": "Omen_of_Greater_Exaltation",
         "desc": "預兆",
+        "class": ""
+    },
+    {
+        "label": "大搜索",
+        "value": "The_Search",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -7659,6 +7779,12 @@
         "label": "奇特堅固石頭",
         "value": "Curiously_Durable_Stone",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "奇異反射",
+        "value": "Strange_Reflection",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -7908,9 +8034,27 @@
         "class": "UniqueItem"
     },
     {
+        "label": "奧札爾寶藏",
+        "value": "Treasures_of_Utzaal",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "奧札爾胸甲",
         "value": "Utzaal_Cuirass",
         "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "奧格姆之影",
+        "value": "Shadow_Over_Ogham",
+        "desc": "任務",
+        "class": ""
+    },
+    {
+        "label": "奧格姆的狂狼",
+        "value": "The_Mad_Wolf_of_Ogham",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -7966,6 +8110,12 @@
         "value": "Olroths_Crest_of_the_Sun",
         "desc": "可堆疊通貨",
         "class": "item_currency"
+    },
+    {
+        "label": "奧瑞亞圍城戰",
+        "value": "The_Siege_of_Oriath",
+        "desc": "任務",
+        "class": ""
     },
     {
         "label": "奧術本質",
@@ -9060,6 +9210,12 @@
         "class": ""
     },
     {
+        "label": "尋找熔爐",
+        "value": "Finding_the_Forge",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "對所有擊中給予反擊",
         "value": "Retaliate_against_all_Hits",
         "desc": "Keywords",
@@ -9561,6 +9717,12 @@
         "label": "崛起之王．賈嫚拉",
         "value": "Jamanra%2C_the_Risen_King",
         "desc": "怪物",
+        "class": ""
+    },
+    {
+        "label": "崛起掌權",
+        "value": "Ascent_to_Power",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -10122,6 +10284,12 @@
         "class": ""
     },
     {
+        "label": "希爾妲的狩獵",
+        "value": "Hildas_Hunting",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "希特克拉多的假說",
         "value": "Citaqualotls_Thesis",
         "desc": "增幅",
@@ -10485,6 +10653,12 @@
         "label": "廢棄挖掘場",
         "value": "Exhumed_Ruins",
         "desc": "WorldAreas",
+        "class": ""
+    },
+    {
+        "label": "廢棄監獄",
+        "value": "Abandoned_Prison",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -11508,6 +11682,12 @@
         "class": ""
     },
     {
+        "label": "快樂與痛苦",
+        "value": "Pleasure_and_Pain",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "快行",
         "value": "Travel",
         "desc": "寶石標籤",
@@ -11913,6 +12093,12 @@
         "label": "惡性創傷",
         "value": "Vile_Wounds",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "惡意收購",
+        "value": "Hostile_Takeover",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -12744,6 +12930,12 @@
         "class": ""
     },
     {
+        "label": "抵達皆伐",
+        "value": "Reaching_Clearfell",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "抹殺敵人",
         "value": "Dispatch_Foes",
         "desc": "Passive",
@@ -12828,6 +13020,24 @@
         "class": ""
     },
     {
+        "label": "招募瓦爾人",
+        "value": "Recruit_the_Vaal",
+        "desc": "任務",
+        "class": ""
+    },
+    {
+        "label": "招募艾茲麥人",
+        "value": "Recruit_the_Ezomytes",
+        "desc": "任務",
+        "class": ""
+    },
+    {
+        "label": "招募馬拉克斯人",
+        "value": "Recruit_the_Maraketh",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "招架",
         "value": "Parry",
         "desc": "Keywords",
@@ -12880,6 +13090,12 @@
         "value": "Ngamahus_Chosen",
         "desc": "傳奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "拿馬乎的考驗",
+        "value": "Ngamahus_Test",
+        "desc": "任務",
+        "class": ""
     },
     {
         "label": "持久創傷",
@@ -13188,6 +13404,18 @@
         "class": "item_currency"
     },
     {
+        "label": "探測黑淵",
+        "value": "Plumbing_the_Depths",
+        "desc": "任務",
+        "class": ""
+    },
+    {
+        "label": "探索神廟",
+        "value": "Explore_the_Temple",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "探索者護甲",
         "value": "Explorer_Armour",
         "desc": "胸甲",
@@ -13209,6 +13437,12 @@
         "label": "探險碑牌",
         "value": "Expedition_Tablet",
         "desc": "碑牌",
+        "class": ""
+    },
+    {
+        "label": "探險輿圖技能書",
+        "value": "Expedition_Atlas_Skill_Books",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -14664,6 +14898,12 @@
         "class": ""
     },
     {
+        "label": "時間試煉",
+        "value": "The_Trial_of_Time",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "晦澀之鑰",
         "value": "Cryptic_Key",
         "desc": "可堆疊通貨",
@@ -14850,6 +15090,12 @@
         "class": ""
     },
     {
+        "label": "暗影欺詐者",
+        "value": "The_Shadow_Trickster",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "暗影重擔",
         "value": "The_Burden_of_Shadows",
         "desc": "傳奇",
@@ -14889,6 +15135,12 @@
         "label": "暗黑執政官．泰科",
         "value": "Tycho%2C_the_Black_Praetor",
         "desc": "怪物",
+        "class": ""
+    },
+    {
+        "label": "暗黑迷霧",
+        "value": "Dark_Mists",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -16242,6 +16494,12 @@
         "class": ""
     },
     {
+        "label": "死墓厄兆",
+        "value": "Grave_Tidings",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "死墓埋手",
         "value": "Hand_in_the_Grave",
         "desc": "Passive",
@@ -16467,6 +16725,12 @@
         "label": "殞落狂熱",
         "value": "Restless_Dead",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "殞落英雄",
+        "value": "The_Fallen_Hero",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -17184,6 +17448,12 @@
         "class": "gemitem"
     },
     {
+        "label": "沙漠之兆",
+        "value": "Desert_Omens",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "沙漠之蔑",
         "value": "Deserts_Scorn",
         "desc": "Passive",
@@ -17403,6 +17673,12 @@
         "label": "法里登的歷史",
         "value": "History_of_the_Faridun",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "法里登突襲",
+        "value": "Faridun_Foray",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -17714,7 +17990,7 @@
     {
         "label": "浩劫覺醒",
         "value": "Cataclysms_Wake",
-        "desc": "Passive",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -17758,6 +18034,12 @@
         "value": "First_Blood",
         "desc": "輔助寶石",
         "class": "gemitem"
+    },
+    {
+        "label": "海妖珍珠",
+        "value": "Siren_Pearl",
+        "desc": "任務",
+        "class": ""
     },
     {
         "label": "海妖鱗手套",
@@ -17983,8 +18265,8 @@
     },
     {
         "label": "深淵之力",
-        "value": "Strength_of_the_Deep",
-        "desc": "Passive",
+        "value": "Abyssal_Power",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -18201,6 +18483,12 @@
         "label": "混沌稀有度之兆",
         "value": "Omen_of_Chaotic_Rarity",
         "desc": "預兆",
+        "class": ""
+    },
+    {
+        "label": "混沌試煉",
+        "value": "The_Trials_of_Chaos",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -18444,6 +18732,12 @@
         "class": ""
     },
     {
+        "label": "滑行死者",
+        "value": "The_Slithering_Dead",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "滯礙險阻",
         "value": "Hindering_Obstacles",
         "desc": "Passive",
@@ -18459,6 +18753,12 @@
         "label": "滲血",
         "value": "Bloodletting",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "滲透奧瑞亞",
+        "value": "Infiltrating_Oriath",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -18609,6 +18909,12 @@
         "label": "潛藏型態",
         "value": "Hidden_Forms",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "潮汐之兆",
+        "value": "Tidal_Omens",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -19104,6 +19410,12 @@
         "class": ""
     },
     {
+        "label": "灰燼與白骨",
+        "value": "Ash_and_Bone",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "灰燼長杖",
         "value": "Ashen_Staff",
         "desc": "長杖",
@@ -19365,6 +19677,12 @@
         "label": "烏圖拉的貢禮",
         "value": "Tribute_to_Utula",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "烏托邦",
+        "value": "Utopia",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -19845,6 +20163,12 @@
         "label": "無量困境",
         "value": "Crux_of_Nothingness",
         "desc": "WorldAreas",
+        "class": ""
+    },
+    {
+        "label": "無量邊境",
+        "value": "The_Edge_of_Nothingness",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -20418,6 +20742,12 @@
         "class": ""
     },
     {
+        "label": "版本 1.0.0",
+        "value": "Version_1.0.0",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
         "label": "版本更新 0.4.0b",
         "value": "Version_0.4.0b",
         "desc": "Wiki",
@@ -20562,6 +20892,12 @@
         "class": ""
     },
     {
+        "label": "特拉特斯角鬥士",
+        "value": "Trarthan_Gladiator",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "特沙波卡爾之慾",
         "value": "Tetzlapokals_Desire",
         "desc": "傳奇",
@@ -20613,6 +20949,12 @@
         "label": "狂亂魔符",
         "value": "Frenzied_Talisman",
         "desc": "魔符",
+        "class": ""
+    },
+    {
+        "label": "狂嗥之風",
+        "value": "Howling_Winds",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -20904,6 +21246,12 @@
         "class": ""
     },
     {
+        "label": "狩獵開始",
+        "value": "The_Hunt_Begins",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "狩獵頂點",
         "value": "Hunt_the_Apex",
         "desc": "Passive",
@@ -21093,6 +21441,12 @@
         "label": "獲得相當於傷害的額外 X 傷害",
         "value": "Damage_Gained_as_extra_X",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "獲得通行許可",
+        "value": "Earning_Passage",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -21462,6 +21816,12 @@
         "class": ""
     },
     {
+        "label": "瓦卡帕努島",
+        "value": "Whakapanu_Island",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "瓦拉什塔的直覺",
         "value": "Varashtas_Intuition",
         "desc": "Passive",
@@ -21504,6 +21864,12 @@
         "class": ""
     },
     {
+        "label": "瓦爾侵略",
+        "value": "Vaal_Incursion",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "瓦爾催化灌注器",
         "value": "Vaal_Catalysing_Infuser",
         "desc": "可堆疊通貨",
@@ -21529,8 +21895,8 @@
     },
     {
         "label": "瓦爾命途",
-        "value": "Fate_of_the_Vaal_league",
-        "desc": "Wiki",
+        "value": "Fate_of_the_Vaal",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -21579,6 +21945,12 @@
         "label": "瓦爾烽塔",
         "value": "Vaal_Beacon",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "瓦爾的傳承",
+        "value": "Legacy_of_the_Vaal",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -21634,6 +22006,12 @@
         "value": "Vaal_Armourers_Infuser",
         "desc": "可堆疊通貨",
         "class": "item_currency"
+    },
+    {
+        "label": "瓦爾遺物",
+        "value": "Vaal_Relics",
+        "desc": "Keywords",
+        "class": ""
     },
     {
         "label": "瓦爾遺跡",
@@ -22634,7 +23012,7 @@
     {
         "label": "眼盲巨獸",
         "value": "The_Blind_Beast",
-        "desc": "怪物",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -22743,6 +23121,18 @@
         "label": "石拳之道",
         "value": "Way_of_the_Stonefist",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "石皇冠",
+        "value": "A_Crown_of_Stone",
+        "desc": "任務",
+        "class": ""
+    },
+    {
+        "label": "石頭上的悲傷",
+        "value": "Sorrow_Among_Stones",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -23250,6 +23640,12 @@
         "class": ""
     },
     {
+        "label": "祖靈的試煉",
+        "value": "Trial_of_the_Ancestors",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "祝福之兆",
         "value": "Omen_of_the_Blessed",
         "desc": "預兆",
@@ -23376,6 +23772,12 @@
         "class": ""
     },
     {
+        "label": "神祕的影魅",
+        "value": "The_Mysterious_Shade",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "神禦細杖",
         "value": "Aegis_Quarterstaff",
         "desc": "細杖",
@@ -23415,6 +23817,12 @@
         "label": "神秘盛怒",
         "value": "Mystical_Rage",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "神秘祭壇",
+        "value": "Mysterious_Altars",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -23479,8 +23887,8 @@
     },
     {
         "label": "神聖仲裁者",
-        "value": "The_Arbiter_of_Divinity",
-        "desc": "怪物",
+        "value": "Arbiter_of_Divinity",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -23607,6 +24015,12 @@
         "label": "祭祀終章",
         "value": "Ritual_Cadence",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "祭祀輿圖技能書",
+        "value": "Ritual_Atlas_Skill_Books",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -24030,6 +24444,12 @@
         "class": "gemitem"
     },
     {
+        "label": "空白符文",
+        "value": "Blank_Runes",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "空虛感受",
         "value": "Empty_Feeling",
         "desc": "Passive",
@@ -24326,7 +24746,7 @@
     {
         "label": "符文探求者",
         "value": "The_Runeseeker",
-        "desc": "成就",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -29094,6 +29514,12 @@
         "class": ""
     },
     {
+        "label": "終局傳奇任務",
+        "value": "Endgame_Unique_Quest",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "終局混沌試煉",
         "value": "The_Trial_of_Chaos",
         "desc": "Wiki",
@@ -29311,8 +29737,8 @@
     },
     {
         "label": "絲克瑪試煉",
-        "value": "Trial_of_the_Sekhemas",
-        "desc": "Wiki",
+        "value": "The_Trial_of_the_Sekhemas",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -30246,6 +30672,12 @@
         "class": ""
     },
     {
+        "label": "聖賢的遺產",
+        "value": "Legacy_of_the_Maji",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "聖賢魔符",
         "value": "Maji_Talisman",
         "desc": "魔符",
@@ -30423,6 +30855,12 @@
         "label": "能力",
         "value": "Attributes",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "能力值需求",
+        "value": "Attribute_Requirements",
+        "desc": "關鍵字",
         "class": ""
     },
     {
@@ -30615,6 +31053,12 @@
         "label": "腐化生命力",
         "value": "Corrupted_Lifeforce",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "腐化痕跡",
+        "value": "The_Trail_of_Corruption",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -31110,6 +31554,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "船長的藏身處",
+        "value": "The_Captains_Hideaway",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "良質生命藥劑",
         "value": "Greater_Life_Flask",
         "desc": "生命藥劑",
@@ -31227,6 +31677,12 @@
         "label": "艾茲麥巨石",
         "value": "The_Ezomyte_Megaliths",
         "desc": "WorldAreas",
+        "class": ""
+    },
+    {
+        "label": "艾茲麥滲透",
+        "value": "Ezomyte_Infiltration",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -32274,6 +32730,12 @@
         "class": ""
     },
     {
+        "label": "蠻森荒林",
+        "value": "Savage_Wilds",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "血之力量",
         "value": "Strength_of_Blood",
         "desc": "永恆珠寶",
@@ -32325,6 +32787,12 @@
         "label": "血法師",
         "value": "Blood_Mage",
         "desc": "昇華試煉",
+        "class": ""
+    },
+    {
+        "label": "血溶於水",
+        "value": "Blood_in_the_Water",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -32616,6 +33084,12 @@
         "class": ""
     },
     {
+        "label": "被遺忘的囚犯",
+        "value": "The_Forgotten_Prisoner",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "被遺忘的囚犯．帕拉薩",
         "value": "Pirasha%2C_the_Forgotten_Prisoner",
         "desc": "怪物",
@@ -32704,6 +33178,12 @@
         "value": "Essence_of_the_Breach",
         "desc": "可堆疊通貨",
         "class": "item_currency"
+    },
+    {
+        "label": "裂痕輿圖技能書",
+        "value": "Breach_Atlas_Skill_Books",
+        "desc": "任務",
+        "class": ""
     },
     {
         "label": "裂痕領主囊腫",
@@ -33168,6 +33648,12 @@
         "class": ""
     },
     {
+        "label": "試煉大師的挑戰",
+        "value": "Trialmasters_Challenge",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "詭譎嫌忌",
         "value": "Strange_Aversions",
         "desc": "Passive",
@@ -33303,6 +33789,12 @@
         "label": "譫妄精髓",
         "value": "Essence_of_Delirium",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "譫妄輿圖技能書",
+        "value": "Delirium_Atlas_Skill_Books",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -33531,6 +34023,12 @@
         "label": "豔陽神聖主教．凱亞祖利",
         "value": "Ketzuli%2C_High_Priest_of_the_Sun",
         "desc": "怪物",
+        "class": ""
+    },
+    {
+        "label": "象牙盜匪",
+        "value": "A_Theft_of_Ivory",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -33774,6 +34272,12 @@
         "class": ""
     },
     {
+        "label": "賈多的諜報活動",
+        "value": "Jados_Spycraft",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "賓登之角",
         "value": "Horns_of_Bynden",
         "desc": "傳奇",
@@ -33987,6 +34491,12 @@
         "label": "距離",
         "value": "Distance",
         "desc": "關鍵字",
+        "class": ""
+    },
+    {
+        "label": "跟隨塔瓦凱",
+        "value": "Follow_Tavakai",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -34353,6 +34863,12 @@
         "label": "返回",
         "value": "Return",
         "desc": "關鍵字",
+        "class": ""
+    },
+    {
+        "label": "返回瓶中",
+        "value": "Back_in_the_Bottle",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -35118,6 +35634,12 @@
         "class": "item_currency"
     },
     {
+        "label": "遠古烽火",
+        "value": "Ancient_Beacons",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "遠古神盾",
         "value": "Ancient_Aegis",
         "desc": "Passive",
@@ -35169,6 +35691,12 @@
         "label": "遠古詞綴",
         "value": "Ancient_Modifiers",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "遠古誓言",
+        "value": "Ancient_Vows",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -35356,6 +35884,12 @@
         "value": "The_Barrow_Dweller",
         "desc": "傳奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "遺失的魯特琴",
+        "value": "The_Lost_Lute",
+        "desc": "任務",
+        "class": ""
     },
     {
         "label": "遺守使徒",
@@ -35565,6 +36099,18 @@
         "label": "部落弓",
         "value": "Tribal_Bow",
         "desc": "弓",
+        "class": ""
+    },
+    {
+        "label": "部落復仇",
+        "value": "Tribal_Vengeance",
+        "desc": "任務",
+        "class": ""
+    },
+    {
+        "label": "部落藥術",
+        "value": "Tribal_Medicine",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -35991,6 +36537,12 @@
         "label": "金幣",
         "value": "Gold",
         "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "金氏族地",
+        "value": "Land_of_the_Kin",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -36972,6 +37524,12 @@
         "class": ""
     },
     {
+        "label": "開闢道路",
+        "value": "Clearing_the_Way",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "間歇",
         "value": "Interlude",
         "desc": "Wiki",
@@ -37491,6 +38049,12 @@
         "label": "隨風而行",
         "value": "On_the_Wind",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "險惡之地",
+        "value": "Treacherous_Ground",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -38454,6 +39018,12 @@
         "class": "gemitem"
     },
     {
+        "label": "靈魂深井",
+        "value": "The_Well_of_Souls",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "靈魂獻祭",
         "value": "Soul_Offering",
         "desc": "技能寶石",
@@ -38565,6 +39135,12 @@
         "label": "非疊加效果",
         "value": "Non-Stacking_Effects",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "面對幻像異界",
+        "value": "Facing_the_Simulacrum",
+        "desc": "任務",
         "class": ""
     },
     {
@@ -39852,6 +40428,12 @@
         "class": "item_currency"
     },
     {
+        "label": "高階空白符文",
+        "value": "Greater_Blank_Runes",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "高階肉體符文",
         "value": "Greater_Body_Rune",
         "desc": "增幅",
@@ -40260,6 +40842,12 @@
         "class": "gemitem"
     },
     {
+        "label": "鮮血奉獻",
+        "value": "Blood_Offerings",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "鮮血女祭司．澤莉娜",
         "value": "Zelina%2C_Blood_Priestess",
         "desc": "怪物",
@@ -40524,6 +41112,12 @@
         "class": ""
     },
     {
+        "label": "黑暗中的秘密",
+        "value": "Secrets_in_the_Dark",
+        "desc": "任務",
+        "class": ""
+    },
+    {
         "label": "黑暗之刃",
         "value": "Dark_Blade",
         "desc": "單手劍",
@@ -40749,6 +41343,12 @@
         "label": "黯焰修道院",
         "value": "Monastery_of_the_Keepers",
         "desc": "WorldAreas",
+        "class": ""
+    },
+    {
+        "label": "黯焰看守者",
+        "value": "Keepers_of_the_Flame",
+        "desc": "任務",
         "class": ""
     },
     {

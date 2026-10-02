@@ -186,6 +186,12 @@
         "class": "gemitem"
     },
     {
+        "label": "七水之城",
+        "value": "The_City_of_Seven_Waters",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "万事通",
         "value": "Jack_of_all_Trades",
         "desc": "Passive",
@@ -492,6 +498,18 @@
         "class": ""
     },
     {
+        "label": "不祥之讯",
+        "value": "Grave_Tidings",
+        "desc": "使命",
+        "class": ""
+    },
+    {
+        "label": "不祥雕像",
+        "value": "Ominous_Altars",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "不移之肤",
         "value": "Unmoving_Craiceann",
         "desc": "Passive",
@@ -630,6 +648,12 @@
         "class": ""
     },
     {
+        "label": "丝克玛试炼",
+        "value": "The_Trial_of_the_Sekhemas",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "丝克玛试炼钥匙",
         "value": "Trial_of_the_Sekhema_Keys",
         "desc": "Keywords",
@@ -651,6 +675,12 @@
         "label": "丝质之袍",
         "value": "Silk_Robe",
         "desc": "护甲",
+        "class": ""
+    },
+    {
+        "label": "丢失的鲁特琴",
+        "value": "The_Lost_Lute",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -924,9 +954,21 @@
         "class": ""
     },
     {
+        "label": "乌扎尔的宝藏",
+        "value": "Treasures_of_Utzaal",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "乌扎尔胸甲",
         "value": "Utzaal_Cuirass",
         "desc": "护甲",
+        "class": ""
+    },
+    {
+        "label": "乌托邦",
+        "value": "Utopia",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -974,7 +1016,7 @@
     {
         "label": "九头蛇使魔",
         "value": "Hydra_Familiar",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -1146,6 +1188,12 @@
         "class": ""
     },
     {
+        "label": "亲族之地",
+        "value": "Land_of_the_Kin",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "亵渎战斧",
         "value": "Profane_Cleaver",
         "desc": "单手斧",
@@ -1276,6 +1324,12 @@
         "value": "Arbiters_Ignition",
         "desc": "辅助宝石",
         "class": "gemitem"
+    },
+    {
+        "label": "仲裁官首领异界技能之书",
+        "value": "Arbiter_Boss_Atlas_Skill_Books",
+        "desc": "使命",
+        "class": ""
     },
     {
         "label": "价值供奉",
@@ -1416,6 +1470,12 @@
         "class": ""
     },
     {
+        "label": "众神的遗产",
+        "value": "Legacy_of_the_Maji",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "众神魔符",
         "value": "Maji_Talisman",
         "desc": "魔符",
@@ -1470,6 +1530,12 @@
         "class": "gemitem"
     },
     {
+        "label": "伟大的使命",
+        "value": "The_Grand_Quest",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "伟岸巨锤",
         "value": "Giant_Maul",
         "desc": "双手锤",
@@ -1503,6 +1569,12 @@
         "label": "传播秘密",
         "value": "Propagating_Secrets",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "传统的重负",
+        "value": "Traditions_Toll",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -1832,7 +1904,7 @@
     {
         "label": "使用咒符时施放",
         "value": "Cast_on_Charm_Use",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -2180,7 +2252,7 @@
     {
         "label": "元素异常状态时施放",
         "value": "Cast_on_Elemental_Ailment",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -2234,7 +2306,7 @@
     {
         "label": "元素祈求",
         "value": "Elemental_Invocation",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -2432,7 +2504,7 @@
     {
         "label": "先祖战士图腾",
         "value": "Ancestral_Warrior_Totem",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -2481,6 +2553,12 @@
         "label": "先祖秘藏",
         "value": "Expedition",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "先祖秘藏异界技能之书",
+        "value": "Expedition_Atlas_Skill_Books",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -2550,6 +2628,12 @@
         "class": ""
     },
     {
+        "label": "先驱者的遗产",
+        "value": "Legacy_of_the_Precursors",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "先驱萃取者",
         "value": "Precursor_Extractor",
         "desc": "怪物",
@@ -2564,7 +2648,7 @@
     {
         "label": "先驱高塔",
         "value": "Precursor_Towers",
-        "desc": "Keywords",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -3458,7 +3542,7 @@
     {
         "label": "冻结时施放",
         "value": "Cast_on_Freeze",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -3714,6 +3798,12 @@
         "class": ""
     },
     {
+        "label": "凶兆",
+        "value": "Grim_Portents",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "凶恶魔符",
         "value": "Vicious_Talisman",
         "desc": "魔符",
@@ -3740,7 +3830,7 @@
     {
         "label": "凶蛮咆哮",
         "value": "Ferocious_Roar",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -3776,7 +3866,7 @@
     {
         "label": "击中时火焰法术",
         "value": "Fire_Spell_on_Hit",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -4524,6 +4614,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "努葛玛呼的考验",
+        "value": "Ngamahus_Test",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "劫掠之铠",
         "value": "Raider_Plate",
         "desc": "护甲",
@@ -4587,6 +4683,12 @@
         "label": "勇气之结界符文",
         "value": "Warding_Rune_of_Courage",
         "desc": "增幅器",
+        "class": ""
+    },
+    {
+        "label": "勇者可得前",
+        "value": "Earning_Passage",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -5546,7 +5648,7 @@
     {
         "label": "受伤时施放",
         "value": "Cast_when_Damage_Taken",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -5720,7 +5822,7 @@
     {
         "label": "召唤同伴",
         "value": "Summon_Companion",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -5774,7 +5876,7 @@
     {
         "label": "召唤生物死亡时施放",
         "value": "Cast_on_Minion_Death",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -6128,7 +6230,7 @@
     {
         "label": "吟唱时施放",
         "value": "Cast_while_Channelling",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -6290,7 +6392,7 @@
     {
         "label": "命源碎片",
         "value": "Animus_Splinters",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -6336,9 +6438,21 @@
         "class": ""
     },
     {
+        "label": "命运试炼",
+        "value": "Trial_of_the_Ancestors",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "命途强塑",
         "value": "Forced_Outcome",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "咆哮之风",
+        "value": "Howling_Winds",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -6614,7 +6728,7 @@
     {
         "label": "囚徒",
         "value": "The_Prisoner",
-        "desc": "怪物",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -6639,6 +6753,12 @@
         "label": "四季流转",
         "value": "Turning_of_the_Seasons",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "四野皆危",
+        "value": "Treacherous_Ground",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -6933,6 +7053,12 @@
         "label": "地图首领",
         "value": "Map_Boss",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "地图首领异界技能之书",
+        "value": "Map_Boss_Atlas_Skill_Books",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -7434,6 +7560,12 @@
         "class": "gemitem"
     },
     {
+        "label": "塔萨里奥的考验",
+        "value": "Tasalios_Test",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "塔萨里奥胫甲",
         "value": "Tasalian_Greaves",
         "desc": "鞋子",
@@ -7456,6 +7588,12 @@
         "value": "Tawhoas_Tending",
         "desc": "辅助宝石",
         "class": "gemitem"
+    },
+    {
+        "label": "塔赫亚的考验",
+        "value": "Tawhoas_Test",
+        "desc": "使命",
+        "class": ""
     },
     {
         "label": "塞丝克伯爵夫人的箭术符文",
@@ -7692,6 +7830,12 @@
         "class": ""
     },
     {
+        "label": "复归瓶中",
+        "value": "Back_in_the_Bottle",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "复活怪物仆从",
         "value": "Reviving_Minions",
         "desc": "Keywords",
@@ -7718,7 +7862,7 @@
     {
         "label": "夏乌拉之手",
         "value": "Hand_of_Chayula",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -7806,6 +7950,12 @@
         "class": ""
     },
     {
+        "label": "多里亚尼的科学之道",
+        "value": "Doryanis_Science",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "多里亚尼的试作甲",
         "value": "Doryanis_Prototype",
         "desc": "传奇",
@@ -7878,6 +8028,12 @@
         "class": ""
     },
     {
+        "label": "大地裂隙",
+        "value": "Cracks_in_the_Earth",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "大地震击",
         "value": "Sunder",
         "desc": "技能宝石",
@@ -7899,6 +8055,12 @@
         "label": "大师符文",
         "value": "Masterwork_Rune",
         "desc": "增幅器",
+        "class": ""
+    },
+    {
+        "label": "大权在握",
+        "value": "Ascent_to_Power",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -8202,6 +8364,12 @@
         "class": ""
     },
     {
+        "label": "奇异的倒影",
+        "value": "Strange_Reflection",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "奇思妙想",
         "value": "Ingenuity",
         "desc": "传奇",
@@ -8469,6 +8637,12 @@
         "label": "奥杜尔的遗产",
         "value": "Aldurs_Legacies",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "奥瑞亚围城",
+        "value": "The_Siege_of_Oriath",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -9067,8 +9241,8 @@
     },
     {
         "label": "宏大先祖秘藏",
-        "value": "Grand_Expedition",
-        "desc": "Keywords",
+        "value": "The_Grand_Expedition",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -9117,6 +9291,12 @@
         "label": "宝库钥匙",
         "value": "Vault_Keys",
         "desc": "Item Classes",
+        "class": ""
+    },
+    {
+        "label": "宝石冠冕",
+        "value": "A_Crown_of_Stone",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -9420,6 +9600,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "寸步难行",
+        "value": "Pinned_Down",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "对抗元素",
         "value": "Against_the_Elements",
         "desc": "Passive",
@@ -9435,6 +9621,12 @@
         "label": "寻战之弓",
         "value": "Warmonger_Bow",
         "desc": "弓类",
+        "class": ""
+    },
+    {
+        "label": "寻找熔炉",
+        "value": "Finding_the_Forge",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -9728,7 +9920,7 @@
     {
         "label": "屏障咒言",
         "value": "Barrier_Invocation",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -10238,7 +10430,7 @@
     {
         "label": "巨狼猛扑",
         "value": "Pounce",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -10398,6 +10590,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "希尔达的狩猎之道",
+        "value": "Hildas_Hunting",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "希尔达的青睐",
         "value": "Hildas_Favour",
         "desc": "Keywords",
@@ -10502,7 +10700,7 @@
     {
         "label": "幻影射手",
         "value": "Mirage_Archer",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -10728,9 +10926,21 @@
         "class": ""
     },
     {
+        "label": "废墟之沙",
+        "value": "Sands_of_Ruin",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "废弃之城",
         "value": "Abandoned_City",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "废弃监牢",
+        "value": "Abandoned_Prison",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -11584,6 +11794,12 @@
         "value": "Greater_Essence_of_Sorcery",
         "desc": "可堆叠通货",
         "class": "item_currency"
+    },
+    {
+        "label": "强敌",
+        "value": "Powerful_Foe",
+        "desc": "使命",
+        "class": ""
     },
     {
         "label": "强盗之锤",
@@ -12486,6 +12702,12 @@
         "class": ""
     },
     {
+        "label": "恶意夺权",
+        "value": "Hostile_Takeover",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "恶棍护甲",
         "value": "Scoundrel_Armour",
         "desc": "护甲",
@@ -12524,7 +12746,7 @@
     {
         "label": "恶魔术士",
         "value": "Demon_Magus",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -12609,6 +12831,12 @@
         "label": "惊悸迷雾",
         "value": "Delirium",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "惊悸迷雾异界技能之书",
+        "value": "Delirium_Atlas_Skill_Books",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -12752,7 +12980,7 @@
     {
         "label": "感电时施放",
         "value": "Cast_on_Shock",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -13368,6 +13596,12 @@
         "class": ""
     },
     {
+        "label": "扫清道路",
+        "value": "Clearing_the_Way",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "扭曲天穹",
         "value": "Twisted_Empyrean",
         "desc": "传奇",
@@ -13758,6 +13992,12 @@
         "class": ""
     },
     {
+        "label": "抵达克里费尔",
+        "value": "Reaching_Clearfell",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "抹除心智",
         "value": "Mind_Eraser",
         "desc": "Passive",
@@ -13854,6 +14094,24 @@
         "class": ""
     },
     {
+        "label": "招募瓦尔族人",
+        "value": "Recruit_the_Vaal",
+        "desc": "使命",
+        "class": ""
+    },
+    {
+        "label": "招募艾兹麦族人",
+        "value": "Recruit_the_Ezomytes",
+        "desc": "使命",
+        "class": ""
+    },
+    {
+        "label": "招募马拉克斯族人",
+        "value": "Recruit_the_Maraketh",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "招架",
         "value": "Parry",
         "desc": "Keywords",
@@ -13875,6 +14133,12 @@
         "label": "择优繁育",
         "value": "Selectively_Bred",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "拯救遗物",
+        "value": "A_Theft_of_Ivory",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -14190,6 +14454,12 @@
         "class": ""
     },
     {
+        "label": "探索神庙",
+        "value": "Explore_the_Temple",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "探索者护甲",
         "value": "Explorer_Armour",
         "desc": "护甲",
@@ -14277,6 +14547,12 @@
         "label": "揭示弱点",
         "value": "Revealing_Weaknesses",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "搜寻",
+        "value": "The_Search",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -14468,7 +14744,7 @@
     {
         "label": "收割祈求",
         "value": "Reapers_Invocation",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -15420,6 +15696,12 @@
         "class": ""
     },
     {
+        "label": "时光试炼",
+        "value": "The_Trial_of_Time",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "时光跃进",
         "value": "Turn_the_Clock_Forward",
         "desc": "Passive",
@@ -15726,6 +16008,12 @@
         "class": ""
     },
     {
+        "label": "暗影欺诈者",
+        "value": "The_Shadow_Trickster",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "暗影的重负",
         "value": "The_Burden_of_Shadows",
         "desc": "传奇",
@@ -15860,7 +16148,7 @@
     {
         "label": "暴击时施放",
         "value": "Cast_on_Critical",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -16706,13 +16994,13 @@
     {
         "label": "格挡时施放",
         "value": "Cast_on_Block",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
         "label": "格挡时施放诅咒",
         "value": "Curse_on_Block",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -17190,6 +17478,12 @@
         "class": "item_currency"
     },
     {
+        "label": "欢愉与痛楚",
+        "value": "Pleasure_and_Pain",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "欢欣威严",
         "value": "Invigorating_Grandeur",
         "desc": "Passive",
@@ -17244,10 +17538,22 @@
         "class": ""
     },
     {
+        "label": "欧甘的疯狼",
+        "value": "The_Mad_Wolf_of_Ogham",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "欧甘的遗产",
         "value": "Oghams_Legacy",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "欧甘阴影",
+        "value": "Shadow_Over_Ogham",
+        "desc": "使命",
+        "class": ""
     },
     {
         "label": "欧罗什之传说",
@@ -18270,6 +18576,12 @@
         "class": ""
     },
     {
+        "label": "沙漠预兆",
+        "value": "Desert_Omens",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "沙誓冠冕",
         "value": "Sandsworn_Tiara",
         "desc": "头盔",
@@ -18416,13 +18728,13 @@
     {
         "label": "法术图腾",
         "value": "Spell_Totem",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
         "label": "法术节魔",
         "value": "Spellslinger",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -18471,6 +18783,12 @@
         "label": "法里顿历史",
         "value": "History_of_the_Faridun",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "法里顿的进犯",
+        "value": "Faridun_Foray",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -18912,6 +19230,12 @@
         "class": ""
     },
     {
+        "label": "海妖珍珠",
+        "value": "Siren_Pearl",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "海幽夏的纹章",
         "value": "Hayoxis_Medallion",
         "desc": "Keywords",
@@ -19207,8 +19531,8 @@
     },
     {
         "label": "深渊之力",
-        "value": "Strength_of_the_Deep",
-        "desc": "Passive",
+        "value": "Abyssal_Power",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -19233,6 +19557,12 @@
         "label": "深渊回响预兆",
         "value": "Omen_of_Abyssal_Echoes",
         "desc": "预兆",
+        "class": ""
+    },
+    {
+        "label": "深渊垂降",
+        "value": "Plumbing_the_Depths",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -19426,6 +19756,12 @@
         "value": "Chaos_Bolt",
         "desc": "技能宝石",
         "class": "gemitem"
+    },
+    {
+        "label": "混沌试炼",
+        "value": "The_Trials_of_Chaos",
+        "desc": "使命",
+        "class": ""
     },
     {
         "label": "清心寡欲",
@@ -19782,6 +20118,12 @@
         "class": ""
     },
     {
+        "label": "潜入奥瑞亚",
+        "value": "Infiltrating_Oriath",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "潜能",
         "value": "Potential",
         "desc": "辅助宝石",
@@ -19821,6 +20163,12 @@
         "label": "潮汐符文",
         "value": "Tidal_Rune",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "潮汐预兆",
+        "value": "Tidal_Omens",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -20124,6 +20472,12 @@
         "class": ""
     },
     {
+        "label": "灰烬与亡骸",
+        "value": "Ash_and_Bone",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "灰烬之捷",
         "value": "Herald_of_Ash",
         "desc": "技能宝石",
@@ -20288,7 +20642,7 @@
     {
         "label": "灵魂之井",
         "value": "The_Well_of_Souls",
-        "desc": "WorldAreas",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -20300,7 +20654,7 @@
     {
         "label": "灵魂容器",
         "value": "Spirit_Vessel",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -20385,6 +20739,12 @@
         "label": "灾变之后",
         "value": "Cataclysms_Wake",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "灾变余生",
+        "value": "Cataclysms_Wake",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -20474,7 +20834,7 @@
     {
         "label": "点燃时施放",
         "value": "Cast_on_Ignite",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -21186,6 +21546,12 @@
         "class": "gemitem"
     },
     {
+        "label": "特拉特斯角斗士",
+        "value": "Trarthan_Gladiator",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "特拉珊火炮",
         "value": "Trarthan_Cannon",
         "desc": "战弩",
@@ -21513,6 +21879,12 @@
         "label": "狩猎外套",
         "value": "Hunting_Coat",
         "desc": "护甲",
+        "class": ""
+    },
+    {
+        "label": "狩猎开始",
+        "value": "The_Hunt_Begins",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -22116,6 +22488,12 @@
         "class": ""
     },
     {
+        "label": "瓦卡帕努岛",
+        "value": "Whakapanu_Island",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "瓦尔",
         "value": "Vaal",
         "desc": "宝石标签",
@@ -22130,7 +22508,7 @@
     {
         "label": "瓦尔之遗",
         "value": "Legacy_of_the_Vaal",
-        "desc": "永恒珠宝",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -22221,6 +22599,18 @@
         "label": "瓦尔灯塔",
         "value": "Vaal_Beacon",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "瓦尔的宿命",
+        "value": "Fate_of_the_Vaal",
+        "desc": "使命",
+        "class": ""
+    },
+    {
+        "label": "瓦尔的穿越",
+        "value": "Vaal_Incursion",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -22914,6 +23304,12 @@
         "class": ""
     },
     {
+        "label": "百舌岛",
+        "value": "Shrike_Island",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "皇后之捷",
         "value": "Herald_of_the_Royal_Queen",
         "desc": "技能宝石",
@@ -23072,7 +23468,7 @@
     {
         "label": "盲眼凶兽",
         "value": "The_Blind_Beast",
-        "desc": "怪物",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -23103,6 +23499,12 @@
         "label": "直来直往",
         "value": "Direct_Approach",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "直面拟像",
+        "value": "Facing_the_Simulacrum",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -23277,6 +23679,12 @@
         "label": "石上鲜血",
         "value": "Blood_on_the_Stones",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "石中哀泣",
+        "value": "Sorrow_Among_Stones",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -23857,8 +24265,8 @@
     },
     {
         "label": "神圣仲裁官",
-        "value": "The_Arbiter_of_Divinity",
-        "desc": "怪物",
+        "value": "Arbiter_of_Divinity",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -24078,6 +24486,12 @@
         "class": ""
     },
     {
+        "label": "神秘的祭坛",
+        "value": "Mysterious_Altars",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "神秘血统",
         "value": "Mysterious_Lineage",
         "desc": "Passive",
@@ -24106,6 +24520,12 @@
         "value": "Cryptic_Key",
         "desc": "可堆叠通货",
         "class": "item_currency"
+    },
+    {
+        "label": "神秘阴影",
+        "value": "The_Mysterious_Shade",
+        "desc": "使命",
+        "class": ""
     },
     {
         "label": "神秘雪崩",
@@ -24586,6 +25006,12 @@
         "value": "The_Hollow_Mask",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "空白符文",
+        "value": "Blank_Runes",
+        "desc": "使命",
+        "class": ""
     },
     {
         "label": "空荡怒吼",
@@ -27512,7 +27938,7 @@
     {
         "label": "符文猎手",
         "value": "The_Runeseeker",
-        "desc": "成就",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -29580,6 +30006,12 @@
         "class": ""
     },
     {
+        "label": "终局传奇任务",
+        "value": "Endgame_Unique_Quest",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "终末之火",
         "value": "The_Last_Flame",
         "desc": "传奇",
@@ -30126,6 +30558,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "群山之殁",
+        "value": "Death_in_the_Ranges",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "群山的精华",
         "value": "Essence_of_the_Mountain",
         "desc": "Passive",
@@ -30405,6 +30843,12 @@
         "label": "肃穆手套",
         "value": "Sombre_Gloves",
         "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "肆虐菌潮",
+        "value": "No_Rest_for_the_Blighted",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -30810,6 +31254,12 @@
         "class": ""
     },
     {
+        "label": "腐化的痕迹",
+        "value": "The_Trail_of_Corruption",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "腐化耐力",
         "value": "Corruption_Endures",
         "desc": "Passive",
@@ -31194,6 +31644,12 @@
         "class": ""
     },
     {
+        "label": "艾兹麦的渗透",
+        "value": "Ezomyte_Infiltration",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "艾兹麦的荣光",
         "value": "Ezomyte_Peak",
         "desc": "传奇",
@@ -31377,6 +31833,12 @@
         "label": "苍凉战弩",
         "value": "Desolate_Crossbow",
         "desc": "战弩",
+        "class": ""
+    },
+    {
+        "label": "苍焰守护者",
+        "value": "Keepers_of_the_Flame",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -32244,6 +32706,12 @@
         "class": ""
     },
     {
+        "label": "虚无临界",
+        "value": "The_Edge_of_Nothingness",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "虚无之症",
         "value": "Crux_of_Nothingness",
         "desc": "WorldAreas",
@@ -32312,7 +32780,7 @@
     {
         "label": "虚空魅影",
         "value": "Hollow_Form",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -32436,9 +32904,15 @@
         "class": ""
     },
     {
+        "label": "蛮荒野林",
+        "value": "Savage_Wilds",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "蜃影神射",
         "value": "Mirage_Deadeye",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -32538,6 +33012,12 @@
         "class": "gemitem"
     },
     {
+        "label": "蠕动与逝去",
+        "value": "The_Slithering_Dead",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "血之回味",
         "value": "Savoured_Blood",
         "desc": "Passive",
@@ -32613,6 +33093,12 @@
         "label": "血淬壁垒",
         "value": "Blood-Quenched_Bulwark",
         "desc": "永恒珠宝",
+        "class": ""
+    },
+    {
+        "label": "血潮",
+        "value": "Blood_in_the_Water",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -32846,7 +33332,7 @@
     {
         "label": "被击败时施放",
         "value": "Cast_on_Death",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -32888,7 +33374,7 @@
     {
         "label": "被晕眩时施放",
         "value": "Cast_when_Stunned",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -32991,6 +33477,12 @@
         "label": "裂隙之石",
         "value": "Misc_Map_Items",
         "desc": "Item Classes",
+        "class": ""
+    },
+    {
+        "label": "裂隙异界技能之书",
+        "value": "Breach_Atlas_Skill_Books",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -33302,7 +33794,7 @@
     {
         "label": "言出箭随",
         "value": "Called_Shots",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -33368,7 +33860,7 @@
     {
         "label": "诅咒光环",
         "value": "Blasphemy",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -33399,6 +33891,12 @@
         "label": "试炼使者的圣物厅钥匙",
         "value": "The_Trialmasters_Reliquary_Key",
         "desc": "宝库钥匙",
+        "class": ""
+    },
+    {
+        "label": "试炼使者的挑战",
+        "value": "Trialmasters_Challenge",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -33754,6 +34252,12 @@
         "value": "Fairgraves_Curse",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "贾多的间谍之道",
+        "value": "Jados_Spycraft",
+        "desc": "使命",
+        "class": ""
     },
     {
         "label": "贾多营地",
@@ -34164,6 +34668,12 @@
         "class": ""
     },
     {
+        "label": "跟随塔瓦凯",
+        "value": "Follow_Tavakai",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "跳帮手斧",
         "value": "Boarding_Hatchet",
         "desc": "单手斧",
@@ -34238,7 +34748,7 @@
     {
         "label": "躲闪时施放",
         "value": "Cast_on_Dodge",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -34610,13 +35120,13 @@
     {
         "label": "近战击晕时施放",
         "value": "Cast_on_Melee_Stun",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
         "label": "近战击败时施放",
         "value": "Cast_on_Melee_Kill",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -34794,6 +35304,12 @@
         "class": "item_currency"
     },
     {
+        "label": "远古灯塔",
+        "value": "Ancient_Beacons",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "远古秘密",
         "value": "Secrets_of_the_Ancients",
         "desc": "Passive",
@@ -34833,6 +35349,12 @@
         "label": "远古要塞",
         "value": "Ancient_Bastion",
         "desc": "永恒珠宝",
+        "class": ""
+    },
+    {
+        "label": "远古誓言",
+        "value": "Ancient_Vows",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -35030,7 +35552,7 @@
     {
         "label": "迫击大炮",
         "value": "Mortar_Cannon",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -35400,6 +35922,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "遗忘的囚徒",
+        "value": "The_Forgotten_Prisoner",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "遗忘高地",
         "value": "Forgotten_Heights",
         "desc": "Passive",
@@ -35484,6 +36012,12 @@
         "class": ""
     },
     {
+        "label": "部族之恨",
+        "value": "Tribal_Vengeance",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "部族之面",
         "value": "Tribal_Mask",
         "desc": "头盔",
@@ -35505,6 +36039,12 @@
         "label": "部落之远古符文",
         "value": "Ancient_Rune_of_the_Horde",
         "desc": "增幅器",
+        "class": ""
+    },
+    {
+        "label": "部落医术",
+        "value": "Tribal_Medicine",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -35708,7 +36248,7 @@
     {
         "label": "野性召唤",
         "value": "Feral_Invocation",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -36768,6 +37308,12 @@
         "class": ""
     },
     {
+        "label": "队长的藏身处",
+        "value": "The_Captains_Hideaway",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "防冰缓",
         "value": "Chillproof",
         "desc": "Passive",
@@ -37200,6 +37746,12 @@
         "class": ""
     },
     {
+        "label": "陨落的英雄",
+        "value": "The_Fallen_Hero",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "陷阱",
         "value": "Traps",
         "desc": "Keywords",
@@ -37574,7 +38126,7 @@
     {
         "label": "雷霆神祇之怒",
         "value": "Thundergods_Wrath",
-        "desc": "战矛",
+        "desc": "Meta Skill Gem",
         "class": "gemitem"
     },
     {
@@ -38652,6 +39204,12 @@
         "class": "gemitem"
     },
     {
+        "label": "驱灵仪式异界技能之书",
+        "value": "Ritual_Atlas_Skill_Books",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "驱灵仪式石板",
         "value": "Ritual_Tablet",
         "desc": "石板",
@@ -38925,6 +39483,12 @@
         "label": "高级磐石符文",
         "value": "Greater_Stone_Rune",
         "desc": "增幅器",
+        "class": ""
+    },
+    {
+        "label": "高级空白符文",
+        "value": "Greater_Blank_Runes",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -39336,6 +39900,12 @@
         "class": ""
     },
     {
+        "label": "鲜血祭祀",
+        "value": "Blood_Offerings",
+        "desc": "使命",
+        "class": ""
+    },
+    {
         "label": "鲜血输注",
         "value": "Blood_Transfusion",
         "desc": "Passive",
@@ -39483,6 +40053,12 @@
         "label": "黑化之心",
         "value": "Blackened_Heart",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "黑暗中的秘密",
+        "value": "Secrets_in_the_Dark",
+        "desc": "使命",
         "class": ""
     },
     {
@@ -39670,6 +40246,12 @@
         "value": "Black_Sun_Crest",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "黑雾弥漫",
+        "value": "Dark_Mists",
+        "desc": "使命",
+        "class": ""
     },
     {
         "label": "黑髻",

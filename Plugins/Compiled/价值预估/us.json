@@ -120,9 +120,33 @@
         "class": ""
     },
     {
+        "label": "0.5.5c Patch Notes",
+        "value": "Version_0.5.5c",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "0.5.5d Patch Notes",
+        "value": "Version_0.5.5d",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "A Crown of Stone",
+        "value": "A_Crown_of_Stone",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "A Solid Plan",
         "value": "A_Solid_Plan",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "A Theft of Ivory",
+        "value": "A_Theft_of_Ivory",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -135,6 +159,12 @@
         "label": "Abandoned City",
         "value": "Abandoned_City",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "Abandoned Prison",
+        "value": "Abandoned_Prison",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -244,6 +274,12 @@
         "value": "Abyssal_Pact",
         "desc": "Skill Gems",
         "class": "gemitem"
+    },
+    {
+        "label": "Abyssal Power",
+        "value": "Abyssal_Power",
+        "desc": "Quest",
+        "class": ""
     },
     {
         "label": "Abyssal Signet",
@@ -1170,6 +1206,12 @@
         "class": ""
     },
     {
+        "label": "Ancient Beacons",
+        "value": "Ancient_Beacons",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Ancient Blooms",
         "value": "Ancient_Blooms",
         "desc": "Keywords",
@@ -1434,6 +1476,12 @@
         "class": ""
     },
     {
+        "label": "Ancient Vows",
+        "value": "Ancient_Vows",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Andvarius",
         "value": "Andvarius",
         "desc": "Unique",
@@ -1558,6 +1606,18 @@
         "value": "Arakaalis_Lust",
         "desc": "Support Gems",
         "class": "gemitem"
+    },
+    {
+        "label": "Arbiter Boss Atlas Skill Books",
+        "value": "Arbiter_Boss_Atlas_Skill_Books",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
+        "label": "Arbiter of Divinity",
+        "value": "Arbiter_of_Divinity",
+        "desc": "Quest",
+        "class": ""
     },
     {
         "label": "Arbiter's Ignition",
@@ -1956,6 +2016,12 @@
         "class": ""
     },
     {
+        "label": "Ascent to Power",
+        "value": "Ascent_to_Power",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Ascetic Garb",
         "value": "Ascetic_Garb",
         "desc": "Body Armours",
@@ -1965,6 +2031,12 @@
         "label": "Asceticism",
         "value": "Asceticism",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Ash and Bone",
+        "value": "Ash_and_Bone",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -2427,6 +2499,12 @@
         "label": "Back in Action",
         "value": "Back_in_Action",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Back in the Bottle",
+        "value": "Back_in_the_Bottle",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -3258,6 +3336,12 @@
         "class": ""
     },
     {
+        "label": "Blank Runes",
+        "value": "Blank_Runes",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Blasphemy",
         "value": "Blasphemy",
         "desc": "Meta Skill Gem",
@@ -3456,6 +3540,12 @@
         "class": ""
     },
     {
+        "label": "Blood Offerings",
+        "value": "Blood_Offerings",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Blood Price",
         "value": "Blood_Price",
         "desc": "Unique",
@@ -3477,6 +3567,12 @@
         "label": "Blood Transfusion",
         "value": "Blood_Transfusion",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Blood in the Water",
+        "value": "Blood_in_the_Water",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -4071,6 +4167,12 @@
         "label": "Breach",
         "value": "Breach",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "Breach Atlas Skill Books",
+        "value": "Breach_Atlas_Skill_Books",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -5048,7 +5150,7 @@
     {
         "label": "Cataclysm's Wake",
         "value": "Cataclysms_Wake",
-        "desc": "Passive",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -5739,6 +5841,12 @@
         "label": "Clear Space",
         "value": "Clear_Space",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Clearing the Way",
+        "value": "Clearing_the_Way",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -6810,6 +6918,12 @@
         "class": ""
     },
     {
+        "label": "Cracks in the Earth",
+        "value": "Cracks_in_the_Earth",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Crafted Modifiers",
         "value": "Crafted_Modifiers",
         "desc": "Keywords",
@@ -7668,6 +7782,12 @@
         "class": ""
     },
     {
+        "label": "Dark Mists",
+        "value": "Dark_Mists",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Dark Pact",
         "value": "Dark_Pact",
         "desc": "Skill Gems",
@@ -7857,6 +7977,12 @@
         "label": "Death from Afar",
         "value": "Death_from_Afar",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Death in the Ranges",
+        "value": "Death_in_the_Ranges",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -8130,6 +8256,12 @@
         "class": ""
     },
     {
+        "label": "Delirium Atlas Skill Books",
+        "value": "Delirium_Atlas_Skill_Books",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Delirium Stash Tab",
         "value": "Delirium_Stash_Tab",
         "desc": "Stashtab",
@@ -8259,6 +8391,12 @@
         "label": "Desert Mastery",
         "value": "Desert_Mastery",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Desert Omens",
+        "value": "Desert_Omens",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -8760,6 +8898,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "Doryani's Science",
+        "value": "Doryanis_Science",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Doryani's Triumph",
         "value": "Doryanis_Triumph",
         "desc": "Monster",
@@ -9129,6 +9273,12 @@
         "label": "Early Access",
         "value": "Early_Access",
         "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "Earning Passage",
+        "value": "Earning_Passage",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -9957,6 +10107,12 @@
         "label": "Endgame",
         "value": "EndGame",
         "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "Endgame Unique Quest",
+        "value": "Endgame_Unique_Quest",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -11076,6 +11232,12 @@
         "class": ""
     },
     {
+        "label": "Expedition Atlas Skill Books",
+        "value": "Expedition_Atlas_Skill_Books",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Expedition Logbook",
         "value": "Expedition_Logbook",
         "desc": "Item Classes",
@@ -11109,6 +11271,12 @@
         "label": "Exploit the Elements",
         "value": "Exploit_the_Elements",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Explore the Temple",
+        "value": "Explore_the_Temple",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -11322,6 +11490,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "Ezomyte Infiltration",
+        "value": "Ezomyte_Infiltration",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Ezomyte Peak",
         "value": "Ezomyte_Peak",
         "desc": "Unique",
@@ -11356,6 +11530,12 @@
         "value": "Facebreaker",
         "desc": "Unique",
         "class": "UniqueItem"
+    },
+    {
+        "label": "Facing the Simulacrum",
+        "value": "Facing_the_Simulacrum",
+        "desc": "Quest",
+        "class": ""
     },
     {
         "label": "Faded Crisis Fragment",
@@ -11478,6 +11658,12 @@
         "class": ""
     },
     {
+        "label": "Faridun Foray",
+        "value": "Faridun_Foray",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Faridun Mask",
         "value": "Faridun_Mask",
         "desc": "Helmets",
@@ -11539,8 +11725,8 @@
     },
     {
         "label": "Fate of the Vaal",
-        "value": "Fate_of_the_Vaal_league",
-        "desc": "Wiki",
+        "value": "Fate_of_the_Vaal",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -11775,6 +11961,12 @@
         "label": "Finality",
         "value": "Finality",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "Finding the Forge",
+        "value": "Finding_the_Forge",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -12309,6 +12501,12 @@
         "label": "Focused Thrust",
         "value": "Focused_Thrust",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Follow Tavakai",
+        "value": "Follow_Tavakai",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -13788,6 +13986,12 @@
         "class": ""
     },
     {
+        "label": "Grave Tidings",
+        "value": "Grave_Tidings",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Gravebind",
         "value": "Gravebind",
         "desc": "Unique",
@@ -13827,6 +14031,12 @@
         "label": "Greater Adept Rune",
         "value": "Greater_Adept_Rune",
         "desc": "Augment",
+        "class": ""
+    },
+    {
+        "label": "Greater Blank Runes",
+        "value": "Greater_Blank_Runes",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -14188,6 +14398,12 @@
         "value": "Grim_Pillars",
         "desc": "Skill Gems",
         "class": "gemitem"
+    },
+    {
+        "label": "Grim Portents",
+        "value": "Grim_Portents",
+        "desc": "Quest",
+        "class": ""
     },
     {
         "label": "Grimhaven",
@@ -15276,6 +15492,12 @@
         "class": ""
     },
     {
+        "label": "Hilda's Hunting",
+        "value": "Hildas_Hunting",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Hinder",
         "value": "Hinder",
         "desc": "Keywords",
@@ -15570,6 +15792,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "Hostile Takeover",
+        "value": "Hostile_Takeover",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Hour of the Nameless",
         "value": "Hour_of_the_Nameless",
         "desc": "Passive",
@@ -15591,6 +15819,12 @@
         "label": "Howling Talisman",
         "value": "Howling_Talisman",
         "desc": "Talismans",
+        "class": ""
+    },
+    {
+        "label": "Howling Winds",
+        "value": "Howling_Winds",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -16422,6 +16656,12 @@
         "class": ""
     },
     {
+        "label": "Infiltrating Oriath",
+        "value": "Infiltrating_Oriath",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Infused Flesh",
         "value": "Infused_Flesh",
         "desc": "Passive",
@@ -17094,6 +17334,12 @@
         "class": ""
     },
     {
+        "label": "Jado's Spycraft",
+        "value": "Jados_Spycraft",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Jagged Greataxe",
         "value": "Jagged_Greataxe",
         "desc": "Two Hand Axes",
@@ -17448,6 +17694,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "Keepers of the Flame",
+        "value": "Keepers_of_the_Flame",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Kelari's Deception",
         "value": "Kelaris_Deception",
         "desc": "Skill Gems",
@@ -17733,6 +17985,12 @@
         "label": "Laminate Buckler",
         "value": "Laminate_Buckler",
         "desc": "Bucklers",
+        "class": ""
+    },
+    {
+        "label": "Land of the Kin",
+        "value": "Land_of_the_Kin",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -18402,9 +18660,21 @@
         "class": ""
     },
     {
+        "label": "Legacy of the Maji",
+        "value": "Legacy_of_the_Maji",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
+        "label": "Legacy of the Precursors",
+        "value": "Legacy_of_the_Precursors",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Legacy of the Vaal",
         "value": "Legacy_of_the_Vaal",
-        "desc": "Timeless Jewel",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -19704,6 +19974,12 @@
         "class": ""
     },
     {
+        "label": "Map Boss Atlas Skill Books",
+        "value": "Map_Boss_Atlas_Skill_Books",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Map Fragments",
         "value": "Map_Fragments",
         "desc": "Item Classes",
@@ -20910,6 +21186,12 @@
         "class": ""
     },
     {
+        "label": "Mysterious Altars",
+        "value": "Mysterious_Altars",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Mysterious Charms and Trinkets",
         "value": "Mysterious_Charms_and_Trinkets",
         "desc": "Passive",
@@ -21198,6 +21480,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "Ngamahu's Test",
+        "value": "Ngamahus_Test",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Night of a Thousand Ribbons",
         "value": "Night_of_a_Thousand_Ribbons",
         "desc": "Timeless Jewel",
@@ -21237,6 +21525,12 @@
         "label": "No Mercy",
         "value": "No_Mercy",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "No Rest for the Blighted",
+        "value": "No_Rest_for_the_Blighted",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -21843,6 +22137,12 @@
         "label": "Omens",
         "value": "Omens",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "Ominous Altars",
+        "value": "Ominous_Altars",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -23322,6 +23622,12 @@
         "class": ""
     },
     {
+        "label": "Pinned Down",
+        "value": "Pinned_Down",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Pinpoint Critical",
         "value": "Pinpoint_Critical",
         "desc": "Support Gems",
@@ -23466,6 +23772,12 @@
         "class": "gemitem"
     },
     {
+        "label": "Pleasure and Pain",
+        "value": "Pleasure_and_Pain",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Plentiful Lands",
         "value": "Plentiful_Lands",
         "desc": "Passive",
@@ -23475,6 +23787,12 @@
         "label": "Pliable Flesh",
         "value": "Pliable_Flesh",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Plumbing the Depths",
+        "value": "Plumbing_the_Depths",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -23706,6 +24024,12 @@
         "class": ""
     },
     {
+        "label": "Powerful Foe",
+        "value": "Powerful_Foe",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Powerful Map Boss",
         "value": "Powerful_Map_Boss",
         "desc": "Keywords",
@@ -23852,7 +24176,7 @@
     {
         "label": "Precursor Towers",
         "value": "Precursor_Towers",
-        "desc": "Keywords",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -24996,6 +25320,12 @@
         "class": ""
     },
     {
+        "label": "Reaching Clearfell",
+        "value": "Reaching_Clearfell",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Reaching Quarterstaff",
         "value": "Reaching_Quarterstaff",
         "desc": "Quarterstaves",
@@ -25119,6 +25449,24 @@
         "label": "Recoup",
         "value": "Recoup",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "Recruit the Ezomytes",
+        "value": "Recruit_the_Ezomytes",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
+        "label": "Recruit the Maraketh",
+        "value": "Recruit_the_Maraketh",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
+        "label": "Recruit the Vaal",
+        "value": "Recruit_the_Vaal",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -26103,6 +26451,12 @@
         "label": "Ritual",
         "value": "Ritual",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "Ritual Atlas Skill Books",
+        "value": "Ritual_Atlas_Skill_Books",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -30906,6 +31260,12 @@
         "class": ""
     },
     {
+        "label": "Sands of Ruin",
+        "value": "Sands_of_Ruin",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Sands of Silk",
         "value": "Sands_of_Silk",
         "desc": "Unique",
@@ -31071,6 +31431,12 @@
         "label": "Savage Hit",
         "value": "Savage_Hit",
         "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "Savage Wilds",
+        "value": "Savage_Wilds",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -31332,6 +31698,12 @@
         "class": ""
     },
     {
+        "label": "Secrets in the Dark",
+        "value": "Secrets_in_the_Dark",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Secrets of the Ancients",
         "value": "Secrets_of_the_Ancients",
         "desc": "Passive",
@@ -31587,6 +31959,12 @@
         "label": "Shadow Dancing",
         "value": "Shadow_Dancing",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Shadow Over Ogham",
+        "value": "Shadow_Over_Ogham",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -31944,6 +32322,12 @@
         "class": ""
     },
     {
+        "label": "Shrike Island",
+        "value": "Shrike_Island",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Shrine",
         "value": "Shrine",
         "desc": "Keywords",
@@ -32037,6 +32421,12 @@
         "label": "Siege Mentality",
         "value": "Siege_Mentality",
         "desc": "Timeless Jewel",
+        "class": ""
+    },
+    {
+        "label": "Siege of Oriath",
+        "value": "Siege_of_Oriath",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -32260,6 +32650,12 @@
         "value": "Sire_of_Shards",
         "desc": "Unique",
         "class": "UniqueItem"
+    },
+    {
+        "label": "Siren Pearl",
+        "value": "Siren_Pearl",
+        "desc": "Quest",
+        "class": ""
     },
     {
         "label": "Sirenscale Gloves",
@@ -32812,6 +33208,12 @@
         "value": "Sorcery_Ward",
         "desc": "Skill Gems",
         "class": "gemitem"
+    },
+    {
+        "label": "Sorrow Among Stones",
+        "value": "Sorrow_Among_Stones",
+        "desc": "Quest",
+        "class": ""
     },
     {
         "label": "Soul Bloom",
@@ -34158,6 +34560,12 @@
         "class": ""
     },
     {
+        "label": "Strange Reflection",
+        "value": "Strange_Reflection",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Strategic Advantage",
         "value": "Strategic_Advantage",
         "desc": "Passive",
@@ -35028,6 +35436,12 @@
         "class": "gemitem"
     },
     {
+        "label": "Tasalio's Test",
+        "value": "Tasalios_Test",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Tasgul, Swallower of Light",
         "value": "Tasgul%2C_Swallower_of_Light",
         "desc": "Monster",
@@ -35074,6 +35488,12 @@
         "value": "Tawhoas_Tending",
         "desc": "Support Gems",
         "class": "gemitem"
+    },
+    {
+        "label": "Tawhoa's Test",
+        "value": "Tawhoas_Test",
+        "desc": "Quest",
+        "class": ""
     },
     {
         "label": "Tawhoan Greatclub",
@@ -35624,7 +36044,7 @@
     {
         "label": "The Blind Beast",
         "value": "The_Blind_Beast",
-        "desc": "Monster",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -35700,6 +36120,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "The Captain's Hideaway",
+        "value": "The_Captains_Hideaway",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "The Cartographer",
         "value": "The_Cartographer",
         "desc": "Achievements",
@@ -35733,6 +36159,12 @@
         "label": "The Chosen Path",
         "value": "The_Chosen_Path",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "The City of Seven Waters",
+        "value": "The_City_of_Seven_Waters",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -35796,6 +36228,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "The Edge of Nothingness",
+        "value": "The_Edge_of_Nothingness",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "The Empty Roar",
         "value": "The_Empty_Roar",
         "desc": "Unique",
@@ -35838,6 +36276,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "The Fallen Hero",
+        "value": "The_Fallen_Hero",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "The Fallen Star",
         "value": "The_Fallen_Star",
         "desc": "WorldAreas",
@@ -35848,6 +36292,12 @@
         "value": "The_Flesh_Poppet",
         "desc": "Unique",
         "class": "UniqueItem"
+    },
+    {
+        "label": "The Forgotten Prisoner",
+        "value": "The_Forgotten_Prisoner",
+        "desc": "Quest",
+        "class": ""
     },
     {
         "label": "The Fourth Teaching",
@@ -35892,10 +36342,22 @@
         "class": "UniqueItem"
     },
     {
+        "label": "The Grand Expedition",
+        "value": "The_Grand_Expedition",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "The Grand Project",
         "value": "The_Grand_Project",
         "desc": "Unique",
         "class": "UniqueItem"
+    },
+    {
+        "label": "The Grand Quest",
+        "value": "The_Grand_Quest",
+        "desc": "Quest",
+        "class": ""
     },
     {
         "label": "The Great Boar",
@@ -35943,6 +36405,12 @@
         "label": "The Howling Primate",
         "value": "The_Howling_Primate",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "The Hunt Begins",
+        "value": "The_Hunt_Begins",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -36024,6 +36492,18 @@
         "class": ""
     },
     {
+        "label": "The Lost Lute",
+        "value": "The_Lost_Lute",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
+        "label": "The Mad Wolf of Ogham",
+        "value": "The_Mad_Wolf_of_Ogham",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "The Master",
         "value": "The_Master",
         "desc": "Achievements",
@@ -36064,6 +36544,12 @@
         "value": "The_Mutable_Star",
         "desc": "Unique",
         "class": "UniqueItem"
+    },
+    {
+        "label": "The Mysterious Shade",
+        "value": "The_Mysterious_Shade",
+        "desc": "Quest",
+        "class": ""
     },
     {
         "label": "The Mórrigan's Guidance",
@@ -36128,7 +36614,7 @@
     {
         "label": "The Prisoner",
         "value": "The_Prisoner",
-        "desc": "Monster",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -36230,7 +36716,7 @@
     {
         "label": "The Runeseeker",
         "value": "The_Runeseeker",
-        "desc": "Achievements",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -36243,6 +36729,12 @@
         "label": "The Sandstrider",
         "value": "The_Sandstrider",
         "desc": "Monster",
+        "class": ""
+    },
+    {
+        "label": "The Search",
+        "value": "The_Search",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -36264,9 +36756,27 @@
         "class": ""
     },
     {
+        "label": "The Shadow Trickster",
+        "value": "The_Shadow_Trickster",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
+        "label": "The Siege of Oriath",
+        "value": "The_Siege_of_Oriath",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "The Silent Cave",
         "value": "The_Silent_Cave",
         "desc": "WorldAreas",
+        "class": ""
+    },
+    {
+        "label": "The Slithering Dead",
+        "value": "The_Slithering_Dead",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -36336,9 +36846,27 @@
         "class": "UniqueItem"
     },
     {
+        "label": "The Trail of Corruption",
+        "value": "The_Trail_of_Corruption",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "The Traitor",
         "value": "The_Traitor",
         "desc": "Timeless Jewel",
+        "class": ""
+    },
+    {
+        "label": "The Trial of Time",
+        "value": "The_Trial_of_Time",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
+        "label": "The Trial of the Sekhemas",
+        "value": "The_Trial_of_the_Sekhemas",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -36351,6 +36879,12 @@
         "label": "The Trialmaster's Reliquary Key",
         "value": "The_Trialmasters_Reliquary_Key",
         "desc": "Vault Keys",
+        "class": ""
+    },
+    {
+        "label": "The Trials of Chaos",
+        "value": "The_Trials_of_Chaos",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -36404,7 +36938,7 @@
     {
         "label": "The Well of Souls",
         "value": "The_Well_of_Souls",
-        "desc": "WorldAreas",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -36669,6 +37203,12 @@
         "label": "Thundrous Devotion",
         "value": "Thundrous_Devotion",
         "desc": "Timeless Jewel",
+        "class": ""
+    },
+    {
+        "label": "Tidal Omens",
+        "value": "Tidal_Omens",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -36966,6 +37506,12 @@
         "class": ""
     },
     {
+        "label": "Tradition's Toll",
+        "value": "Traditions_Toll",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Trail of Caltrops",
         "value": "Trail_of_Caltrops",
         "desc": "Skill Gems",
@@ -37092,6 +37638,12 @@
         "class": ""
     },
     {
+        "label": "Trarthan Gladiator",
+        "value": "Trarthan_Gladiator",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Travel",
         "value": "Travel",
         "desc": "Gem Tags",
@@ -37116,6 +37668,12 @@
         "class": ""
     },
     {
+        "label": "Treacherous Ground",
+        "value": "Treacherous_Ground",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Treasure Coves",
         "value": "Treasure_Coves",
         "desc": "Passive",
@@ -37125,6 +37683,12 @@
         "label": "Treasured Blade",
         "value": "Treasured_Blade",
         "desc": "One Hand Swords",
+        "class": ""
+    },
+    {
+        "label": "Treasures of Utzaal",
+        "value": "Treasures_of_Utzaal",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -37176,6 +37740,12 @@
         "class": ""
     },
     {
+        "label": "Trial of the Ancestors",
+        "value": "Trial_of_the_Ancestors",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Trial of the Sekhema Keys",
         "value": "Trial_of_the_Sekhema_Keys",
         "desc": "Keywords",
@@ -37185,6 +37755,12 @@
         "label": "Trial of the Sekhemas",
         "value": "Trial_of_the_Sekhemas",
         "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "Trialmaster's Challenge",
+        "value": "Trialmasters_Challenge",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -37203,6 +37779,18 @@
         "label": "Tribal Mask",
         "value": "Tribal_Mask",
         "desc": "Helmets",
+        "class": ""
+    },
+    {
+        "label": "Tribal Medicine",
+        "value": "Tribal_Medicine",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
+        "label": "Tribal Vengeance",
+        "value": "Tribal_Vengeance",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -38136,6 +38724,12 @@
         "class": ""
     },
     {
+        "label": "Utopia",
+        "value": "Utopia",
+        "desc": "Quest",
+        "class": ""
+    },
+    {
         "label": "Utzaal Cuirass",
         "value": "Utzaal_Cuirass",
         "desc": "Body Armours",
@@ -38229,6 +38823,12 @@
         "label": "Vaal Greaves",
         "value": "Vaal_Greaves",
         "desc": "Boots",
+        "class": ""
+    },
+    {
+        "label": "Vaal Incursion",
+        "value": "Vaal_Incursion",
+        "desc": "Quest",
         "class": ""
     },
     {
@@ -39861,6 +40461,12 @@
         "label": "Wetlands",
         "value": "Wetlands",
         "desc": "WorldAreas",
+        "class": ""
+    },
+    {
+        "label": "Whakapanu Island",
+        "value": "Whakapanu_Island",
+        "desc": "Quest",
         "class": ""
     },
     {
